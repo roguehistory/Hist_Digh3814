@@ -1,0 +1,43 @@
+logo = true
+logoText = "HIST3000|CLCV3000"
+logoType = "short" # long, short
+description = "Fall 2020 Edition @Carleton U."
+
+themeOptions = ["light", "dark"]
+
+useFaviconGenerator = true # https://www.favicon-generator.org/
+
+enableTocSwitch = true
+enableLandingBackground = true
+enableSearch = true
+enableSearchHighlight = true
+enableLangChange = false
+enableDarkMode = true
+enableBreadcrumb = false
+enableBlogBreadcrumb = true
+enableEditBtn = false
+enableToc = true
+enableMenu = true
+enableNavbar = true
+enableFooter = true
+showPoweredBy = true
+
+tocLevels = ["h2", "h3", "h4"]
+paginateWindow = 1
+taxoPaginate = 13
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+
+github = "https://github.com/shawngraham/hist3000"
+
+
+#whoami
+enableWhoami = true
+myname = "Dr. Shawn Graham"
+email = "shawn.graham@carleton.ca"
+whoami = "Associate Professor"
+biImageUrl = "https://carleton.ca/history/wp-content/uploads/Shawn-Graham-600x800-200x200.jpg"
+
+# comment
+enableComment = false
+disqus_shortname = ""
+commento = false
