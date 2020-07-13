@@ -17,7 +17,7 @@ All work for a given module has to be completed and submitted before the next mo
 Term starts Sept 9; we will take the following Monday as the start of our first week.
 
 ## Module 1 Capturing / Creating
-<p align="center"><iframe id="vp1EK0HF" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319005&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
+<p align="center"><iframe id="vp1EK0HF" title="Video Player" width="480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319005&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 [Week 1, Sept 14](/week/1/instructions)
 
@@ -29,13 +29,13 @@ Term starts Sept 9; we will take the following Monday as the start of our first 
 
 ## Module 2 Considering / Critiquing
 
-<p align="center"><iframe id="vp1dKyin" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319028&f=dKyinzRRGGSKAfLkkhPFKA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
+<p align="center"><iframe id="vp1dKyin" title="Video Player" width="480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319028&f=dKyinzRRGGSKAfLkkhPFKA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 October 12th: Thanksgiving
 
 [Week 5, Oct 13](/week/5/instructions)
 
-[Week 6, Oct 19](/week/6/instructions) 
+[Week 6, Oct 19](/week/6/instructions)
 
 October 26th - 30th Reading Week
 
@@ -45,7 +45,7 @@ October 26th - 30th Reading Week
 
 ## Module 3 Communicating
 
-<p align="center"><iframe id="vp1tnjC6" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319085&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
+<p align="center"><iframe id="vp1tnjC6" title="Video Player" width="480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594319085&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 [Week 9, Nov 16](/week/9/instructions)
 

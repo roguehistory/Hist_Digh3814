@@ -5,12 +5,9 @@ date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -4
 ---
-<iframe id="vp1tnjC6" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594154306&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
+<p align="center"><iframe id="vp1tnjC6" title="Video Player" width="480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594154306&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 ## Communicating Digital Archaeology
-
-### Goals for this week
-+  ## Getting our feet wet
 
 ### Goals for this week
 

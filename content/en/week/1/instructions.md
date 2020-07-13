@@ -8,7 +8,7 @@ author: "Shawn Graham"
 ---
 ## Getting Started
 
-<iframe id="vp1EK0HF" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
+<p align="center"><iframe id="vp1EK0HF" title="Video Player" width = "480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 ### Goals for this week
 
