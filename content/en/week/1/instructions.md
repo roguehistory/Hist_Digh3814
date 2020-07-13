@@ -1,36 +1,36 @@
 ---
-title: "Instructions: Sept 14"
-description: "Getting Our Feet Wet"
+title: "Module 1 Capturing/Creating"
+description: "Getting Started"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-weight: -5
+weight: -12
 author: "Shawn Graham"
 ---
-<iframe id="vp1EK0HF" title="Video Player" width="360" height="360" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
+## Getting Started
 
-## Getting our feet wet
+<iframe id="vp1EK0HF" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
 
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
-
+- getting our Github accounts set up and making our first log entries
+- getting Hypothes.is set up
+- getting Zotero installed
+- getting a sense of what digital archaeology is; also, 'failing gloriously'
 
 ### Listen
 
 [Feed for the podcast here.]()
 
-
-
 ### Read
 
-+ TODO
-+ TODO
-+ TODO
++ An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
++ Cook, Katherine, and Beth. Compton. Canadian Digital Archaeology: On Boundaries and Futures. Invited submission for special anniversary issue of Canadian Journal of Archaeology 42: 38-45.[link](https://d1wqtxts1xzle7.cloudfront.net/57303749/42-38-45.pdf?1536104047=&response-content-disposition=inline%3B+filename%3DCanadian_Digital_Archaeology_On_Boundari.pdf&Expires=1594407597&Signature=Fv98Nz0HNbmN6HQBAm4IV0KdUiBmydaPmluuOErGaWZEIapZo0dlx1IOgETfXH2Yog0tMlrPu4Bgf5x1S9VW4fAmx5joFzJeBNpgOKdF0KOiu-MEpMbsirRc-X50LUctHlEeyOGeg1lNaZpLfYNjoYgyW7U7~LFmKrxkTVh2CG~fKmWESHutuowjV4gAYq7IJlkJ7xlq6dD2BnHMdha-agWPVequ3iBa5vEHAufChvRep7ZYH2XOBS215YmAF8MuN4RZI7EsaBtYL8Uk6915BMvnYn284S-4N9zwxWEpuIJdVnbsc39wJ~tr4uosBrTy1A3bB57kT0EGuVCwy-Rf5A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA )
++ Cook, Katherine. 2019. EmoboDIYing Disruption: Queer, Feminist & Inclusive Digital Archaeologies. European Journal of Archaeology 22 (Special Issue 3 Digital Archaeologies): 398-414.  DOI: [https://doi.org/10.1017/eaa.2019.23 ](https://doi.org/10.1017/eaa.2019.23 )
++ Bollwerk, Elizabeth. 2015. Co-Creation’s Role in Digital Public Archaeology. Advances in Archaeological Practice 3.3, 223-234  https://doi.org/10.7183/2326-3768.3.3.223
 
-Annotate anything interesting you find with Hypothes.is in our group, keeping in mind what you've already heard/read. Share anything interesting you've found in our social space. A handy getting-started approach to annotation is to think of the three W's: the weird, the wonderful, the worrying. Also add anything you read or anything interesting you find to your Zotero library.
+Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
+
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
 
 
 ### Do
@@ -45,12 +45,12 @@ Annotate anything interesting you find with Hypothes.is in our group, keeping in
 
 ### Record and Reflect
 
-1. TODO
+1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your private week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
 
-2. TODO
+2. In a new text document, jot down some reflections -narrative, or bullet points, both are fine. Call it ‘journal.md’ This document also goes into your private week one repo on github. Detail any issues you had with getting started, any parts that caused you difficulty. If you got any error messages while trying to get set up, copy those into your reflection; google them. Do you find any websites that help you? What kind of ‘failures’ might you have encountered this week?
 
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+Drawing on your annotations of what you’ve read (and/or your notes from what you’ve listened to), discuss your idea of what ‘digital archaeology' might be prior to starting this course, and think through whether any of the materials we’ve seen this week confirm or upset those notions. What kind of archaeology have you encountered so far at Carleton, if at all? Where do you want to go, with digital archaeology?
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can submit the link to your private repository on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

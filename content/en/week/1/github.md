@@ -56,7 +56,7 @@ I might sometimes fork your work, pull it down onto my machine, make changes tha
 
 ---
 
-6. Give it a reasonable name; tick the 'initialize with a readme' box, and hit the green commit button:
+6. Give it a reasonable name; tick the 'initialize with a readme' box, tick off the 'private' box, and hit the green commit button:
 
 ![new repo settings](/images/github/github-new-repo-settings.png)
 
@@ -80,12 +80,20 @@ Once you've done that, you'll be at your Github user page:
 
 ---
 
+Add me as a collaborator to this and subsequent private repositories:
+
+![manage access](/images/add-user-to-private-repo-1.png)
+
+![add collaborator](/images/add-collaborator-to-private-repo-2.png)
+
+![add shawngraham](/images/add-username-private-repo.png)
+
 ### Setting up a 'repository' for your work
 
 A 'repository' is just a folder that you've shared on Github. There are two ways to do this; the easy way and the more complex way. Luck you, you have _already_ done the easy way - you selected the `initialize with a readme`, and it's already present in your browser!
 
 {{< alert theme="info" >}}
-To create new repositories, just click on the `+` button on the top right of your Github page when you're logged in. You might want to go ahead now and create repositories for week 2 through to week 6. Remember to tick off the `initialize with a readme` box.
+To create new repositories, just click on the `+` button on the top right of your Github page when you're logged in. You might want to go ahead now and create repositories for week 2 through to week 12. Remember to tick off the `initialize with a readme` box. Remember to make them private.
 {{< /alert >}}
 
 But if you didn't tick the initialize box, you've embarked on the more complex way. In the screenshot below, I created a new repository but I forgot to initialize it, and now I'm looking at this page:

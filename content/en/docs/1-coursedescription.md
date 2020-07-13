@@ -6,7 +6,7 @@ draft: false
 weight: 1
 ---
 
-<p align="center"><iframe id="vp13uXZV" title="Video Player" width="432" height="243" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594140721&f=3uXZV9iQlV0efWrX3frFMA&d=0&m=p&r=360p+480p+720p&volume=100&start_res=720p&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
+<p align="center"><iframe id="vp13uXZV" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594140721&f=3uXZV9iQlV0efWrX3frFMA&d=0&m=p&r=360p+480p+720p&volume=100&start_res=720p&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 ### HIST3000|CLCV3000 Fall 2020 Department of History, Carleton University
 
@@ -39,9 +39,9 @@ It's going to be uncomfortable. Not only that, this is the first iteration of th
 ## Text/Tech
 To the best of my ability, all materials will either be open access materials on the web or materials made available to us through MacOdrum Library or the University. You will not be required to purchase any set text or software.
 
-We will be using elements of the Open Digital Archaeology Textbook Environment https://o-date.github.io ; we may in fact re-write parts of it as a result of our work, in which case you will be credited as a co-author.
+We will be using elements of the Open Digital Archaeology Textbook Environment https://o-date.github.io; we may in fact re-write parts of it as a result of our work, in which case you will be credited as a co-author.
 
 Having a reasonably up-to-date computer will make life easier for you; if you use a chromebook or a low-powered laptop (eg, less than 8 gb of RAM), this will require us to think creatively about some of the work, but should not present an insurmountable obstacle. A good internet connection will make life easier, but I realize that not everyone is well-served by our tech oligopolies. **Please let me know if these situations apply to you** so that we can work out a suitable plan of action.
 
 ## Class format
-This class will be delivered online, asynchronously. A Discord server will be used to provide a social context to our work, for help, and for collaboration. Learning materials will be curated on this open course website, and might include a variety of modalities. There will be no required synchronous chats or lectures. Students will maintain course research notebooks on the web (which may be anonymous or pseudonymous or made private provided access is shared with me).
+This class will be delivered online, asynchronously. A Discord server will be used to provide a social context to our work, for help, and for collaboration. Learning materials will be curated on this open course website, and might include a variety of modalities. **There will be no required synchronous chats or lectures.** Students will maintain course research notebooks on the web (which may be anonymous or pseudonymous or made private provided access is shared with me).

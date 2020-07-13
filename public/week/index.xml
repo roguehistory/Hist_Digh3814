@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>Weekly Tasks on HIST3814o</title>
+    <title>Weekly Tasks on HIST3000|CLCV3000</title>
     <link>https://hist3000.netlify.app/week/</link>
-    <description>Recent content in Weekly Tasks on HIST3814o</description>
+    <description>Recent content in Weekly Tasks on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
@@ -17,26 +17,16 @@
     
       
       <item>
-        <title>Week 12: Wrapping Up</title>
-        <link>https://hist3000.netlify.app/week/12-5/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/12-5/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 1: Sept 14</title>
+        <title>01. Sept 14</title>
         <link>https://hist3000.netlify.app/week/1/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/1/</guid>
-        <description>Goals for this week   Getting our feet wet   Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
-Read  TODO TODO TODO  Annotate anything interesting you find with Hypothes.is in our group, keeping in mind what you&amp;rsquo;ve already heard/read. Share anything interesting you&amp;rsquo;ve found in our social space. A handy getting-started approach to annotation is to think of the three W&amp;rsquo;s: the weird, the wonderful, the worrying.</description>
+        <description></description>
       </item>
       
       <item>
-        <title>Week 2: Sept 21</title>
+        <title>02. Sept 21</title>
         <link>https://hist3000.netlify.app/week/2/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -45,7 +35,7 @@ Read  TODO TODO TODO  Annotate anything interesting you find with Hypothes.is in
       </item>
       
       <item>
-        <title>Week 3: Sept 28</title>
+        <title>03.Sept 28</title>
         <link>https://hist3000.netlify.app/week/3/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -54,34 +44,7 @@ Read  TODO TODO TODO  Annotate anything interesting you find with Hypothes.is in
       </item>
       
       <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/10/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/10/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/11/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/11/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/12/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/12/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 4: Oct 5</title>
+        <title>04. Oct 5</title>
         <link>https://hist3000.netlify.app/week/4/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -90,34 +53,7 @@ Read  TODO TODO TODO  Annotate anything interesting you find with Hypothes.is in
       </item>
       
       <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/7/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/7/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/8/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/8/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 4: Oct 5</title>
-        <link>https://hist3000.netlify.app/week/9/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/9/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Week 5: Oct 13</title>
+        <title>05. Oct 13</title>
         <link>https://hist3000.netlify.app/week/5/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
@@ -126,11 +62,74 @@ Read  TODO TODO TODO  Annotate anything interesting you find with Hypothes.is in
       </item>
       
       <item>
-        <title>Week 6: Oct 19</title>
+        <title>06. Oct 19</title>
         <link>https://hist3000.netlify.app/week/6/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/6/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>07. Oct 5</title>
+        <link>https://hist3000.netlify.app/week/7/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>08. Nov 9</title>
+        <link>https://hist3000.netlify.app/week/8/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/8/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>09. Nov 16</title>
+        <link>https://hist3000.netlify.app/week/9/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>10. Nov 23</title>
+        <link>https://hist3000.netlify.app/week/10/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/10/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>11. Nov 30</title>
+        <link>https://hist3000.netlify.app/week/11/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/11/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>12. Dec 7</title>
+        <link>https://hist3000.netlify.app/week/12/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/12/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Wk 13. Wrapping Up</title>
+        <link>https://hist3000.netlify.app/week/12-5/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/12-5/</guid>
         <description></description>
       </item>
       

@@ -1,5 +1,5 @@
 ---
-title: "Week 12: Wrapping Up"
+title: "Wk 13. Wrapping Up"
 description: "What You Need to Do"
 date: 2020-01-28T00:10:51+09:00
 draft: false

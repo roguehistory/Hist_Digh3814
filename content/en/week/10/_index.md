@@ -1,6 +1,6 @@
 ---
-title: "Week 4: Oct 5"
-description: "Of Macroscopes and Microscopes"
+title: "10. Nov 23"
+description: "Communities"
 date: 2020-01-28T00:10:51+09:00
 draft: false
 author: "Shawn Graham"

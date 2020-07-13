@@ -15,29 +15,36 @@ There is no midterm. There is no final exam.
 
 Therefore, I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
 
-+ logs that keep track of what you actually _tried_
++ logs/lab notebook entry that keep track of what you actually _did_
 + reflection on that _process_
 + engagement with the materials and your classmates (which might be demonstrated many different ways)
-+ evidence for your growth as a historian over this course
++ evidence for your growth as a scholar over this course
 
-At the end of each week, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider, by Sunday evening.
+At the end of each week **by Sunday evening**, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider.
 
-I will return feedback to you within two or three days. I will write you a note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. Your weekly work will be assessed as 'satisfactory' or 'unsatisfactory'.
+I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
 
-This feedback will also be mapped against the learning outcomes, so that you know how you are progressing throughout the course.
+Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents.
+
++ Module 1 consolidation document: **due at the end of week four**; may be submitted in the following week _if you notify me in week four_.
++ Module 2 consolidation document: **due at the end of week eight**; may be submitted in the following week _if you notify me in week eight_.
++ Module 3 consolidation document: **due at the end of week twelve**; may be submitted in the following week _if you notify me in week twelve_.
+
+{{< alert theme="warning" >}}
+**Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Do not do this.
+{{< /alert >}}
 
 ### The Exit Ticket
 
 You will produce an '[exit ticket](week/12-5/instructions/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
-{{< notice success "Important" >}} Your final grade isn't based on getting something 'correct'. It's based on your own assessment of your own journey.
-{{< /notice >}}
+If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
 
- If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
+If I agree with your assessment, then that is the grade you will receive (thus, you have the opportunity to override the percentage breakdowns below).
 
- If I agree with your assessment, then that is the grade you will receive. **When I have disagreed in previous courses** this has been, 9.5 times out of 10, to _raise_ the grade: y'all are too hard on yourselves. If I have disagreed and felt that you've overstated things - if you were the 0.5 out of 10 - we would talk and come to an agreement.
+**When I have disagreed in previous courses** this has been, 9.5 times out of 10, to _raise_ the grade: y'all are too hard on yourselves. If I have disagreed and felt that you've overstated things - if you were the 0.5 out of 10 - we would talk and come to an agreement.
 
- The Exit Ticket should be submitted by the last day of the early summer term. If you should require more time, you need merely to let me know; no questions asked.
+The Exit Ticket should be submitted within one week of the last day of the fall term.
 
 ### Grading
 
@@ -61,7 +68,7 @@ In this example, based on my consideration of Jo Q Student's evidence and the fe
 
 I am required by the University to provide a percentage breakdown.
 
-Weekly work = 80%
-Final Exit ticket = 20%
+Consolidation documents = 75%
+Final Exit ticket = 25%
 
 I reserve the right to adjust those percentages to take into account the particular circumstances of the student.

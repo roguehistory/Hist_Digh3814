@@ -1,13 +1,13 @@
 ---
-title: "Instructions: Oct 5"
-description: "Of Macroscopes and Microscopes"
+title: "Module 3: Communicating"
+description: "Communicating Digital Archaeology"
 date: 2020-01-28T00:10:37+09:00
 draft: false
-weight: -6
+weight: -4
 ---
-<iframe id="vp1tnjC6" title="Video Player" width="360" height="360" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594154306&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
+<iframe id="vp1tnjC6" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594154306&f=tnjC61vmZzLcZXhWQeDTUA&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe>
 
-## Module 3 Begins
+## Communicating Digital Archaeology
 
 ### Goals for this week
 +  ## Getting our feet wet
@@ -28,11 +28,13 @@ weight: -6
 
 ### Read
 
-+ TODO
-+ TODO
-+ TODO
++ ‘The Numbers Don’t Speak for Themselves’ Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein [link](https://bookbook.pubpub.org/pub/6ui5n4vo/release/4)
++ Ben Marwick, Carl Boettiger & Lincoln Mullen. 2018. Packaging Data Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88, [link](10.1080/00031305.2017.1375986)
++ Perry, Sara, Roussou, Maria, Mirashrafi, Sophia S., Katifori, A., and McKinney, Sierra. 2019. Shared digital experiences supporting collaborative meaning-making at heritage sites. In Hannah Lewi, Wally Smith, Dirk vom Lehn, Steven Cooke (eds.), The Routledge International Handbook of New Digital Practices in Galleries, Libraries, Archives, Museums and Heritage Sites. London: Routledge. Pp. 143-156. [link](https://doi.org/10.4324/9780429506765) (pre print at [researchgate](https://www.researchgate.net/publication/330042645_Shared_Digital_Experiences_Supporting_Collaborative_Meaning-Making_at_Heritage_Sites)
 
-Annotate anything interesting you find with Hypothes.is in our group, keeping in mind what you've already heard/read. Share anything interesting you've found in our social space. A handy getting-started approach to annotation is to think of the three W's: the weird, the wonderful, the worrying. Also add anything you read or anything interesting you find to your Zotero library.
+Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
+
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
 
 
 ### Do

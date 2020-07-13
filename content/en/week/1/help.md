@@ -39,21 +39,11 @@ Please do this.
 
 Every term, I receive dozens of emails with the subject line 'help' and the message body 'i tried it and it doesn't work'. Sometimes, the message will also say 'i worked on it for 3 hrs and it doesn't work'.
 
-None of that is helpful. Telling me that you worked on it for 3 hours just shows me that you ignored my messages about 'if it doesn't come after 30 minutes, take a break, ask for help'. So - let's practice right now.
+None of that is helpful. Telling me that you worked on it for 3 hours just shows me that you ignored my messages about 'if it doesn't come after 30 minutes, take a break, ask for help'.
 
-We're going to make a git mistake.
+Collect all of the information together, put it in a file in your repo, and share the link in discord or post the whole thing in the relevant channel.
 
-Here's the situation:
-
-> Imagine that you were working on your repo, wanting to update it from the command line - but you had to go away for a bit. When you come back, you discover your computer has run out of juice and shut down. Plugging it back in, none of your folders are open. You click on what you think is the right one and start to carry on....  
-
-Right-click on any folder on your computer **except the one(s) you created in the github exercise**, and open a command prompt or a terminal there. Imagine I told you to commit your changes, like so: `git commit -m "this is just a test"`.
-
-Do that.
-
-What happened? Write a 'help request', using the guidelines above (and also include the page URL of any tutorial or thing you were trying to follow), with an indication of what you were trying to do, what you expected to happen, and what actually happened, and add it to your repo for this week in its own file. You may also post it in this week's channel in Discord, introducing it with an appropriate title (eg, 'Demo Help Request'). Feel free to respond to a request with eg 'Demo Help Response'.
-
-When you have an *actual* help request, you can collect all of the information together, put it in a file in your repo, and share the link in discord or post the whole thing in the relevant channel.
+**Please, PLEASE, don't just post something that says, 'it didn't work' and then leave it at that.** What's 'it'? What were you expecting to happen? What did you try? Show me...
 
 ### Answering questions
 
@@ -66,3 +56,5 @@ Sometimes, you will see questions that you can answer. A few guidelines for answ
 3. Use screenshots and screenvideo (I find [screencastomatic](https://screencast-o-matic.com/) handy in this regard) to show how things worked for you.
 4. Provide links to useful relevant material if you know of it.
 5. Assume the best of everyone: not everyone has the same fluency with these machines, and it takes a while to learn the language.
+
+**Answering the questions of your peers, helping them out, is an excellent way to meet one of the course outcomes.**

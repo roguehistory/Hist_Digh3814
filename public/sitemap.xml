@@ -3,41 +3,6 @@
   xmlns:xhtml="https://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hist3000.netlify.app/week/10/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/11/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/12/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/4/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/7/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/8/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/9/instructions/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hist3000.netlify.app/week/1/instructions/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
@@ -53,18 +18,13 @@
   </url>
   
   <url>
+    <loc>https://hist3000.netlify.app/week/4/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hist3000.netlify.app/week/5/instructions/</loc>
     <lastmod>2020-01-28T00:10:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/1/github/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/1/hypothesis/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
   <url>
@@ -73,13 +33,53 @@
   </url>
   
   <url>
+    <loc>https://hist3000.netlify.app/week/7/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/8/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/1/github/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/9/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/1/hypothesis/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/10/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hist3000.netlify.app/week/1/zotero/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://hist3000.netlify.app/week/11/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hist3000.netlify.app/week/1/discord/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/12/instructions/</loc>
+    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
   </url>
   
   <url>
@@ -133,16 +133,6 @@
   </url>
   
   <url>
-    <loc>https://hist3000.netlify.app/week/1/help/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/12-5/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hist3000.netlify.app/week/1/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
@@ -158,22 +148,17 @@
   </url>
   
   <url>
-    <loc>https://hist3000.netlify.app/week/10/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/11/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hist3000.netlify.app/week/12/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hist3000.netlify.app/week/4/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/5/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/6/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
@@ -193,12 +178,27 @@
   </url>
   
   <url>
-    <loc>https://hist3000.netlify.app/week/5/</loc>
+    <loc>https://hist3000.netlify.app/week/10/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hist3000.netlify.app/week/6/</loc>
+    <loc>https://hist3000.netlify.app/week/11/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/12/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/1/help/</loc>
+    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hist3000.netlify.app/week/12-5/</loc>
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
   </url>
   

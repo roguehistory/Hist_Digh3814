@@ -1,14 +1,11 @@
 ---
-title: "Instructions: Oct 5"
-description: "Of Macroscopes and Microscopes"
+title: "M2 Wk7: Instructions"
+description: "Futures of Digital Archaeology"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -6
 ---
-## Of Macroscopes and Microscopes
-
-### Goals for this week
-+  ## Getting our feet wet
+## Futures of Digital Archaeology
 
 ### Goals for this week
 
@@ -26,12 +23,14 @@ weight: -6
 
 ### Read
 
-+ TODO
-+ TODO
-+ TODO
++ Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. [link](https://doi.org/10.11141/ia.44.7)
+Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen [link](http://dx.doi.org/10.22215/epoiesen/2019.4) AND RESPONSE by Rachel Opitz [link](https://epoiesen.library.carleton.ca/2019/07/26/messy-assemblages-response1/)
++ Morgan, Colleen. 2019. Avatars, Monsters, and Machines: A Cyborg Archaeology. European Journal of Archaeology 22.3, 324-337 [link](https://doi.org/10.1017/eaa.2019.22)
++ Kersel, Morag. 2016. Living a Semi-digital Kinda Life in Erin Walcek Averett, Jody Michael Gordon, and Derek B. Counts (eds) Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology. Grand Forks: The Digital Press at the University of North Dakota. pp. 475-492. [link](https://digitalpressatund.files.wordpress.com/2016/09/5_1_kersel.pdf)
 
-Annotate anything interesting you find with Hypothes.is in our group, keeping in mind what you've already heard/read. Share anything interesting you've found in our social space. A handy getting-started approach to annotation is to think of the three W's: the weird, the wonderful, the worrying. Also add anything you read or anything interesting you find to your Zotero library.
+Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
 
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
 
 ### Do
 

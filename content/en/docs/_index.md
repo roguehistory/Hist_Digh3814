@@ -5,7 +5,7 @@ date: 2020-01-11T14:09:21+09:00
 draft: false
 ---
 
-HIST3814o,
+HIST3000
 Dr. Shawn Graham
 
 <a href="https://twitter.com/electricarchaeo">on twitter as 'electricarchaeo'</a>
