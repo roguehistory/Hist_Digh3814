@@ -10,10 +10,15 @@ There is no midterm. There is no final exam.
 {{< /notice >}}
 ### Weekly Work
 
+Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level.
+
+Weekly work must be completed and logged by the end of the relevant week. Dr Graham will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Dr. Graham.
+
+If you miss a week, or something comes up let Dr. Graham know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
 
 ### Evidence
 
-Therefore, I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
+I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
 
 + logs/lab notebook entry that keep track of what you actually _did_
 + reflection on that _process_

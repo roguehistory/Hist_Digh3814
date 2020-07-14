@@ -7,7 +7,7 @@ weight: 2
 ---
 ### Questions
 
-I developed this course with a couple of questions in mind, things I wanted to know the answers to. Digital archaeology - what the hell is it, anyway? What is it for? Is it just a 'follower', repurposing other tools & techniques, a supporting skill for 'real' archaeology? Let's set ourselves some grand challenges.
+I developed this course with a couple of questions in mind, things I wanted to know the answers to. Digital archaeology - what the hell is it, anyway? What is it for? Is it just a 'follower', repurposing other tools & techniques, a supporting skill for 'real' archaeology? Let's set ourselves a grand challenges: what can digital archaeology be?
 
 _This course is a formalized exploration of these questions; I do not know the answers! I'm excited to figure these out with you._
 
