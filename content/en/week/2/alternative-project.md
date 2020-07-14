@@ -10,6 +10,10 @@ author: "Shawn Graham"
 Annotate this page with hypothesis while being logged into our course reading group with connections to other things you've read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation.
 {{< /alert >}}
 
+It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course. If this is you, please just send me a note saying that you'll be doing the alternative. I don't need a reason why; I can imagine several different scenarios where an alternative might be necessary, so we'll roll with it.
+
+The alternatives I've crafted below might cause us hiccups and roadblocks or other unforseen difficulties. **That's OK**. No archaeological project ever goes off perfectly without a hitch. Adapting and working through the consequences is part of the point.
+
 ### Virtual Worlds
 
 Humans have made virtual worlds since time immemorial (see, for instance, [Lascaux](https://archeologie.culture.fr/lascaux/en)). Hadrian's Villa at Tivoli was a virtual world. Disney World is a virtual world. _Online is a virtual world but it's still the real world_.
