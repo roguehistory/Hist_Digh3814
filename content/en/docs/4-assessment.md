@@ -16,7 +16,7 @@ Weekly work must be completed and logged by the end of the relevant week. Dr Gra
 
 If you miss a week, or something comes up let Dr. Graham know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
 
-### Evidence
+### Evidence for Your Weekly Logs
 
 I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
 
@@ -28,6 +28,8 @@ I am looking for the following kinds of evidence (each [week](/week) will specif
 At the end of each week **by Sunday evening**, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider.
 
 I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
+
+### Consolidation Weeks
 
 Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents.
 
