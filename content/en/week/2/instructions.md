@@ -35,6 +35,7 @@ This week and next you will head out into your local community to map a historic
 - Follow [these instructions on working safely](/week/2/safework.md)
 - Make a sketch map of the graveyard [following these suggestions](/week/2/sketchmap.md); you'll turn this into a digital map next week
 - Begin recording using the [kobotoolbox forms](/week/2/kobotoolbox.md)
+- There is an [alternative project](/week/2/alternative-project.md) if it is not feasible to go out into your community
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

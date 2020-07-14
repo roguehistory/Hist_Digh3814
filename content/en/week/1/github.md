@@ -80,14 +80,14 @@ Once you've done that, you'll be at your Github user page:
 
 ---
 
-Add me as a collaborator to this and subsequent private repositories:
+8. Add me as a collaborator to this and subsequent private repositories:
 
 ![manage access](/images/github/add-user-to-private-repo-1.png)
 
-Then, once you've clicked on 'manage access', click on 'invite collaborator',
+9. Then, once you've clicked on 'manage access', click on 'invite collaborator',
 ![add collaborator](/images/github/add-collaborator-to-private-repo-2.png)
 
-Then find my username `shawngraham`, and add me:
+10. Then find my username `shawngraham`, and add me:
 ![add shawngraham](/images/github/add-username-private-repo.png)
 
 ### Setting up a 'repository' for your work
