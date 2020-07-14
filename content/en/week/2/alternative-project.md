@@ -31,7 +31,7 @@ In essence, the only difference between the 'main' project and these two alterna
 
 ## The Findagrave.com Grave Project
 
-Here, I want you to use [findagrave.com](https://findagrave.com) to locate historical graveyards near you. I want you to work from the photographs of stones.
+Here, I want you to use [findagrave.com](https://findagrave.com) to locate historical graveyards near you. Find some, and save the photographs to your own machine (right-click on a photo, 'save as'). I want you to work from the photographs of stones and [record them in our system](/week/2/do-the-project). In this way, we bring the site to you.
 
 ## The Archaeogaming Grave Project
 
@@ -42,3 +42,5 @@ Here, I want you to select a game that you know well that includes within it gra
 **_But, but... games aren't real worlds! What good would it be to study memorialization in there?_**
 
 Virtual worlds are still human worlds, and the way death is memorialized in there might also provide us insight to how we construct death _out here_. Archaeology isn't just about the past, remember. We spend a great deal of our waking hours in these virtual worlds. Perhaps studying memorialization in-world will give us insight into memorializations of the future? Perhaps it might tell us about how people form social relationships in-world? Let's find out.
+
+Go into the game, and take screenshots. Then, working from your screenshots, [record them in our system](/week/2/do-the-project).
