@@ -15,6 +15,8 @@ You will receive an invitation email in your Carleton account. It expires after 
 
 Once you're in, there's a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you've read the message. This will unlock the various channels in the server, including voice and screensharing.
 
+And yes, I recycled screenshots from my Crafting Digital History course, but the Digital Archaeology version is more or less the same and hey, I built this course website by hand.
+
 ![welcome-message](/images/discord/first-welcome-message.png)
 ![click-the-reaction](/images/discord/click-here.png)
 (Alex is a student who works for me on [the bone trade project](http://bonetrade.github.io) if you were wondering.)
