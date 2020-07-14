@@ -10,8 +10,8 @@ weight: -11
 ### Goals for this week
 
 - Find a local historic graveyard (current graveyard is OK)
-- Begin recording at least 10 gravestones
-- Create a digital map of the site
+- Begin recording some gravestones
+- Create a rough map of the site
 
 ### Listen
 
@@ -38,8 +38,7 @@ This week and next you will head out into your local community to map a historic
 - Begin recording using the [kobotoolbox forms](/week/2/do-the-project)
 - There is an [alternative project](/week/2/alternative-project) if it is not feasible to go out into your community
 
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
-{{< /notice >}}
+Talk to each other. For instance, you might want to share photos of what you're doing in the Discord server to ask others what they think of a particular grave monument, how they might code it in our system. I am not trying to catch-you-out, so it is ok to admit that you're not entirely sure about something: archaeology is social. We're all on the same team. 
 
 ### Record and Reflect
 

@@ -3,7 +3,7 @@ title: "Working Safely"
 description: "instructions"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-weight: -5
+weight: -6
 author: "Shawn Graham"
 ---
 {{< alert theme="info" >}}
@@ -47,8 +47,8 @@ If you can't find the owner (or if permission isn't implied, as in the case of t
 
 ### Conducting the Survey Itself
 
-For instructions on how to conduct the survey itself, please begin by [sketching the plan of the graveyard](/week/2/sketchmap.md), and then [how to record the graves](/week/2/kobotoolbox.md)
+For instructions on how to conduct the survey itself, please begin by [sketching the plan of the graveyard](/week/2/sketchmap.md), and then [how to record the graves](/week/2/do-the-project)
 
 ### Safety Online in the Case of Virtual Sites  
 
-If you do the [alternative project](/week2/alternative-project) and the site you select features opportunities for online interactions, please take care; if it's possible, create a character or use an account unrelated to your other online activities. Don't engage with other players: ideally you want to be an observer in the space, rather than an active participant. 
+If you do the [alternative project](/week2/alternative-project) and the site you select features opportunities for online interactions, please take care; if it's possible, create a character or use an account unrelated to your other online activities. Don't engage with other players: ideally you want to be an observer in the space, rather than an active participant.
