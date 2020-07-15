@@ -11,17 +11,13 @@ weight: -8
 
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
-
+- recognize the strengths and weaknesses of our graveyard coding scheme
+- uncover the ways in which 'counting' hides or highlights the past
+- encounter CSVs, SQL, and R and how to do some basic statistics
 
 ### Listen
 
 [Feed for the podcast here.]()
-
-
 
 ### Read
 
@@ -35,19 +31,39 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-- to do
+_I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
 
+- modify the existing scheme or suggest a new category that would address one of the shortcomings you identified in last week's Consolidation doc. You can use a wide variety of software to achieve this, but perhaps the simplest would be to open the code sheet pdf, take a screenshot, and then annotate it with your machine's drawing tools. Embed this in a .md file in your repository, with whatever explanatory info you need.
+- Launch this [basic statistics in R on archaeological data binder](#) and work through it. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting 'run'):
+
+![run a cell](/images/notebooks/notebook1.png)
+
+![cell is running](/images/notebooks/notebook2.png)
+
+You can open other notebooks, download them or their output by clicking on the `jupyter` logo to open the file explorer:
+
+![click on logo](/images/notebooks/notebooks3.png)
+
+![select](/images/notebooks/notebooks4.png)
+
+Save your work, then download it to your computer (as an .ipynb file) so that you can put it in your repository for this week.
+
+- In the Open Digital Archaeology Textbook Environment, [look at section 2.4 on databases](https://o-date.github.io/draft/book/arranging-and-storing-data-for-the-long-haul-databases.html); then [start up the binder](https://mybinder.org/v2/gh/o-date/sqlite/master?filepath=intro%20to%20sql.ipynb).
+
+  + I want you to work through this notebook (`intro to sql.ipynb`).
+
+  - Redo the `intro to sql.ipynb` but this time, switch out the datasource from the amphitheatres to [our graveyard project database](#).
+
+  - Try the `SQLite Database and R.ipynb`, and then the `visualizing results of sql query in python.ipynb`, both with the original data and with our graveyard project data. (You can get to these by clicking on the Jupyter logo at the top of the binder webpage.)
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
 
 ### Record and Reflect
 
-1. TODO
+1. Log your process in your private github repository.
 
-2. TODO
-
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the space between the action of counting, and the reality of the things that have been counted. In what ways does the coding scheme from [DEBS](https://debs.ac.uk) miss, elide, or highlight memorialization practice in Canadian graveyards? If you were able to get our data into a notebook and begin examining it, what patterns emerge and what do they suggest (given what you've read this week)?
 
 ### Submit Work
 
