@@ -15,6 +15,7 @@
 # set up, grab the packages you need
 install.packages("archdata")
 library(archdata)
+library(RcmdrMisc)
 
 # To find out the different kinds of data in archdata and where the data come from, run the following
 ??archdata
@@ -43,6 +44,13 @@ mean(DartPoints[,"Length"])
 
 # You can calculate each descriptive statistic one at a time, or you can get R to give you:
 summary(DartPoints$Length)
+
+# So let's indicate the number of significant digits we want (places after the decimal) and then
+# get R to give us a summary for *all* the columns, from the 5th position to the 11th:
+options(digits=3)
+numSummary(DartPoints[, 5:11])
+
+# What happens if you try to include columns 1 to 4?
 
 # How many points are there for each type of point? The type is in the 'Name' column.
 # We make a new variable called DP_Type, and it gets the results of the command
