@@ -48,6 +48,37 @@ Read  Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social
       </item>
       
       <item>
+        <title>Module 2: Considering/Critiquing</title>
+        <link>https://hist3000.netlify.app/week/5/instructions/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/instructions/</guid>
+        <description>What Gets Counted, Counts 
+Goals for this week  recognize the strengths and weaknesses of our graveyard coding scheme uncover the ways in which &amp;lsquo;counting&amp;rsquo; hides or highlights the past encounter CSVs, SQL, and R and how to do some basic statistics  Listen Feed for the podcast here.
+Read  ‘What gets counted, counts’. Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein link Labrador, Angela. 2012.</description>
+      </item>
+      
+      <item>
+        <title>Basic R Stats</title>
+        <link>https://hist3000.netlify.app/week/5/basic-r-stats/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/basic-r-stats/</guid>
+        <description>R is a programming language for statistics that is used frequently by archaeologists (the other popular option is Python). One of the advantages of scripting or writing out your analysis as a sequence of commands is that anyone can look at your code and understand what you did and why it worked.
+  Launch a virtual computer running RStudio in your browser by right-clicking on this link
+  The interface for RStudio looks like this:</description>
+      </item>
+      
+      <item>
+        <title>Databases</title>
+        <link>https://hist3000.netlify.app/week/5/databases/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/databases/</guid>
+        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting &amp;lsquo;run&amp;rsquo;):</description>
+      </item>
+      
+      <item>
         <title>Photogrammetry</title>
         <link>https://hist3000.netlify.app/week/3/photogrammetry/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
@@ -73,17 +104,6 @@ Do  Create a short consolidation document that reflects on this first module and
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/rationale/</guid>
         <description>Annotate this page with hypothesis while being logged into our course reading group with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. Introduction I wanted you to have some experience of collecting data, and of how data models (or our expectations of what we&amp;rsquo;ll find) influence the subsequent work that we can do with the information that we collect.</description>
-      </item>
-      
-      <item>
-        <title>Module 2: Considering/Critiquing</title>
-        <link>https://hist3000.netlify.app/week/5/instructions/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/5/instructions/</guid>
-        <description>What Gets Counted, Counts 
-Goals for this week  recognize the strengths and weaknesses of our graveyard coding scheme uncover the ways in which &amp;lsquo;counting&amp;rsquo; hides or highlights the past encounter CSVs, SQL, and R and how to do some basic statistics  Listen Feed for the podcast here.
-Read  ‘What gets counted, counts’. Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein link Labrador, Angela. 2012.</description>
       </item>
       
       <item>

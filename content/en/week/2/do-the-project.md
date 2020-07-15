@@ -24,6 +24,8 @@ Be sure to read the [instructions on working safely](/week/2/safework).
 
 You do not have to do this on your own; if Covid restrictions allow, and you know someone else in the class who lives close to you, then by all means work together. Ask a family member or other person in your 'bubble' to go along with you.
 
+This project is inspired by the [DEBS: Discovering England's Burial Spaces](http://debs.ac.uk/) project.
+
 ### Instructions
 
 1. Locate a local graveyard - historic or otherwise - and obtain permission to study the stones. A cemetery currently being used is probably the easiest place to work, as people are expected to be present, whereas historic graveyards might be on private land.

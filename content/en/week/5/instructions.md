@@ -3,7 +3,7 @@ title: "Module 2: Considering/Critiquing"
 description: "What Gets Counted, Counts"
 date: 2020-01-28T00:10:09+09:00
 draft: false
-weight: -8
+weight: -10
 ---
 ## What Gets Counted, Counts
 
@@ -34,27 +34,9 @@ A good annotation draws connections between what you've read and other things yo
 _I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
 
 - modify the existing scheme or suggest a new category that would address one of the shortcomings you identified in last week's Consolidation doc. You can use a wide variety of software to achieve this, but perhaps the simplest would be to open the code sheet pdf, take a screenshot, and then annotate it with your machine's drawing tools. Embed this in a .md file in your repository, with whatever explanatory info you need.
-- Launch this [basic statistics in R on archaeological data binder](#) and work through it. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting 'run'):
+- Explore [basic statistics in R on archaeological data](week/5/basic-r-stats) and work through it.
 
-![run a cell](/images/notebooks/notebook1.png)
-
-![cell is running](/images/notebooks/notebook2.png)
-
-You can open other notebooks, download them or their output by clicking on the `jupyter` logo to open the file explorer:
-
-![click on logo](/images/notebooks/notebooks3.png)
-
-![select](/images/notebooks/notebooks4.png)
-
-Save your work, then download it to your computer (as an .ipynb file) so that you can put it in your repository for this week.
-
-- In the Open Digital Archaeology Textbook Environment, [look at section 2.4 on databases](https://o-date.github.io/draft/book/arranging-and-storing-data-for-the-long-haul-databases.html); then [start up the binder](https://mybinder.org/v2/gh/o-date/sqlite/master?filepath=intro%20to%20sql.ipynb).
-
-  + I want you to work through this notebook (`intro to sql.ipynb`).
-
-  - Redo the `intro to sql.ipynb` but this time, switch out the datasource from the amphitheatres to [our graveyard project database](#).
-
-  - Try the `SQLite Database and R.ipynb`, and then the `visualizing results of sql query in python.ipynb`, both with the original data and with our graveyard project data. (You can get to these by clicking on the Jupyter logo at the top of the binder webpage.)
+- Enjoy [a gentle introduction to databases](/week/5/databases).
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

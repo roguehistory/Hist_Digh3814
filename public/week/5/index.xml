@@ -27,6 +27,26 @@ Goals for this week  recognize the strengths and weaknesses of our graveyard cod
 Read  ‘What gets counted, counts’. Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein link Labrador, Angela. 2012.</description>
       </item>
       
+      <item>
+        <title>Basic R Stats</title>
+        <link>https://hist3000.netlify.app/week/5/basic-r-stats/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/basic-r-stats/</guid>
+        <description>R is a programming language for statistics that is used frequently by archaeologists (the other popular option is Python). One of the advantages of scripting or writing out your analysis as a sequence of commands is that anyone can look at your code and understand what you did and why it worked.
+  Launch a virtual computer running RStudio in your browser by right-clicking on this link
+  The interface for RStudio looks like this:</description>
+      </item>
+      
+      <item>
+        <title>Databases</title>
+        <link>https://hist3000.netlify.app/week/5/databases/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/databases/</guid>
+        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting &amp;lsquo;run&amp;rsquo;):</description>
+      </item>
+      
     
   </channel>
 </rss>
