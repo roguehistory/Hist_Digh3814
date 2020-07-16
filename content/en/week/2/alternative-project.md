@@ -7,7 +7,7 @@ weight: -7
 author: "Shawn Graham"
 ---
 {{< alert theme="info" >}}
-Annotate this page with hypothesis while being logged into our course reading group with connections to other things you've read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation.
+Annotate this page with hypothesis (while being logged into our course reading group) with connections to other things you've read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation.
 {{< /alert >}}
 
 It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course. If this is you, please just send me a note saying that you'll be doing the alternative. I don't need a reason why; I can imagine several different scenarios where an alternative might be necessary, so we'll roll with it.
@@ -44,3 +44,7 @@ Here, I want you to select a game that you know well that includes within it gra
 Virtual worlds are still human worlds, and the way death is memorialized in there might also provide us insight to how we construct death _out here_. Archaeology isn't just about the past, remember. We spend a great deal of our waking hours in these virtual worlds. Perhaps studying memorialization in-world will give us insight into memorializations of the future? Perhaps it might tell us about how people form social relationships in-world? Let's find out.
 
 Go into the game, and take screenshots. Then, working from your screenshots, [record them in our system](/week/2/do-the-project).
+
+{{< alert theme="warning" >}}
+Now, as we progress through the course, some of what I might suggest you do won't necessarily be feasible with this particular data. Sometimes it might; it'll just require a bit of creative thinking. **If you venture down this path** know that this is new for all of us, and be flexible accordingly.
+{{< /alert >}}
