@@ -1,6 +1,6 @@
 ---
 title: "M3 Wk10: Instructions"
-description: "Communities"
+description: "Audiences beyond Archaeologists"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -3
@@ -26,10 +26,6 @@ weight: -3
 + Richardson, L.-J., 2019. Using Social Media as a Source for Understanding Public Perceptions of Archaeology: Research Challenges and Methodological Pitfalls. Journal of Computer Applications in Archaeology, 2.1, 151–162.[link](http://doi.org/10.5334/jcaa.39)
 + Hall, Claire. "Mukurtu for mātauranga Māori: A case study in Indigenous archiving for reo and tikanga revitalisation." Language, culture & technology: 189. [link](https://www.waikato.ac.nz/__data/assets/pdf_file/0007/394945/chapter25.pdf)
 + Hodgetts, Lisa and Laura Kelvin Z. 2020. At the Heart of the Ikaahuk Archaeology Project. In Kisha Supernant, Jane Eva Baxter, Natasha Lyons, Sonya Atalay (eds). Archaeologies of the Heart, Springer, Cham, 2020 [link](https://d1wqtxts1xzle7.cloudfront.net/62331014/Arch_of_the_Heart_2020_full_volume20200310-90042-hp4vm0.pdf?1583877426=&response-content-disposition=inline%3B+filename%3DArchaeologies_of_the_Heart.pdf&Expires=1594406138&Signature=F2bEAlsWUvWfv64GK42TOlwRpgNdVhCrIhpToIS6qTyuJmogjaOMml1~6XLWT2RCLwqtUN7iC6oYiXCJyDiswm7yPiExkaQ0mpz70DzeftlQ4MV-ckuSVFx6rLrvd9jpUea0mls9N6BKv-Ii1O8lqWWxf-hw~L0SxOlD1DPR9Vct5uVXEc6HJLtnl5snhV900mVHSjNEVgpVuuEc0MHu-OCNrWtBgKHh9ZpmZreESGBHM-YrXfNZlc2uF3BlFTpK-PALMcU3zIwJLXlyxk0U48NkVU8tQHG4I5ExSiQwFzJIfIyqgErT2Sk58NLVPGY1brHwBpyYMU5WQfLpBQR1Cw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=97)
-
-Two websites to explore:
-+ Archaeology in the Community (US) http://www.archaeologyincommunity.com/
-+ DigVentures (UK) https://digventures.com/
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
 
