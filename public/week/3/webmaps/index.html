@@ -1199,7 +1199,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/2/do-the-project/" class="menu__title " data-depth="0">Record</a>
+          <a href="https://hist3000.netlify.app/week/2/sketchmap/" class="menu__title " data-depth="0">Making a Sketch Map of Your Site</a>
         </li>
       
     
@@ -1207,7 +1207,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/2/sketchmap/" class="menu__title " data-depth="0">Making a Sketch Map of Your Site</a>
+          <a href="https://hist3000.netlify.app/week/2/do-the-project/" class="menu__title " data-depth="0">Record</a>
         </li>
       
     
@@ -1267,7 +1267,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/3/gis/" class="menu__title " data-depth="0">Introduction to GIS</a>
+          <a href="https://hist3000.netlify.app/week/3/spatial-archae/" class="menu__title " data-depth="0">Spatial Archaeology</a>
         </li>
       
     
@@ -1347,7 +1347,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/5/basic-r-stats/" class="menu__title " data-depth="0">Basic R Stats</a>
+          <a href="https://hist3000.netlify.app/week/5/basic-r-stats/" class="menu__title " data-depth="0">Basic Stats in R</a>
         </li>
       
     
@@ -2118,7 +2118,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/2/do-the-project/" class="menu__title " data-depth="0">Record</a>
+          <a href="https://hist3000.netlify.app/week/2/sketchmap/" class="menu__title " data-depth="0">Making a Sketch Map of Your Site</a>
         </li>
       
     
@@ -2126,7 +2126,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/2/sketchmap/" class="menu__title " data-depth="0">Making a Sketch Map of Your Site</a>
+          <a href="https://hist3000.netlify.app/week/2/do-the-project/" class="menu__title " data-depth="0">Record</a>
         </li>
       
     
@@ -2186,7 +2186,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/3/gis/" class="menu__title " data-depth="0">Introduction to GIS</a>
+          <a href="https://hist3000.netlify.app/week/3/spatial-archae/" class="menu__title " data-depth="0">Spatial Archaeology</a>
         </li>
       
     
@@ -2266,7 +2266,7 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/5/basic-r-stats/" class="menu__title " data-depth="0">Basic R Stats</a>
+          <a href="https://hist3000.netlify.app/week/5/basic-r-stats/" class="menu__title " data-depth="0">Basic Stats in R</a>
         </li>
       
     
@@ -2595,9 +2595,244 @@
   
 
   <article class="single__contents" data-dir="ltr">
-    <p>Webmaps. Reuse the craftingdh version but add the omnivore bit from DAEA, our graveyard data.</p>
-<p>mapping</p>
-<p><a href="https://dsl.richmond.edu/eastend/#loc=16/37.53619777622634/-77.38787770271303">https://dsl.richmond.edu/eastend/#loc=16/37.53619777622634/-77.38787770271303</a></p>
+    <h3 id="introduction">Introduction</h3>
+<p>In this tutorial, I re-purpose some instructions from my Crafting Digital History class on how to build a web map using open source code from Leaflet. The idea here is that you learn to build a map and get it online: and then you modify it to display</p>
+<ul>
+<li>the cemetery that you have worked on</li>
+<li>the location of stones</li>
+</ul>
+<p>The <code>East End Cemetery</code> website maps a historic African American burial ground in Henrico County and the city of Richmond, Virginia, and uses Leaflet:</p>
+<p><a href="https://dsl.richmond.edu/eastend/#loc=16/37.53619777622634/-77.38787770271303" target="_blank">East End Cemetery Map</a></p>
+<p>With time and practice, you would be able to build something similar. Remember, I am not expecting perfection; rather, I want you to push yourself until you get stuck.</p>
+<div class="alert alert-info" role="alert" data-dir="ltr"><strong>Nb</strong> When I talk about &lsquo;serving&rsquo; your site in step 8, I am assuming you have python installed on your computer. If you have a mac, you probably do; if you have a PC, probably not. If you don&rsquo;t want to muck about with Python, you can download the free trial of <a href="https://prepros.io/">prepos</a>, which will act like a web server. Open that program, and then drag and drop the folder you are working in (always start a new project like this in a new folder) onto the prepos interface. <a href="https://prepros.io/help/getting-started">See these instructions</a>.</div>
+<h3 id="webmapping-with-leaflet">Webmapping with Leaflet</h3>
+<blockquote>
+<p>The following is a modified exercise from the <a href="https://o-date.github.io/draft/book/what-is-web-mapping.html" target="_blank">Open Digital Archaeology Textbook Environment</a> by Graham et al 2019; this particular section was contributed by <a href="https://dngupta.github.io/" target="_blank">Neha Gupta of UBC</a>.</p>
+</blockquote>
+<p>First of all, a webmap is not a Geographic Information System or GIS. A webmap may be <em>derived</em> from a GIS, but the key difference is that a GIS allows analytical questions to be asked of, and derived from, different <em>layers</em> of spatial or spatialized data. Webmaps are used more for conveying the results of such analyses.</p>
+<p>Tiled map service and <a href="http://www.opengeospatial.org/standards/wms" target="_blank">Web Map Service</a> are two forms of Web-based mapping. A WMS is an interface that enables us (the clients) to request specific maps i.e. visual representations of geographic information from a geospatial database. The WMS server is called via a Universal Resource Link (URL) on an Internet-enabled desktop GIS. A request typically consists of the geographic layer (e.g. theme) and geographic area of interest. The response to a request results in geo-registered map images that are displayed and queried within a browser. Because the map is dynamically drawn upon request, and because the server typically uses the most current information from several layers in the geospatial database, WMS maps tend to load slowly.</p>
+<p>Tile map services such as <a href="https://tilemill-project.github.io/tilemill/docs/crashcourse/introduction/" target="_blank">TileMill Project</a>, <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>, and <a href="http://maps.stamen.com/" target="_blank">Stamen</a> all use one or more vector layers that have been rasterized into an image. This rasterized image is divided into 256 x 256 adjacent pixel images or ‘tiles’. This is usually the base layer in a web map.</p>
+<p>Each tile is an image on the Web, which means that you can link to it. For example, the following URL points to a specific tile on the Web:</p>
+<pre><code>https://tile.openstreetmap.org/7/63/42.png
+</code></pre><p>The three elements in the URL are:</p>
+<ol>
+<li>tile.openstreetmap.org, the tile server name;</li>
+<li>7, the zoom level or z value of the tile; and finally</li>
+<li>63/42, the x and y values in the grid where the tile lives</li>
+</ol>
+<p>The z value has a range between 0 and 21, where 21 returns a tile with greatest detail (and smallest sized tile).</p>
+<p><p class="md__image">
+  <img src="https://o-date.github.io/draft/book/images/tile-pyramid.jpg" alt=""  />
+</p></p>
+<p>&lsquo;Image Tile Pyramid, <a href="https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/tilepyramid/" target="_blank">https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/tilepyramid/</a>’</p>
+<p>Once generated, the set of tiles are stored on disk, ready to be distributed rapidly to large numbers of simultaneous requests. Tiled maps load quickly precisely because they are pre-generated. They shift attention to map aesthetics and smooth map navigation, trading in functionality such as layer order, map scale and projection. <a href="http://alexurquhart.github.io/free-tiles/" target="_blank">Alex Urquhart</a> maintains a list of tile services.</p>
+<p>Data layers are typically added on top of the base layer. Data layers can be points, lines and polygons. These data layers are saved as <a href="https://geojson.org/" target="_blank">GeoJSON</a>, a format designed for representing on the Web, geographic features with their non-spatial attributes.</p>
+<p><a href="http://leafletjs.com/" target="_blank">Leaflet</a> is a JavaScript library developed by <a href="https://vimeo.com/106112939" target="_blank">Vladimir Agafonkin</a> for use with tiled maps. Launched in 2008, Leaflet has become widely used in tile web mapping because the library’s low-barrier customization and interactivity with map elements, and because of its simplified setup when compared to a WMS served map. Moreover, Leaflet’s compatibility with other Web 2.0 technologies and code-sharing platforms such as GitHub has encouraged an active community of ‘makers’.</p>
+<ol>
+<li>Create a new directory on your machine and call it &lsquo;web-map&rsquo;</li>
+<li>Open a terminal or command prompt in that directory.</li>
+<li>We&rsquo;re going to build a map now; in sublime text make a new file and save it as <code>index.html</code> in the <code>web-map</code> folder.</li>
+<li>We&rsquo;ll begin by putting some important information about the building blocks we&rsquo;ll use in the &lsquo;header&rsquo; of our file, between the <code>&lt;head&gt;</code> and <code>&lt;\head&gt;</code> tags. Copy and paste the following into your index.html:</li>
+</ol>
+<pre><code>&lt;head&gt;
+
+	&lt;title&gt;A Demo WebMap&lt;/title&gt;
+
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.6.0/dist/leaflet.css&quot; /&gt;
+	&lt;script src=&quot;https://unpkg.com/leaflet@1.6.0/dist/leaflet.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+    &lt;/script&gt;
+
+&lt;/head&gt;
+</code></pre><p>This is telling the browser the name of this page, and it&rsquo;s telling the browser where to get the stylesheet and the code for making the map work. You don&rsquo;t have the <code>leaflet.css</code> or the <code>leaflet.js</code> files yet. Right-click, and &lsquo;save as&rsquo; copies of these two files into your web-map folder from here: <a href="/data/leaflet.css">leaflet.css</a> and <a href="/data/leaflet.js">leaflet.js</a></p>
+<ol start="5">
+<li>The next bit of code defines the base map:</li>
+</ol>
+<pre><code>&lt;body&gt;
+&lt;div id=&quot;mapid&quot; style=&quot;width: 600px; height: 400px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var myMap = L.map('mapid').setView([45.4192857, -75.6973237],13);
+L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png',
+	{maxZoom: 19
+}).addTo(myMap);
+
+</code></pre><p>We&rsquo;re creating a box on the page called &lsquo;mapid&rsquo; and setting its width and height in pixels. Then our script creates a thing called &lsquo;mymap&rsquo; and defines some particulars about it: the center of the map (here, Ottawa, Ontario), the zoom level, and the basemap layer. The final bit, <code>addTo(mymap);</code> does the work of putting all of that information on the map (using leaflet.js).</p>
+<ol start="6">
+<li>Now we&rsquo;re going to need some data for our map. Our point data will be encoded in a format called &lsquo;geojson&rsquo;, which is a kind of list. If you have geographic data in a csv table, with latitude and longitude columns, you could use <a href="http://www.convertcsv.com/csv-to-geojson.htm" target="_blank">this tool</a> to convert it to geojson. For now, our geojson has two points in it:</li>
+</ol>
+<pre><code>{
+   &quot;type&quot;: &quot;FeatureCollection&quot;,
+   &quot;features&quot;: [
+  {
+    &quot;type&quot;: &quot;Feature&quot;,
+    &quot;geometry&quot;: {
+       &quot;type&quot;: &quot;Point&quot;,
+       &quot;coordinates&quot;:  [-75.6973237, 45.4192857]
+    },
+    &quot;properties&quot;: {
+    &quot;Label&quot;:&quot;Centre of our map!&quot;
+    }
+  },
+  {
+    &quot;type&quot;: &quot;Feature&quot;,
+    &quot;geometry&quot;: {
+       &quot;type&quot;: &quot;Point&quot;,
+       &quot;coordinates&quot;:  [ -75.699222, 45.4275 ]
+    },
+    &quot;properties&quot;: {
+    &quot;Label&quot;:&quot;Not the centre of the map &quot;
+    }
+  }
+]
+}
+
+</code></pre><p>Copy that into a new file and save in your web-map folder as <code>point-data.geojson</code> . (When you try to build a map of your graveyard, do you see how you could add your own point data with the csv-to-geojson tool?)</p>
+<ol start="7">
+<li>Now append the following to the <code>index.html</code>, which will tell leaflet where the data is and how to add it to our map:</li>
+</ol>
+<pre><code>// load a GeoJSON from external file
+$.getJSON(&quot;point-data.geojson&quot;, function(data) {
+  // add GeoJSON layer to the map once the file is loaded
+  var datalayer = L.geoJson(data ,{
+  onEachFeature: function(feature, featureLayer) {
+  featureLayer.bindPopup(feature.properties.Label);
+  }
+}).addTo(myMap);
+});
+
+&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre><p>Save!</p>
+<ol start="8">
+<li>At the command prompt, you&rsquo;ll use python to start a webserver; the webserver acts like a regular server and makes these two files understandable by your web-browser: <code>$ python -m http.server</code> <strong>Please see the alert at the top of the page if you don&rsquo;t have python on your machine</strong>.</li>
+<li>The terminal will tell you now that your server is running at an address that will look something like this: <code>(http://0.0.0.0:8000/)</code>. Copy that full address and paste it into your browser&rsquo;s address bar.</li>
+</ol>
+<p>Congratulations! You have made a webmap! Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?</p>
+<p>(You can upload your web-map folder to Github by dragging the folder onto a repository; to make Github <em>serve</em> your website, you create a new branch called <code>gh-pages</code>. So if I loaded it into github.com/shawngraham/demo/webmap in the gh-pages branch, my map will be available at shawngraham.github.io/demo/webmap/index.html. Cool, eh?)</p>
+<h3 id="adding-a-new-layer-to-our-map">Adding a new layer to our map</h3>
+<p><a href="https://mapwarper.net" target="_blank">Map Warper</a> is a service that allows us to upload images of maps, and then tie &lsquo;control points&rsquo; to real-world geography such that we stretch and warp the image to overlay the physical world. It then provides us with a tile-server so that the image can be imported into our map as its own layer. Take a look at this map of Ottawa:</p>
+<p><p class="md__image">
+  <img src="https://legacy.lib.utexas.edu/maps/historical/ottawa_1894.jpg" alt="Ottawa 1894"  />
+</p></p>
+<p>This was uploaded to Mapwarper and georectified by a former MA student at Carleton. You can see it on Mapwarper <a href="https://mapwarper.net/maps/29435" target="_blank">at this location</a>.</p>
+<p>If you click on the &lsquo;Export&rsquo; tab, you&rsquo;ll find that there&rsquo;s a URL for the map as tiles: <code>http://mapwarper.net/maps/tile/29435/{z}/{x}/{y}.png</code>.</p>
+<p>That&rsquo;s the line we want to add to our map.</p>
+<ol>
+<li>Open your <code>index.html</code> file.</li>
+<li>We&rsquo;re going to add another layer, just after where you first specified your basemap, which to remind you, was at:</li>
+</ol>
+<pre><code>L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png',
+	{maxZoom: 19
+}).addTo(myMap);
+</code></pre><p>Hit &lsquo;enter&rsquo; a few times after that final semicolon, and then paste in this:</p>
+<pre><code>L.tileLayer('http://mapwarper.net/maps/tile/29435/{z}/{x}/{y}.png',
+  {maxZoom: 19}
+).addTo(myMap);
+</code></pre><p>Save the file, and then in your browser reload the page (I&rsquo;m assuming you still have the server running as per step 8 in the previous section). Boom!</p>
+<p><p class="md__image">
+  <img src="/images/webmap/result.png" alt="result"  />
+</p></p>
+<p>But that map is a bit wonky, compared to our base map. Let&rsquo;s find a new map from Library and Archives Canada, georectify it, and then swap it in. (When you build your own map of your graveyard, you may or may not be able to find an underlying historical map. That&rsquo;s ok; if you can, great; if not, no worries.)</p>
+<h3 id="georectifying-a-base-map">Georectifying a base map</h3>
+<p>But as historians, we are often interested to show some process taking place in the past, so historical maps can be rhetorically extremely useful as base maps. But, to get such a map into a digital format that we can use, we need to georectify it.</p>
+<p>Georectifying is the process of taking an image (whether it is of a historical map, chart, airphoto, or whatever) and manipulating its geometry so that it matches a geographic projection. Think of it like this: you take your handdrawn map, and use pushpins to pin down known locations on your map to a globe. As you pin, your image stretches and warps. Traditionally, this has not been an easy thing to do, if you are new to GIS. In recent years, the curve has flattened significantly. In this exercise, we&rsquo;ll grab an image, upload it to the Map Warper website, and then export it as a tileset which can be used in other mapping programs.</p>
+<p>At <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&amp;lang=eng&amp;rec_nbr=98246&amp;title=Laura%20A.%20Gamble%20fonds%20%5btextual%20record,%20graphic%20material%5d.&amp;ecopy=e002743396" target="_blank">Library and Archives Canada</a> I found an &ldquo;Insurance Plan of Ottawa, June 1878&rdquo; <a href="http://collectionscanada.gc.ca/lac-bac/results/images?module=images&amp;SortSpec=score&#43;desc&amp;Language=eng&amp;ShowForm=hide&amp;SearchIn_1=mikanNumber&amp;SearchInText_1=3824226&amp;Operator_1=AND&amp;SearchIn_2=&amp;SearchInText_2=&amp;Operator_2=AND&amp;SearchIn_3=&amp;SearchInText_3=&amp;Level=&amp;MaterialDateOperator=after&amp;MaterialDate=&amp;DigitalImages=1&amp;Source=&amp;ResultCount=10" target="_blank">MIKAN 3824226</a>.</p>
+<p>This one in particular <a href="http://central.bac-lac.gc.ca/.item?app=fondsandcol&amp;op=img&amp;id=e010695477-v8" target="_blank">shows Parliament Hill</a>. I will save this one to my machine and georectify it. You grab one that interests you!</p>
+<ol>
+<li>
+<p>Go to <a href="http://mapwarper.net/" target="_blank">Map Warper</a> and sign up for an account. Then login.</p>
+</li>
+<li>
+<p>Go to the upload screen:<br />
+<p class="md__image">
+  <img src="https://i.imgur.com/bmNCzg6.png" alt=""  />
+</p></p>
+</li>
+<li>
+<p>Fill in as much of the metadata as you can - it&rsquo;s important to credit the material correctly! Then select your map from your computer, and upload it.</p>
+</li>
+<li>
+<p>On the next page, click &lsquo;Rectify&rsquo;.<br />
+<p class="md__image">
+  <img src="https://i.imgur.com/yULDRQR.jpg" alt=""  />
+</p></p>
+</li>
+<li>
+<p>Pan and zoom both maps until you&rsquo;re sure you&rsquo;re looking at the same area in both. Double click in a map, select the location icon, and click on a point (location) you are sure you can match in the other window.</p>
+</li>
+<li>
+<p>Click on the other map window, select the location icon, and then click on the same point.</p>
+</li>
+<li>
+<p>Note the &lsquo;Add control point&rsquo; button below and between both maps will light up. Click on this to confirm that this is a control point you want. Do this at least three times; the more times you can do it, the better the map warp.</p>
+</li>
+<li>
+<p>Having selected your control points, click on &lsquo;Warp image&rsquo;.</p>
+</li>
+<li>
+<p>You can now click on the &lsquo;Export&rsquo; panel, and get the URL for your georectified image in a few different formats. Copy the tiles based URL  and put that URL into your <code>index.html</code> file as you did in the previous section.</p>
+</li>
+</ol>
+<h3 id="adding-a-layer-control-button">Adding a layer control button</h3>
+<p>You can see that with leaflet it is pretty easy to add more layers and more data to your map. But soon things get a little bit unwieldy. We&rsquo;re going to re-organize our map so that we can turn layers on and off.</p>
+<p>The end result will look like this:</p>
+<p><p class="md__image">
+  <img src="/images/webmap/layer-control-button.png" alt="layer-control-button.png"  />
+</p></p>
+<p>We&rsquo;re going to create some variables to hold our different layers and maps. Make a copy of your <code>index.html</code> file and call it <code>index2.html</code>. Open <code>index2.html</code> in Sublime Text and work on that file.</p>
+<ol>
+<li>Delete the code from the <code>var myMap =</code> line to the <code>// load a GeoJSON from external file</code>. Your code should look like this now:</li>
+</ol>
+<pre><code>&lt;body&gt;
+&lt;div id=&quot;mapid&quot; style=&quot;width: 600px; height: 400px;&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+  // load a GeoJSON from external file
+</code></pre><p>We are going to create four variables that contain the different layers we want to show. Two are going to be base maps from Stamen (the &lsquo;toner&rsquo; map and the &lsquo;watercolor&rsquo; map), and two are going to be georectified maps we found on MapWarper showing downtown Ottawa. Insert after the <code>&lt;script&gt;</code> tag:</p>
+<pre><code>var toner = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png'),
+  watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png'),
+  historical1897 = L.tileLayer('https://mapwarper.net/maps/tile/29435/{z}/{x}/{y}.png'),
+  lumberdistrict = L.tileLayer('https://mapwarper.net/maps/tile/27671/{z}/{x}/{y}.png')
+</code></pre><p>The <code>L.tileLayer</code> tells leaflet the sources for our layers.</p>
+<p>Now we&rsquo;re going to create two more variables to <em>group</em> our layers into base maps and overlay maps:</p>
+<pre><code>var baseMaps = {
+  &quot;Toner&quot;: toner,
+  &quot;Watercolor&quot;: watercolor
+};
+
+var overlayMaps = {
+  &quot;1897&quot;: historical1897,
+  &quot;Lumber District&quot;: lumberdistrict
+}
+</code></pre><p>Next, we create a variable called <code>myMap</code> to tell Leaflet the centre of our map, the zoom layer, and the default base map; we pass this information to the html container &lsquo;mapid&rsquo; so that our creation can be displayed:</p>
+<pre><code>var myMap = L.map('mapid', {
+  center: [45.4192857, -75.6973237],
+  zoom: 13,
+  layers:[toner]
+});
+</code></pre><p>and finally, we add a control box so that we can switch the different layers on and off, and that our layers are grouped appropriately:</p>
+<pre><code>L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+</code></pre><p>Save that as <code>index2.html</code>, and with your server still running, you can view it in your browser at <code>http://localhost:8000/index2.html</code>.  (NB: the part after the colon might be different on your machine - this number is the &lsquo;port&rsquo; and the precise port number will have printed out in your terminal when you first ran the <code>python -m http.server</code> command.)</p>
+<p>For more on layers with leaflet, see <a href="https://leafletjs.com/examples/layers-control/" target="_blank">Layer Groups and Layers Control</a>.</p>
+<h3 id="the-graveyard">The Graveyard</h3>
+<p>Now that you&rsquo;ve seen how to build a map and serve it online, let&rsquo;s modify it to show the graveyard you worked on.</p>
+<ul>
+<li>You&rsquo;ll want the map to be centred on the graveyard you worked on, so you need to figure out the coordinates for it. These will go in the code for the variable <code>myMap</code>, and are in decimal degrees.</li>
+<li>Coordinates for your stones go in the geojson file. Easiest way to do this might be to have a csv table like so:</li>
+</ul>
+<pre><code>latitude,longitude,geometry,Label
+45.4192857,-75.6973237,Point,Centre of our map!
+45.4275,-75.699222,Point,Not the centre of the map
+</code></pre><p>and then use <a href="http://www.convertcsv.com/csv-to-geojson.htm" target="_blank">this tool</a> to convert it to geojson.</p>
+<ul>
+<li>You can try to find a historical map for an underlay, but only if you&rsquo;re feeling keen.</li>
+</ul>
 
   </article>
 </div>
@@ -2615,8 +2850,8 @@
     
     <div class="grow"></div>
     
-      <a href="https://hist3000.netlify.app/week/3/gis/" title="Introduction to GIS" class="pagination-single__right">
-        <div class="pagination-single__left-title">Introduction to GIS</div>
+      <a href="https://hist3000.netlify.app/week/3/spatial-archae/" title="Spatial Archaeology" class="pagination-single__right">
+        <div class="pagination-single__left-title">Spatial Archaeology</div>
         <div class="pagination-single__icon">
           <svg xmlns="https://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
         </div>
@@ -2634,7 +2869,20 @@
         <div class="toc">
   <h6 class="toc__label">What&#39;s on this Page</h6>
   <div class="toc__body">
-    <nav id="TableOfContents"></nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#webmapping-with-leaflet">Webmapping with Leaflet</a></li>
+        <li><a href="#adding-a-new-layer-to-our-map">Adding a new layer to our map</a></li>
+        <li><a href="#georectifying-a-base-map">Georectifying a base map</a></li>
+        <li><a href="#adding-a-layer-control-button">Adding a layer control button</a></li>
+        <li><a href="#the-graveyard">The Graveyard</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
   </div>
 </div>
       

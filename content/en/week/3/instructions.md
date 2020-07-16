@@ -10,6 +10,7 @@ weight: -10
 ### Goals for this week
 
 - Continue the Graveyard Project
+- Create some 3d models of grave stones
 - Develop a webmap of the site
 - Explore the connections between what you are doing and what you are reading: graveyards are emotional spaces
 
@@ -36,7 +37,7 @@ _I do not necessarily expect you to complete all of these, because you are all c
 - Continue to record your ten graves
 - Create 3d models of some of the graves using [photogrammetry](/week/3/photogrammetry)
 - [Create a webmap](/week/3/webmaps) showing the location of the graveyard and its stones.
-- [Introduction to GIS](/week/3/gis)
+- [Go further with a gentle introduction to Spatial Archaeology](/week/3/spatial-archae)
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

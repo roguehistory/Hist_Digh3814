@@ -1,5 +1,5 @@
 ---
-title: "Basic R Stats"
+title: "Basic Stats in R"
 description: "An Introduction to R and Statistics"
 date: 2020-01-28T00:10:51+09:00
 draft: false
