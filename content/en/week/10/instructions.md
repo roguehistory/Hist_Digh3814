@@ -3,7 +3,7 @@ title: "M3 Wk10: Instructions"
 description: "Audiences beyond Archaeologists"
 date: 2020-01-28T00:10:37+09:00
 draft: false
-weight: -3
+weight: -10
 ---
 ## Communities
 
