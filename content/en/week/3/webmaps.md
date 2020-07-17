@@ -58,6 +58,8 @@ Data layers are typically added on top of the base layer. Data layers can be poi
 
 [Leaflet](http://leafletjs.com/) is a JavaScript library developed by [Vladimir Agafonkin](https://vimeo.com/106112939) for use with tiled maps. Launched in 2008, Leaflet has become widely used in tile web mapping because the library’s low-barrier customization and interactivity with map elements, and because of its simplified setup when compared to a WMS served map. Moreover, Leaflet’s compatibility with other Web 2.0 technologies and code-sharing platforms such as GitHub has encouraged an active community of ‘makers’.
 
+You will need a proper text editor (not notepad, not, *shudder*, Word) to edit your files. I suggest you download, install, and use [Sublime Text](https://www.sublimetext.com/).
+
 1. Create a new directory on your machine and call it 'web-map'
 2. Open a terminal or command prompt in that directory.
 3. We're going to build a map now; in sublime text make a new file and save it as `index.html` in the `web-map` folder.
@@ -150,7 +152,8 @@ $.getJSON("point-data.geojson", function(data) {
 
 Save!
 
-8. At the command prompt, you'll use python to start a webserver; the webserver acts like a regular server and makes these two files understandable by your web-browser: `$ python -m http.server` **Please see the alert at the top of the page if you don't have python on your machine**.
+8. At the command prompt, you'll use python to start a webserver; the webserver acts like a regular server and makes these two files understandable by your web-browser: `$ python -m http.server` **Please see the alert at the top of the page if you don't have python on your machine; this is where you drag your work folder into prepos**.
+
 9. The terminal will tell you now that your server is running at an address that will look something like this: `(http://0.0.0.0:8000/)`. Copy that full address and paste it into your browser's address bar.
 
 Congratulations! You have made a webmap! Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?
@@ -292,7 +295,7 @@ For more on layers with leaflet, see [Layer Groups and Layers Control](https://l
 Now that you've seen how to build a map and serve it online, let's modify it to show the graveyard you worked on.
 
 + You'll want the map to be centred on the graveyard you worked on, so you need to figure out the coordinates for it. These will go in the code for the variable `myMap`, and are in decimal degrees.
-+ Coordinates for your stones go in the geojson file. Easiest way to do this might be to have a csv table like so:
++ Coordinates for your stones go in the geojson file. Easiest way to do this might be to make a csv table like so, in a text editor like [Sublime Text](https://www.sublimetext.com/):
 ```
 latitude,longitude,geometry,Label
 45.4192857,-75.6973237,Point,Centre of our map!

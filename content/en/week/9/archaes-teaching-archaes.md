@@ -1,3 +1,12 @@
+---
+title: "Archaeologists Teaching Archaeologists"
+description: "Replicable Research for Professionalization"
+date: 2020-01-28T00:10:51+09:00
+draft: false
+weight: -7
+author: "Shawn Graham"
+---
+
 
 the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
 

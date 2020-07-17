@@ -31,12 +31,15 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-_I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
+_Take your time with these. These are listed in order of difficulty. Push yourself until you get stumped._
 
-- modify the existing scheme or suggest a new category that would address one of the shortcomings you identified in last week's Consolidation doc. You can use a wide variety of software to achieve this, but perhaps the simplest would be to open the code sheet pdf, take a screenshot, and then annotate it with your machine's drawing tools. Embed this in a .md file in your repository, with whatever explanatory info you need.
+- [modify the existing scheme or suggest a new category](/week/5/kobotoolbox) that would address one of the shortcomings you identified in last week's Consolidation doc. Embed the link to your new form in a .md file you'll upload to your repository, with whatever explanatory info you need (ie what changes, and why).
+
 - Explore [basic statistics in R on archaeological data](week/5/basic-r-stats) and work through it.
 
 - Enjoy [a gentle introduction to databases](/week/5/databases).
+
+_These exercises are important, so you can continue them next week if necessary. You still need to log your work for this week though._
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

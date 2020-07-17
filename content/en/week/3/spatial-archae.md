@@ -37,7 +37,7 @@ But now, let's turn to a bit larger scale. While the previous work was done in t
 
 ## Exploring a landscape (R).
 
-Daniel Contreras has a chapter in Ben Marwick's online book, 'How To do Archaeological Science in R' on [using R as a GIS](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/using-r-as-a-gis-working-with-raster-and-vector-data.html). We're going to follow along with that chapter, but I have modified the code slightly so that it will run in a virtual computer in your browser, using the coding environment R Studio and the language R.
+Daniel Contreras has a chapter in Ben Marwick's online book, 'How To do Archaeological Science in R' about [using R as a GIS](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/using-r-as-a-gis-working-with-raster-and-vector-data.html). We're going to follow along with that chapter, but I have modified the code slightly so that it will run in a virtual computer in your browser, using the coding environment R Studio and the language R.
 
 1. Launch a virtual computer running RStudio in your browser by right-clicking on <a href="https://mybinder.org/v2/gh/binder-examples/r-conda/master?urlpath=rstudio" target="_blank">this link</a>
 
@@ -53,8 +53,10 @@ Daniel Contreras has a chapter in Ben Marwick's online book, 'How To do Archaeol
 
 4. The `dem-gis.R` script that you want can be found [at this link](/data/dem-gis.R). Open the link in a new tab, and then copy it into the script window in R Studio. Put the cursor at the top of the file at the start of the line. You can then run each line by hitting the 'run' button, or by using the keyboard shortcut (cmd+enter or shift+enter). Read the comments (which are marked with a `#` sign) and follow all instructions.
 
-Work your way through Contreras' tutorial.
+Work your way through [Contreras' tutorial](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/using-r-as-a-gis-working-with-raster-and-vector-data.html), using the `dem-gis.R` code.
 
-Now, the advantages to using R or Python to do this kind of work lies in the idea of _reproducibility_. Many archaeologists use commercial projects from Esri to handle their spatial data; if you find data files ending with `.shp` (a 'shape file'), that's an Esri readable format. But many archaeologists use the open source QGIS program to work with their data, which provides a visual graphical user interface. The problem with that is that it becomes very hard to reproduce exactly the sequences of clicks and so on that a person uses. Nevertheless, if mapping intrigues you, you should play with it. An excellent guide, 'QGIS for Archaeologists - Getting Started' in the BAJR Practical Guide Series by Jake Streatfeild-James (2016) is at [http://www.bajr.org/BAJRGuides/42_QGIS_StarterGuide/42_BAJR_Guide_QGIS.pdf](http://www.bajr.org/BAJRGuides/42_QGIS_StarterGuide/42_BAJR_Guide_QGIS.pdf)
+Now, the advantages to using R or Python to do this kind of work lies in the idea of _reproducibility_. You can see every step in the reshaping of the data, in the filtering and layering.
+
+ Many archaeologists use the open source QGIS program to work with their data, which provides a visual graphical user interface. It's a very powerful piece of software, and does allow scripting and other interactions. The problem with software-via-a-GUI is that it becomes very hard to reproduce exactly the sequences of clicks and so on that a person uses. Nevertheless, if mapping intrigues you, you should play with it. An excellent guide, 'QGIS for Archaeologists - Getting Started' in the BAJR Practical Guide Series by Jake Streatfeild-James (2016) is at [http://www.bajr.org/BAJRGuides/42_QGIS_StarterGuide/42_BAJR_Guide_QGIS.pdf](http://www.bajr.org/BAJRGuides/42_QGIS_StarterGuide/42_BAJR_Guide_QGIS.pdf). (By the way, many archaeologists use commercial projects from Esri to handle their spatial data; if you find data files ending with `.shp`, a 'shape file', that's an Esri readable format and indeed, the industry standard.)
 
 If you *really* want to get into QGIS, then QGIS4Arch is for you, a series of videos [https://www.youtube.com/playlist?list=PLqiB3IIUNAnU8vPcuea6A9pB7Y_qQBH1u] by Ed Gonzalez-Tennant.

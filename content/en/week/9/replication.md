@@ -1,3 +1,12 @@
+---
+title: "Replication as Teaching"
+description: "Better Research, Better Pedagogy"
+date: 2020-01-28T00:10:51+09:00
+draft: false
+weight: -6
+author: "Shawn Graham"
+---
+
 This exercise might be very difficult. Ben Marwick argues that
 
 

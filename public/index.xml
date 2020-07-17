@@ -58,6 +58,16 @@ Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doh
       </item>
       
       <item>
+        <title>Module 3: Communicating</title>
+        <link>https://hist3000.netlify.app/week/9/instructions/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/instructions/</guid>
+        <description>Communicating Digital Archaeology Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
+Read  ‘The Numbers Don’t Speak for Themselves’ Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein link Ben Marwick, Carl Boettiger &amp;amp; Lincoln Mullen. 2018. Packaging Data Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88, link Perry, Sara, Roussou, Maria, Mirashrafi, Sophia S., Katifori, A.</description>
+      </item>
+      
+      <item>
         <title>Module 2: Considering/Critiquing</title>
         <link>https://hist3000.netlify.app/week/5/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
@@ -108,12 +118,84 @@ Do  Create a short consolidation document that reflects on this first module and
       </item>
       
       <item>
+        <title>Archaeogaming</title>
+        <link>https://hist3000.netlify.app/week/11/archaeogaming/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/11/archaeogaming/</guid>
+        <description>Introduction &amp;hellip;hmmmm&amp;hellip;.</description>
+      </item>
+      
+      <item>
+        <title>Archaeology Data Service</title>
+        <link>https://hist3000.netlify.app/week/9/ads/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/ads/</guid>
+        <description>ADS, Open Context, tDAR
+explain, have them look around, see the csvs
+Working with data deposited in ADS. Code is an adaptation of Rachel Optiz&amp;rsquo;s notebook, &amp;lsquo;Exploring published data from the ADS&amp;rsquo;. Dr. Opitz&amp;rsquo;s work is written in Python, if you want to take a look at how she does it.
+Introduction Any data published as CSV files with the ADS can be pulled into R for exploration, asking your own questions with it, and generally doing research.</description>
+      </item>
+      
+      <item>
+        <title>Clio</title>
+        <link>https://hist3000.netlify.app/week/11/clio/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/11/clio/</guid>
+        <description>Introduction could also do AR/Twine here.
+https://www.theclio.com/howToCreateTour</description>
+      </item>
+      
+      <item>
+        <title>Digital Creativity</title>
+        <link>https://hist3000.netlify.app/week/11/creativity/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/11/creativity/</guid>
+        <description>Introduction maybe bash together the creative bits from crafting course</description>
+      </item>
+      
+      <item>
         <title>Graveyard Project Rationale</title>
         <link>https://hist3000.netlify.app/week/2/rationale/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/rationale/</guid>
         <description>Annotate this page with hypothesis while being logged into our course reading group with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. Introduction I wanted you to have some experience of collecting data, and of how data models (or our expectations of what we&amp;rsquo;ll find) influence the subsequent work that we can do with the information that we collect.</description>
+      </item>
+      
+      <item>
+        <title>KoBoToolbox</title>
+        <link>https://hist3000.netlify.app/week/5/kobotoolbox/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/kobotoolbox/</guid>
+        <description>Introduction   The KoBoToolbox is an open source platform that allows you to design quite complex data collection forms, for use via computers or devices, both online and offline.
+Ipads and similar have been used in archaeology since their invention, at places for example like Pompeii and other sites destroyed by Vesuvius. The potential applications for devices like this to speed up data acquisition and analysis practically fill entire volumes, but at the same time, leave some archaeologists worried that we&amp;rsquo;re missing something fundamental about doing archaeology, that we need a &amp;lsquo;slow&amp;rsquo; archaeology to counter them.</description>
+      </item>
+      
+      <item>
+        <title>Sharing Authority</title>
+        <link>https://hist3000.netlify.app/week/10/sharing-authority/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/10/sharing-authority/</guid>
+        <description>Archaeologists have used digital media in a variety of ways to try to reach new audiences. I want you to explore the following sites and annotate what you find, using our hypothes.is reading group (nb don&amp;rsquo;t use the &amp;lsquo;public&amp;rsquo; group!), tying what you&amp;rsquo;re seeing to ideas you encountered in the readings.
+ https://www.dayofarchaeology.com/ (worldwide) and Ben Marwick&amp;rsquo;s Analysis of the posts Archaeology in the Community (US) http://www.archaeologyincommunity.com/ DigVentures (UK) https://digventures.com/  Then, I want you to actually sign up and complete some of the possible &amp;lsquo;citizen science&amp;rsquo; tasks at Micropasts (UK) https://crowdsourced.</description>
+      </item>
+      
+      <item>
+        <title>Archaeologists Teaching Archaeologists</title>
+        <link>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</guid>
+        <description>the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
+they don&amp;rsquo;t have to complete all the stuff in this one, but there are enough examples in this to keep them going forever.
+have them use something from in here on graveyards data.
+or at least, identify something they&amp;rsquo;d like to use on graveyards data once they figure things out (in the install_packages folder there&amp;rsquo;s basic_gis_not_using_sf that has point pattern analysis in it that might be useful, although might not be able to install in our virtual machine)</description>
       </item>
       
       <item>
@@ -143,6 +225,21 @@ Do  Create a short consolidation document that reflects on this first module and
         <guid>https://hist3000.netlify.app/week/6/instructions/</guid>
         <description>The Contexts of Digital and Other Archaeologies Goals for this week  Explore some of the literature of archaeology using a macroscopic point of view Understand the social context of archaeological practice Identify the antecedents to digital archaeology in the broader literature  Listen Feed for the podcast here.
 Read  White, William and Catherine Draycott. 2020 Why the Whiteness of Archaeology Is a Problem. SAPIENS link Perry, Sara and James Taylor.</description>
+      </item>
+      
+      <item>
+        <title>Replication as Teaching</title>
+        <link>https://hist3000.netlify.app/week/9/replication/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/replication/</guid>
+        <description>This exercise might be very difficult. Ben Marwick argues that
+or do hope&amp;rsquo;s report?
+  have them open the notebook first; then the console; then git clone the replicable teaching thing of Ben&amp;rsquo;s.
+  then they can open Rstudio.
+  have them skim over the original paper by Ben https://www.sciencedirect.com/science/article/pii/S0278416513000470?via%3Dihub
+  have them see his data at https://figshare.com/articles/Stone_artefacts_and_human_ecology_at_two_rockshelters_in_Northwest_Thailand/765252
+  let them run the modified version of the code (not Rmd), tell them what it&amp;rsquo;s doing</description>
       </item>
       
       <item>
@@ -185,16 +282,6 @@ While the digital recording system that we are using can read the geolocation of
       </item>
       
       <item>
-        <title>Sharing Authority</title>
-        <link>https://hist3000.netlify.app/week/10/sharing-authority/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/10/sharing-authority/</guid>
-        <description>Archaeologists have used digital media in a variety of ways to try to reach new audiences. I want you to explore the following sites and annotate what you find, using our hypothes.is reading group (nb don&amp;rsquo;t use the &amp;lsquo;public&amp;rsquo; group!), tying what you&amp;rsquo;re seeing to ideas you encountered in the readings.
- https://www.dayofarchaeology.com/ (worldwide) and Ben Marwick&amp;rsquo;s Analysis of the posts Archaeology in the Community (US) http://www.archaeologyincommunity.com/ DigVentures (UK) https://digventures.com/  Then, I want you to actually sign up and complete some of the possible &amp;lsquo;citizen science&amp;rsquo; tasks at Micropasts (UK) https://crowdsourced.</description>
-      </item>
-      
-      <item>
         <title>M2 Wk8: Instructions</title>
         <link>https://hist3000.netlify.app/week/8/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
@@ -234,16 +321,6 @@ Do  Create a short consolidation document that reflects on this second module an
         <guid>https://hist3000.netlify.app/week/3/spatial-archae/</guid>
         <description>Introduction This page is for those of you who zipped through the other materials this week.
 Remember: just because I give you all these options does not mean you must complete all of them. I&amp;rsquo;m asking you to start with the easier ones, and then push yourself to try the others. Spatial archaeology looks at the patterning of the remains of human activity in (usually geographic) space over time. It can encompass working with geographic information systems, and it can encompass web mapping (on which see ODATE 3.</description>
-      </item>
-      
-      <item>
-        <title>Module 3: Communicating</title>
-        <link>https://hist3000.netlify.app/week/9/instructions/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/9/instructions/</guid>
-        <description>Communicating Digital Archaeology Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
-Read  ‘The Numbers Don’t Speak for Themselves’ Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein link Ben Marwick, Carl Boettiger &amp;amp; Lincoln Mullen. 2018. Packaging Data Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88, link Perry, Sara, Roussou, Maria, Mirashrafi, Sophia S., Katifori, A.</description>
       </item>
       
       <item>
@@ -430,45 +507,6 @@ Listen Do The format of the exit ticket is up to you. You craft a statement refl
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://hist3000.netlify.app/week/9/ads/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/9/ads/</guid>
-        <description>ADS
-explain, have them look around, see the csvs
-Working with data deposited in ADS. Code is an adaptation of Rachel Optiz&amp;rsquo;s notebook, &amp;lsquo;Exploring published data from the ADS&amp;rsquo;. Dr. Opitz&amp;rsquo;s work is written in Python, if you want to take a look at how she does it.
-Introduction Any data published as CSV files with the ADS can be pulled into R for exploration, asking your own questions with it, and generally doing research.</description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</guid>
-        <description>the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
-they don&amp;rsquo;t have to complete all the stuff in this one, but there are enough examples in this to keep them going forever.
-have them use something from in here on graveyards data.
-or at least, identify something they&amp;rsquo;d like to use on graveyards data once they figure things out (in the install_packages folder there&amp;rsquo;s basic_gis_not_using_sf that has point pattern analysis in it that might be useful, although might not be able to install in our virtual machine)</description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://hist3000.netlify.app/week/9/replication/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/9/replication/</guid>
-        <description>This exercise might be very difficult. Ben Marwick argues that
-or do hope&amp;rsquo;s report?
-  have them open the notebook first; then the console; then git clone the replicable teaching thing of Ben&amp;rsquo;s.
-  then they can open Rstudio.
-  have them skim over the original paper by Ben https://www.sciencedirect.com/science/article/pii/S0278416513000470?via%3Dihub
-  have them see his data at https://figshare.com/articles/Stone_artefacts_and_human_ecology_at_two_rockshelters_in_Northwest_Thailand/765252
-  let them run the modified version of the code (not Rmd), tell them what it&amp;rsquo;s doing</description>
       </item>
       
     

@@ -32,14 +32,16 @@ If you have an actual digital camera, use that. If you don't, your cell phone ca
 
 3. Transfer your photographs to a folder on your computer; if you have a google drive account, you might want to move them there.
 
-4. An actual digital camera embeds metadata in each image that the photogrammetry process will use on the focal length, while most cellphone cameras do not. If you are using cellphone images, [please follow these instructions to embed metadata into your images](https://github.com/shawngraham/hist3812w18/wiki/How-do-I-add-metadata-to-my-own-pictures%3F-I-know-I-need-this-to-use-Regard3d-to-make-my-model).
+4. An actual digital camera embeds metadata about focal length in each image that the photogrammetry process will use. Most cellphone cameras do not. If you are using cellphone images, [please follow these instructions to embed metadata into your images](https://github.com/shawngraham/hist3812w18/wiki/How-do-I-add-metadata-to-my-own-pictures%3F-I-know-I-need-this-to-use-Regard3d-to-make-my-model).
 
 ### Making a 3d model
 
 You have two options here.
 
-1. Use Google's own computing resources to stitch a model together for you with a piece of software called 'Meshroom'. To do this, right-click and [open this notebook](https://colab.research.google.com/github/o-date/photogrammetry/blob/master/Meshroom_%2B_GPU_for_Photogrammetry.ipynb) in a new window. You run each cell in that notebook starting at the top - select the cell, then hit run. When it finishes, select the next cell, and hit run. **That notebook has instructions on uploading your images directly, or connecting to your google drive folder**. Read carefully before hitting run!
+1. Use Google's own computing resources to stitch a model together for you with a piece of software called 'Meshroom'. To do this, right-click and [open this notebook](https://colab.research.google.com/github/o-date/photogrammetry/blob/master/Meshroom_%2B_GPU_for_Photogrammetry.ipynb) in a new window. You run each cell in that notebook starting at the top - select the cell, then hit run. When it finishes, select the next cell, and hit run. **That notebook has instructions on uploading your images directly, or connecting to your google drive folder**. Read carefully before hitting run! The process might take a bit of time.
 
 2. Download and use Regard3d, an open source collection of algorithms for making 3d models, on your own computer. [Download Regard3]() and then follow [its tutorial](http://www.regard3d.org/index.php/documentation/tutorial); you can then re-do its steps on the folder of your own images. Remember: you need to add the metadata to your photos if the camera you used isn't a standard camera.
 
-3. Upload your model to [Sketchfab.com](https://sketchfab.com); the free version only allows 1 upload per month. Another option is [https://p3d.in](https://p3d.in); models there can only be max 100 mb in size. There are other options too that you can find with a bit of googling.
+3. Upload your finished model to [Sketchfab.com](https://sketchfab.com); the free version only allows 1 upload per month. Another option is [https://p3d.in](https://p3d.in); models there can only be max 100 mb in size. There are other options too that you can find with a bit of googling. It might well be that your model is quite wonky - perhaps you didn't have enough photos in the right places. How is the process of taking photographs similar to the kind of close reading you might do in a history class?
+
+4. You can also drag and drop your model files (.obj, .mtl, .png) into your github repo for this week.

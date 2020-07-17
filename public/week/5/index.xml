@@ -47,6 +47,16 @@ Read  ‘What gets counted, counts’. Draft chapter from Data Feminism by Cathe
         <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting &amp;lsquo;run&amp;rsquo;):</description>
       </item>
       
+      <item>
+        <title>KoBoToolbox</title>
+        <link>https://hist3000.netlify.app/week/5/kobotoolbox/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/5/kobotoolbox/</guid>
+        <description>Introduction   The KoBoToolbox is an open source platform that allows you to design quite complex data collection forms, for use via computers or devices, both online and offline.
+Ipads and similar have been used in archaeology since their invention, at places for example like Pompeii and other sites destroyed by Vesuvius. The potential applications for devices like this to speed up data acquisition and analysis practically fill entire volumes, but at the same time, leave some archaeologists worried that we&amp;rsquo;re missing something fundamental about doing archaeology, that we need a &amp;lsquo;slow&amp;rsquo; archaeology to counter them.</description>
+      </item>
+      
     
   </channel>
 </rss>

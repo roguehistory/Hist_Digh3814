@@ -19,7 +19,7 @@ Both of these graveyards should be studied, but one of these is a safer place to
 {{< alert theme="info" >}}
 ### Personal Safety > Course Work
 
-The first thing to keep in mind is that your personal safety is more important than course work. [I have an alternative project](/week/2/alternative-project.md) for cases where it is either not safe or not feasible for you to go out to a historic (or currently active) graveyard. Just follow the instructions for the [alternative project](/week/2/alternative-project.md)
+The first thing to keep in mind is that your personal safety is more important than course work. [I have an alternative project](/week/2/alternative-project) for cases where it is either not safe or not feasible for you to go out to a historic (or currently active) graveyard. Just follow the instructions for the [alternative project](/week/2/alternative-project)
 {{< /alert >}}
 
 ### Things to consider
@@ -47,7 +47,7 @@ If you can't find the owner (or if permission isn't implied, as in the case of t
 
 ### Conducting the Survey Itself
 
-For instructions on how to conduct the survey itself, please begin by [sketching the plan of the graveyard](/week/2/sketchmap.md), and then [how to record the graves](/week/2/do-the-project)
+For instructions on how to conduct the survey itself, please begin by [sketching the plan of the graveyard](/week/2/sketchmap), and then [how to record the graves](/week/2/do-the-project)
 
 ### Safety Online in the Case of Virtual Sites  
 

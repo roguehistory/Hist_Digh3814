@@ -33,11 +33,10 @@ Marwick created a special package for R called 'rrtools' to make it easier for s
 
 You've been using markdown in your own repositories to add simple semantics to your text files - `##` for a second level header and so on. R markdown is a version of markdown that lets you mix in R code that R will run as it turns your text file into a word document. Code gets set off like this:
 
-`
-```{r}
-plot(mtcars)
-```
-`
+![code snippet](/images/compendium/code-embed.png)
+
+Note the narrative written around the acutal code.
+
 When you tell R Studio that a file is in r markdown (it understands the file extension `.rmd` as rmarkdown), a new button appears labelled `knit`. If you click on that, R Studio will run your document through a template to turn it into (in this case a Word doc) and will also run all of the code and print the results _into the document_. If there are errors in the code, it will stop, and you have to fix them, then try again.
 
 ### What you'll do

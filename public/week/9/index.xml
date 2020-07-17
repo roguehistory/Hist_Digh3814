@@ -27,21 +27,21 @@ Read  ‘The Numbers Don’t Speak for Themselves’ Draft chapter from Data Fem
       </item>
       
       <item>
-        <title></title>
+        <title>Archaeology Data Service</title>
         <link>https://hist3000.netlify.app/week/9/ads/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/9/ads/</guid>
-        <description>ADS
+        <description>ADS, Open Context, tDAR
 explain, have them look around, see the csvs
 Working with data deposited in ADS. Code is an adaptation of Rachel Optiz&amp;rsquo;s notebook, &amp;lsquo;Exploring published data from the ADS&amp;rsquo;. Dr. Opitz&amp;rsquo;s work is written in Python, if you want to take a look at how she does it.
 Introduction Any data published as CSV files with the ADS can be pulled into R for exploration, asking your own questions with it, and generally doing research.</description>
       </item>
       
       <item>
-        <title></title>
+        <title>Archaeologists Teaching Archaeologists</title>
         <link>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</guid>
         <description>the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
@@ -51,9 +51,9 @@ or at least, identify something they&amp;rsquo;d like to use on graveyards data 
       </item>
       
       <item>
-        <title></title>
+        <title>Replication as Teaching</title>
         <link>https://hist3000.netlify.app/week/9/replication/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/9/replication/</guid>
         <description>This exercise might be very difficult. Ben Marwick argues that
