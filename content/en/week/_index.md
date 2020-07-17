@@ -9,3 +9,7 @@ Each week, you have tasks, readings, and or things to listen to/watch that I wou
 
 ![Black and white image of men standing around man in old fire fighter suit and air being pumped to him through a hose](/images/2163099221_eb9ab72268.jpg)
 _"'Getting Ready for the Fire, Kasier Wilhelm' Bain Collection, Library of Congress [hdl.loc.gov/loc.pnp/ggbain.10412](https://hdl.loc.gov/loc.pnp/ggbain.10412) Call Number: LC-B2- 2400-7"_
+
++ Module 1, Capturing|Creating: Wks 1 - 4.
++ Module 2, Considering|Critiquing: Wks 5 - 8.
++ Module 3, Communicating: Wks 9 - 12.

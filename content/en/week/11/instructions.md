@@ -14,11 +14,9 @@ weight: -2
 - TODO
 - TODO
 
-
 ### Listen
 
 [Feed for the podcast here.]()
-
 
 ### Read
 
@@ -35,9 +33,8 @@ A good annotation draws connections between what you've read and other things yo
 ### Do
 
 - engage creatively with your data [to tell a compelling story](/week/11/creativity)
-- tell the story of your graveyard with [clio app](/week/11/clio)
+- tell the story of your graveyard with [the clio app](/week/11/clio)
 - try some [archaeogaming](/week/11/archaeogaming)
-
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
