@@ -41,9 +41,9 @@ _I do not necessarily expect you to complete all of these, because you are all c
 
 ### Record and Reflect
 
-1. TODO
+1. As you did for week one, make another notes.md entry and put it in your private github repository for week 7.
 
-2. TODO
+2. TODO   . Put your journal entry in your repo.
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 

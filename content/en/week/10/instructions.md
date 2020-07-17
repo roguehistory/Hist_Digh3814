@@ -44,9 +44,9 @@ _Unlike in previous weeks, I really want you to do both of these. For the resear
 
 ### Record and Reflect
 
-1. TODO
+1. As you did for week one, make another notes.md entry and put it in your private github repository for week 10.
 
-2. TODO
+2. TODO    . Put your journal entry in your repo.
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 

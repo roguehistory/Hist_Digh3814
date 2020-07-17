@@ -42,9 +42,9 @@ Talk to each other. For instance, you might want to share photos of what you're 
 
 ### Record and Reflect
 
-1. Log your process in your private github repository
+1. As you did for week one, make another notes.md entry and put it in your private github repository for week 2.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the ethical issues that this week's work presents to you as you go out into your community. Are there ethical or physical dangers for you? What are the challenges for doing digital archaeology in your own particular context? How does the work I am asking you to do present ethical or moral challenges for your community?
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the ethical issues that this week's work presents to you as you go out into your community. Are there ethical or physical dangers for you? What are the challenges for doing digital archaeology in your own particular context? How does the work I am asking you to do present ethical or moral challenges for your community? Put your journal entry in your repo.
 
 ### Log Your Work
 

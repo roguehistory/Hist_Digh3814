@@ -46,9 +46,9 @@ _These exercises are important, so you can continue them next week if necessary.
 
 ### Record and Reflect
 
-1. Log your process in your private github repository.
+1. As you did for week one, make another notes.md entry and put it in your private github repository for week 5.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the space between the action of counting, and the reality of the things that have been counted. In what ways does the coding scheme from [DEBS](https://debs.ac.uk) miss, elide, or highlight memorialization practice in Canadian graveyards? If you were able to get our data into a notebook and begin examining it, what patterns emerge and what do they suggest (given what you've read this week)?
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the space between the action of counting, and the reality of the things that have been counted. In what ways does the coding scheme from [DEBS](https://debs.ac.uk) miss, elide, or highlight memorialization practice in Canadian graveyards? If you were able to get our data into a notebook and begin examining it, what patterns emerge and what do they suggest (given what you've read this week)? Put your journal entry in your repo.
 
 ### Log You Work
 
