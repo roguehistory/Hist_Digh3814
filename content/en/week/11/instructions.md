@@ -20,7 +20,6 @@ weight: -2
 [Feed for the podcast here.]()
 
 
-
 ### Read
 
 + Perry, Sara. 2019. The Enchantment of the Archaeological Record. European Journal of Archaeology. 22.3, 354-371[link](https://doi.org/10.1017/eaa.2019.24)
@@ -36,7 +35,8 @@ A good annotation draws connections between what you've read and other things yo
 ### Do
 
 - engage creatively with your data [to tell a compelling story](/week/11/creativity)
-- add your creative engagement to your [research compendium](/week/11/continue-compendium)
+- tell the story of your graveyard with [clio app](/week/11/clio)
+- try some [creative engagement](/week/11/creativity)
 
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
@@ -50,6 +50,6 @@ A good annotation draws connections between what you've read and other things yo
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can submit the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

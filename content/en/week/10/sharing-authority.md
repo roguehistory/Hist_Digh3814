@@ -15,4 +15,8 @@ Archaeologists have used digital media in a variety of ways to try to reach new 
 
 Then, I want you to actually sign up and complete some of the possible 'citizen science' tasks at Micropasts  (UK) [https://crowdsourced.micropasts.org/](https://crowdsourced.micropasts.org/).
 
+_OR_
+
+Give this project on transcribing hieroglyphics a try [https://fabriciusworkbench.withgoogle.com/](https://fabriciusworkbench.withgoogle.com/). It is a collaboration between humans and machines to teach the machines to automatically decipher hieroglyphs. (You'll need to watch the [tutorial](https://artsandculture.google.com/story/gwXxcXwClTM8JA) and then use Google image search to find a picture of an inscription to try to translate.)
+
 Connect what you do with what you've read and observed. How is archaeological expertise conveyed, shared, defended, or enlarged by these projects?

@@ -36,7 +36,11 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-- to do Rachel's notebook on ADS data reuse (but should i redo in R?)
+_I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
+
+- [Archaeology Data Service, how it makes data available, and a simple bit of code for getting that data into R](/week/9/ads)
+- [Replicating others' research, and research compendia](/week/9/replication)
+- [Archaeologists teaching other archaeologists code](/week/9/archaes-teaching-archaes)
 
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
@@ -50,6 +54,6 @@ A good annotation draws connections between what you've read and other things yo
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can log the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

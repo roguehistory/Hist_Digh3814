@@ -16,13 +16,13 @@ The last bit of the course is the **Exit Ticket**.
 
 ### Do
 
-The format of the exit ticket is up to you. You craft a statement reflecting on where you started and where you’ve gotten to, and you will indicate how you feel you’ve done against the [learning outcomes](https://craftingdh.netlify.com/docs/2-learning-outcomes). You may, if you wish, indicate what you think your letter grade ought to be, and why.
+The format of the exit ticket is up to you. You craft a statement reflecting on where you started and where you’ve gotten to, and you will indicate how you feel you’ve done against the [learning outcomes](/docs/2-learning-outcomes). You may, if you wish, indicate what you think your letter grade ought to be, and why.
 
 [more]
 
 ### Submit work
 
-You can submit the link to your work on [this form](https://docs.google.com/forms/d/e/1FAIpQLSc3iURU-J6usI6994Hm9MkBsIViOEbnoIyqtxhmhXbFW8raAw/viewform?usp=sf_link)
+You can submit the link to your work on [this form](#). 
 
 ### Celebrate
 

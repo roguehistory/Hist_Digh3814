@@ -122,7 +122,7 @@ Do  Create a short consolidation document that reflects on this first module and
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/alternative-project/</guid>
-        <description>Annotate this page with hypothesis while being logged into our course reading group with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course.</description>
+        <description>Annotate this page with hypothesis (while being logged into our course reading group) with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course.</description>
       </item>
       
       <item>
@@ -141,8 +141,8 @@ Do  Create a short consolidation document that reflects on this first module and
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/6/instructions/</guid>
-        <description>The Contexts of Digital and Other Archaeologies Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
-Read  White, William and Catherine Draycott. 2020 Why the Whiteness of Archaeology Is a Problem. SAPIENS link Perry, Sara and James Taylor. 2018. Theorising the Digital: A Call to Action for the Archaeological Community. In Oceans of Data: Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology, Mieko Matsumoto &amp;amp; Espen Uleberg, eds.</description>
+        <description>The Contexts of Digital and Other Archaeologies Goals for this week  Explore some of the literature of archaeology using a macroscopic point of view Understand the social context of archaeological practice Identify the antecedents to digital archaeology in the broader literature  Listen Feed for the podcast here.
+Read  White, William and Catherine Draycott. 2020 Why the Whiteness of Archaeology Is a Problem. SAPIENS link Perry, Sara and James Taylor.</description>
       </item>
       
       <item>
@@ -163,6 +163,15 @@ Read  White, William and Catherine Draycott. 2020 Why the Whiteness of Archaeolo
         <description>Futures of Digital Archaeology Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
 Read  Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. link
 Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen link AND RESPONSE by Rachel Opitz link Morgan, Colleen. 2019. Avatars, Monsters, and Machines: A Cyborg Archaeology. European Journal of Archaeology 22.</description>
+      </item>
+      
+      <item>
+        <title>A Research Compendium of One&#39;s Own</title>
+        <link>https://hist3000.netlify.app/week/10/start-compendium/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/10/start-compendium/</guid>
+        <description>Please do not feel that you have to do this on your own. In the binder that you will load up, there is a feature to start a video chat from within the binder. Make use of that! When you click on it, it&amp;rsquo;ll give you a code. Share that with people in this class (or friends outside the class who might be able to help). If someone does help you, just add their name to the appropriate spot in the document that will result from this exercise.</description>
       </item>
       
       <item>
@@ -192,7 +201,7 @@ While the digital recording system that we are using can read the geolocation of
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/8/instructions/</guid>
         <description>Consolidation Pause II Goals for this week  Use this time to catch up on anything you didn&amp;rsquo;t read, to try some of the exercises over again, and to consolidate what you&amp;rsquo;ve achieved so far.  Listen Feed for the podcast here.
-Do  Create a short consolidation document that reflects on this first module and your growth (one or two pages is fine). Feel free to build it from what you&amp;rsquo;ve already written in your logs.</description>
+Do  Create a short consolidation document that reflects on this second module and your growth (one or two pages is fine). Feel free to build it from what you&amp;rsquo;ve already written in your logs.</description>
       </item>
       
       <item>
@@ -287,7 +296,7 @@ Once you&amp;rsquo;re in, there&amp;rsquo;s a welcome message with a reaction em
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/12/instructions/</guid>
         <description>Consolidation Pause III Goals for this week  Use this time to catch up on anything you didn&amp;rsquo;t read, to try some of the exercises over again, and to consolidate what you&amp;rsquo;ve achieved so far.  Listen Feed for the podcast here.
-Do  Create a short consolidation document that reflects on this first module and your growth (one or two pages is fine). Feel free to build it from what you&amp;rsquo;ve already written in your logs.</description>
+Do  Create a short consolidation document that reflects on this third module and your growth (one or two pages is fine). Feel free to build it from what you&amp;rsquo;ve already written in your logs.</description>
       </item>
       
       <item>
@@ -421,6 +430,45 @@ Listen Do The format of the exit ticket is up to you. You craft a statement refl
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://hist3000.netlify.app/week/9/ads/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/ads/</guid>
+        <description>ADS
+explain, have them look around, see the csvs
+Working with data deposited in ADS. Code is an adaptation of Rachel Optiz&amp;rsquo;s notebook, &amp;lsquo;Exploring published data from the ADS&amp;rsquo;. Dr. Opitz&amp;rsquo;s work is written in Python, if you want to take a look at how she does it.
+Introduction Any data published as CSV files with the ADS can be pulled into R for exploration, asking your own questions with it, and generally doing research.</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/archaes-teaching-archaes/</guid>
+        <description>the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
+they don&amp;rsquo;t have to complete all the stuff in this one, but there are enough examples in this to keep them going forever.
+have them use something from in here on graveyards data.
+or at least, identify something they&amp;rsquo;d like to use on graveyards data once they figure things out (in the install_packages folder there&amp;rsquo;s basic_gis_not_using_sf that has point pattern analysis in it that might be useful, although might not be able to install in our virtual machine)</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://hist3000.netlify.app/week/9/replication/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/9/replication/</guid>
+        <description>This exercise might be very difficult. Ben Marwick argues that
+or do hope&amp;rsquo;s report?
+  have them open the notebook first; then the console; then git clone the replicable teaching thing of Ben&amp;rsquo;s.
+  then they can open Rstudio.
+  have them skim over the original paper by Ben https://www.sciencedirect.com/science/article/pii/S0278416513000470?via%3Dihub
+  have them see his data at https://figshare.com/articles/Stone_artefacts_and_human_ecology_at_two_rockshelters_in_Northwest_Thailand/765252
+  let them run the modified version of the code (not Rmd), tell them what it&amp;rsquo;s doing</description>
       </item>
       
     

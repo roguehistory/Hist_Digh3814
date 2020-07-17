@@ -38,7 +38,7 @@ This week and next you will head out into your local community to map a historic
 - Begin recording using the [kobotoolbox forms](/week/2/do-the-project)
 - There is an [alternative project](/week/2/alternative-project) if it is not feasible to go out into your community
 
-Talk to each other. For instance, you might want to share photos of what you're doing in the Discord server to ask others what they think of a particular grave monument, how they might code it in our system. I am not trying to catch-you-out, so it is ok to admit that you're not entirely sure about something: archaeology is social. We're all on the same team. 
+Talk to each other. For instance, you might want to share photos of what you're doing in the Discord server to ask others what they think of a particular grave monument, how they might code it in our system. I am not trying to catch-you-out, so it is ok to admit that you're not entirely sure about something: archaeology is social. We're all on the same team.
 
 ### Record and Reflect
 
@@ -48,4 +48,4 @@ Talk to each other. For instance, you might want to share photos of what you're 
 
 ### Log Your Work
 
-You can submit the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can log the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

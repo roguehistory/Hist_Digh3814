@@ -19,8 +19,6 @@ weight: -6
 
 [Feed for the podcast here.]()
 
-
-
 ### Read
 
 + Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. [link](https://doi.org/10.11141/ia.44.7)
@@ -33,6 +31,8 @@ Each reading is 'seeded' with annotations by me; some of my annotations contain 
 A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
 
 ### Do
+
+_I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
 
 - to do
 
@@ -48,6 +48,6 @@ A good annotation draws connections between what you've read and other things yo
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can log the link to your work on [this form](#)

@@ -7,14 +7,11 @@ weight: -7
 ---
 ## The Contexts of Digital and Other Archaeologies
 
-
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
-
+- Explore some of the literature of archaeology using a macroscopic point of view
+- Understand the social context of archaeological practice
+- Identify the antecedents to digital archaeology in the broader literature
 
 ### Listen
 
@@ -34,8 +31,9 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-- to do
-
+- A few years ago I created a [topic model](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#what-is-topic-modeling-and-for-whom-is-this-useful) of 20 000 archaeological articles from 1935 to 2010-ish. I want you to [explore it here](https://shawngraham.github.io/archae-topic-models/20000/#). Each of the bubbles is a 'topic'; if you click on 'years' you'll see a 'stream graph', or the proportion each topic accounts for that year's total archaeological writing output (in English speaking journals). Notice the inflection points? What was going on in the world at those points? (Remember there's a lag between work being done, and work being published). What other patterns do you notice? Are there topics that perhaps relate to the themes of this course? In what journals? By what authors?
+- [World Archaeology](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rwar20) tries to be a much more ...global... journal. It's not included in the 20 000 topic model. Here's another [topic model just for this particular journal](http://graeworks.net/digitalarchae/wa/#). Explore, and contrast this with the previous.
+- You can continue to try the exercises from last week as well.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
@@ -48,6 +46,6 @@ A good annotation draws connections between what you've read and other things yo
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can log the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

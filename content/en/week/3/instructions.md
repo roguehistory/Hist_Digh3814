@@ -39,8 +39,14 @@ _I do not necessarily expect you to complete all of these, because you are all c
 - [Create a webmap](/week/3/webmaps) showing the location of the graveyard and its stones.
 - [Go further with a gentle introduction to Spatial Archaeology](/week/3/spatial-archae)
 
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
+{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}
+
+Speaking of another pair of eyes - in any of the computational binders or notebooks I provide, **there is a feature to start a private video chat**. Please do not feel that you have to do this on your own. Make use of that! When you click on it, it'll give you a code. Share that with people in this class (or friends outside the class who might be able to help). Work on this stuff together. **Just make sure to acknowledge all and any collaboration.**
+
+![don't work alone](/images/dont-work-alone.png)
+
+If a binder loads you up directly into RStudio, you can get to the Jupyter screen by copying the url to a new tab in your browser, and then deleting the last bit of the url, the `/rstudio/` bit. This is handy because you can also select any files you create for download here, and of course, start up the video chat.
 
 ### Record and Reflect
 
@@ -50,4 +56,4 @@ _I do not necessarily expect you to complete all of these, because you are all c
 
 ### Log Your Work
 
-You can submit the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can log the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

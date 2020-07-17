@@ -34,6 +34,8 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
+_Unlike in previous weeks, I really want you to do both of these. For the research compendium, you will need to pool resources with your peers; see the instructions._
+
 - Explore, and participate, [in some crowd-sourced archaeology](/week/10/sharing-authority)
 - Start to [build a research compendium](/week/10/start-compendium)
 
@@ -48,6 +50,6 @@ A good annotation draws connections between what you've read and other things yo
 
 Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
 
-### Submit Work
+### Log Your Work
 
-You can submit the link to your work on [this form](#)
+You can log the link to your work on [this form](#)
