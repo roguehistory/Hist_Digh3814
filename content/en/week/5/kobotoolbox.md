@@ -59,6 +59,16 @@ Incidentally, once you've got the form deployed, and filled it a couple of times
 
 9. Write things up, deposit in your repo.
 
+### KoboToolBox as Used by Archaeologists
+
+I learned about KoBoToolbox from Ben Carter at Muhlenberg College in Allentown PA. Allentown has an enormous amount of historical archaeology related to the steel industry, and Ben has been using it to do data collection in the field with his students. You can read about how and why he uses it in these posts:
+
++ [Digital Data Collection](http://benjaminpcarter.com/digital-data-collection/)
++ [Justification](http://benjaminpcarter.com/digital-data-collection/justification/)
++ [Criteria for selecting a digital data collection tool](http://benjaminpcarter.com/digital-data-collection/justification/)
++ [Tools (including a critique of KoBoToolbox)](http://benjaminpcarter.com/digital-data-collection/tools/)
++ [Worfklow (including a discussion of how he gets the data into QGIS)](http://benjaminpcarter.com/digital-data-collection/work-flow/)
+
 ### More Help
 
 See the [documentation](https://support.kobotoolbox.org/quick_start.html)

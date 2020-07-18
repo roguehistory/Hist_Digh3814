@@ -19,7 +19,11 @@ weight: -5
 
 - Create a short consolidation document that reflects on this second module and your growth (one or two pages is fine). Feel free to build it from what you've already written in your logs.
 
-Discuss _at least_ one 'fail' and one 'win'. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. What has been most challenging for you so far, and why is that? What are the implications for 'doing' digital archaeology? What are some of the ethical dimensions to the work you've encountered so far? Integrate my feedback on your earlier work or any feedback you have received from your peers, summarizing the work you have done to date.
+Discuss _at least_ one 'fail' and one 'win'. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. What has been most challenging for you so far, and why is that? This module has been about 'Considering|Critiquing', where we have tried to both find the patterns in data but also think about the ways we collect that data impact the kinds of patterns we might see.
+
+Given what you've read and explored in this last module, what are the implications for 'doing' digital archaeology... and are they different from what you were thinking at the end of module 1? What are some of the new dilemmas to the work you've encountered so far? 
+
+Integrate my feedback on your earlier work or any feedback you have received from your peers, summarizing the work you have done to date.
 - Upload this to your private github repository.
 
 ### Submit Work for Grading
