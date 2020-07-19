@@ -33,8 +33,9 @@ A good annotation draws connections between what you've read and other things yo
 
 _I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
 
-- to do
-
+- Raising the Dead I: [Agent Based Models](/week/7/abm)
+- Raising the Dead II: [Language Models and Artificial Intelligence](/week/7/raise-the-dead-ii)
+- The Automated Archaeologist: [Build an Archaeological Pottery Recognition App with Computer Vision](/week/7/computer-vision)
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

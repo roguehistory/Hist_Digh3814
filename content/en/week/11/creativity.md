@@ -10,3 +10,7 @@ author: "Shawn Graham"
 ### Introduction
 
 maybe bash together the creative bits from crafting course
+
+Could do sonification via the o-date library? dates on gravestones
+
+nerdstep music 
