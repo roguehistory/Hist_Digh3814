@@ -21,7 +21,7 @@ For my money, a video game does one thing really well: it teaches the player how
 
 But there are other ways of approaching the worlds created in video games as archaeological spaces. This week, I'll suggest three options.
 
-## Option 1: Graves and memorialization in-world
+### Option 1: Graves and memorialization in-world
 
 Here, I want you to select a game that you know well that includes within it graveyards or other memorials to the dead. Off the top of my head, I could imagine Dwarf Fortress, Dragon Age Inquisition, Witcher, or the Assassins' Creed franchise. And then I want you to record gravestones and other monuments in the game, using our KoboToolBox recording system that we used for the Graveyard Project.
 
@@ -33,7 +33,7 @@ Virtual worlds are still human worlds, and the way death is memorialized in ther
 
 Go into the game, and take screenshots. Then, working from your screenshots, [record them in our system](/week/2/do-the-project). Think about, and record, the ways memorialization is constructed in these games, and how it is similar/different from the 'real world' data.
 
-## Option 2: Craft a 'barely' game
+### Option 2: Craft a 'barely' game
 
 Rob MacDougall introduced me to the idea of ['barely games'](http://www.robmacdougall.org/blog/tag/games-and-gaming/) years ago. With this option, I want you to devise a 'barely game' that could be played with our [graveyards data](/data/graveyards-data.csv).
 
