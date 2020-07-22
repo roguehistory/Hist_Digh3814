@@ -9,10 +9,7 @@ weight: -2
 
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
+- Last week was about getting your work out there. This week is about finding the compelling story, the enchanting story, the heart-centered work of archaeology.
 
 ### Listen
 

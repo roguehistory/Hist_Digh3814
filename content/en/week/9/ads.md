@@ -7,16 +7,13 @@ weight: -8
 author: "Shawn Graham"
 ---
 
-ADS, Open Context, tDAR
-
-explain, have them look around, see the csvs
-
-Working with data deposited in ADS. Code is an adaptation of Rachel Optiz's notebook, ['Exploring published data from the ADS'](https://github.com/ropitz/spatialarchaeology/blob/master/ADSDataExercise.ipynb). Dr. Opitz's work is written in Python, if you want to take a look at how she does it.
-
 ### Introduction
+In this exercise, we're working with data deposited in ADS.  The code at the bottom is an adaptation of Rachel Optiz's notebook, ['Exploring published data from the ADS'](https://github.com/ropitz/spatialarchaeology/blob/master/ADSDataExercise.ipynb). Dr. Opitz's work is written in Python, if you want to take a look at how she does it.
 
 Any data published as CSV files with the ADS can be pulled into R for exploration, asking your own questions with it, and generally doing research.
 For example, play with the data from Ewan Campbell's 2007 deposit "Imported Material in Atlantic Britain and Ireland c.AD400-800", found at http://archaeologydataservice.ac.uk/archives/view/campbell_cba_2007/downloads.cfm
+
+Open our R Studio in the cloud (right-click [this link](http://mybinder.org/v2/gh/o-date/r-conda/master?urlpath=rstudio)). Create a new script, and then paste the below into it. Work through it one line at a time, taking note of the comments as you go. When you get to the end, explore the ADS, find another dataset, and try modifiying the code to explore the new data. What kind of work do you imagine must be necessary to get data into shape for the ADS?
 
 ```R
 # set up required libraries

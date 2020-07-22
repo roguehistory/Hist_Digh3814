@@ -22,8 +22,8 @@
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/10/instructions/</guid>
-        <description>Communities Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
-Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doha Project: Online Digital Heritage Remediation and Public Outreach in a Vanishing Pearling Town in the Arabian Gulf. CHNT 20: Conference on Cultural Heritage and New Technologies November 2-4. 1-8. link Richardson, L.-J., 2019. Using Social Media as a Source for Understanding Public Perceptions of Archaeology: Research Challenges and Methodological Pitfalls.</description>
+        <description>Communities Goals for this week  Participate in some crowd-sourced &amp;lsquo;citizen science&amp;rsquo; archaeology Build your own research compendium for work you&amp;rsquo;ve done on the graveyards project Build a simple website aimed at explaining your research compendium to an interested public.  Listen Feed for the podcast here.
+Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doha Project: Online Digital Heritage Remediation and Public Outreach in a Vanishing Pearling Town in the Arabian Gulf.</description>
       </item>
       
       <item>
@@ -43,6 +43,16 @@ Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doh
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/10/start-compendium/</guid>
         <description>Please do not feel that you have to do this on your own. In the binder that you will load up, there is a feature to start a video chat from within the binder. Make use of that! When you click on it, it&amp;rsquo;ll give you a code. Share that with people in this class (or friends outside the class who might be able to help). If someone does help you, just add their name to the appropriate spot in the document that will result from this exercise.</description>
+      </item>
+      
+      <item>
+        <title>Static Websites</title>
+        <link>https://hist3000.netlify.app/week/10/static-websites/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/10/static-websites/</guid>
+        <description>Building a website from scratch can be onerous. Using a system like Wordpress or Squarespace etc can leave you locked in to someone else&amp;rsquo;s platform (and any security issues that might entail).
+Here, we&amp;rsquo;re going to build a simple website that uses nothing but text files as its source; these text files will always be readable into the future, and you can also copy them to your own machine so that they&amp;rsquo;re always handy, ready to be transformed into something else.</description>
       </item>
       
     

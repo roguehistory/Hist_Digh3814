@@ -9,10 +9,10 @@ weight: -10
 
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
+- Try your hand at building an image classifier
+- Simulate the Roman economy
+- Raise the ghost of Rudolopho Lanciani
+- Situate this work in an understanding of the potential futures for digital archaeology, but also in the context of current work in archaeology.
 
 ### Listen
 

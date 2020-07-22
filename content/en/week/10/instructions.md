@@ -9,11 +9,9 @@ weight: -10
 
 ### Goals for this week
 
-- TODO
-- TODO
-- TODO
-- TODO
-
+- Participate in some crowd-sourced 'citizen science' archaeology
+- Build your own research compendium for work you've done on the graveyards project
+- Build a simple website aimed at explaining your research compendium to an interested public.
 
 ### Listen
 
@@ -38,6 +36,7 @@ _Unlike in previous weeks, I really want you to do both of these. For the resear
 
 - Explore, and participate, [in some crowd-sourced archaeology](/week/10/sharing-authority)
 - Start to [build a research compendium](/week/10/start-compendium)
+- Using what you know about public facing work in archaeology, build a [static website on github pages](/week/10/static-websites) explaining (and eventually, linking to) your research compendium and the work that you've done on the graveyards project.
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

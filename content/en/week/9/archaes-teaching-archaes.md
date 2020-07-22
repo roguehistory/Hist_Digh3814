@@ -7,18 +7,19 @@ weight: -7
 author: "Shawn Graham"
 ---
 
+## Introduction  
 
-the saa2017 package too: let them load this up and explore: another example of archaeologists communicating (note the packages that have to be installed; use the install button)
+The same workflows that enable us to replicate someone's analysis and research can also be used to teach digital archaeology. At the Society for American Archaeology conference in 2017, Matt Harris and Ben Marwick created a repository to teach archaeologists some of the basic archaeological uses of R. We're going to re-run that workshop here.
 
-they don't have to complete all the stuff in this one, but there are enough examples in this to keep them going forever.
+## Get set up
 
-have them use something from in here on graveyards data.
+[Launch the binder containing R Studio](http://mybinder.org/v2/gh/o-date/r-conda/master). This will open up the Jupyter file explorer for our binder.
+2. Under the `new` drop-down, select `console`. We need to do some command line work.
+3. At the console, use the git command to clone Harris's repository: `$ git clone https://github.com/mrecos/SAA_R_workshop_2017.git`. You **do not** type the `$`; that is a convention to indicate that the code should be entered at the console.
+4. Once that's finished running, go back to the Jupyter file explorer page; select under the `new` drop-down select `R Studio`.
 
-
-or at least, identify something they'd like to use on graveyards data once they figure things out (in the install_packages folder there's basic_gis_not_using_sf that has point pattern analysis in it that might be useful, although might not be able to install in our virtual machine)
-
-added sf and spatstat. try again in the morning.
-
-https://github.com/mrecos/SAA_R_workshop_2017
-
-do the git clone thing. then can click on the rproject file, then the r file, and the working directory etc will be done.
+## Give it a go
+5. In the R Studio file browser, open the `SAA_R_workshop_2017` folder. There's a file called `SAA_R_workshop_2017.Rproj`; double-click on that.
+6. Then, open the `SAA2017-Workshop-Using-R-for-Archaeological-Data-Analysis.R` script, and begin to work your way through that.
+7. Feel free to add comments to the code to help remind you what's happening, or to identify errors and so on; save your R script. You can download your R script to your machine by clicking on the Jupyter file explorer page, ticking off the script, and hitting download.
+8. There are lots of different examples of doing different kinds of archaeological analysis in this script. You don't have to do all of them. **But** try identifying one or two that you'd like to use on our graveyards data. Use what you've learned from earlier in our course to read our data into your R Studio so that you can give it a shot.
