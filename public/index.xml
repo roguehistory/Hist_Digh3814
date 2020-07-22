@@ -48,6 +48,17 @@ Read  Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social
       </item>
       
       <item>
+        <title>M2 Wk7: Instructions</title>
+        <link>https://hist3000.netlify.app/week/7/instructions/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/instructions/</guid>
+        <description>Futures of Digital Archaeology Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
+Read  Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. link
+Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen link AND RESPONSE by Rachel Opitz link Morgan, Colleen. 2019. Avatars, Monsters, and Machines: A Cyborg Archaeology. European Journal of Archaeology 22.</description>
+      </item>
+      
+      <item>
         <title>M3 Wk10: Instructions</title>
         <link>https://hist3000.netlify.app/week/10/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
@@ -204,22 +215,22 @@ or at least, identify something they&amp;rsquo;d like to use on graveyards data 
       </item>
       
       <item>
-        <title>Computer Vision</title>
-        <link>https://hist3000.netlify.app/week/7/computer-vision/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/7/computer-vision/</guid>
-        <description>A brief introduction to neural networks and their ilk
-https://github.com/o-date/Identifying-Similar-Images-with-TensorFlow-notebooks</description>
-      </item>
-      
-      <item>
         <title>Graveyard Project Alternative</title>
         <link>https://hist3000.netlify.app/week/2/alternative-project/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/alternative-project/</guid>
         <description>Annotate this page with hypothesis (while being logged into our course reading group) with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course.</description>
+      </item>
+      
+      <item>
+        <title>Neural Networks &amp; Computer Vision</title>
+        <link>https://hist3000.netlify.app/week/7/computer-vision/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/computer-vision/</guid>
+        <description>Introduction Gif by Alex Mordvintsev showing how neural networks &amp;lsquo;see&amp;rsquo;; a higher resolution version is available here.
+When our eyes see an image, various receptors in the retina respond by firing. Some fire in response to various colours. Some fire in response to light and shadow. Imagine that these cells are arranged in layers. If those simple cells in the first layer fire, they pass a signal to the next layer up.</description>
       </item>
       
       <item>
@@ -284,17 +295,6 @@ or do hope&amp;rsquo;s report?
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/safework/</guid>
         <description>If any of the instructions below are unclear, annotate this page with hypothesis while being logged into our course reading group. If you spot someone asking for help and you can offer advice, respond to the annotation. Introduction This week, I am asking you to go out into your community and find a historic graveyard to work on. There was a graveyard in the middle of a field not far from the childhood home of a friend of mine.</description>
-      </item>
-      
-      <item>
-        <title>M2 Wk7: Instructions</title>
-        <link>https://hist3000.netlify.app/week/7/instructions/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/7/instructions/</guid>
-        <description>Futures of Digital Archaeology Goals for this week  TODO TODO TODO TODO  Listen Feed for the podcast here.
-Read  Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. link
-Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen link AND RESPONSE by Rachel Opitz link Morgan, Colleen. 2019. Avatars, Monsters, and Machines: A Cyborg Archaeology. European Journal of Archaeology 22.</description>
       </item>
       
       <item>

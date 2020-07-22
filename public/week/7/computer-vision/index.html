@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Computer Vision – HIST3000|CLCV3000</title>
+    <title>Neural Networks &amp; Computer Vision – HIST3000|CLCV3000</title>
     
 
 
@@ -1008,7 +1008,7 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "headline": "Computer Vision",
+    "headline": "Neural Networks \u0026 Computer Vision",
     "datePublished": "2020-01-28T00:10:51+09:00",
     "dateModified": "2020-01-28T00:10:51+09:00",
     "url" : "https://hist3000.netlify.app/week/7/computer-vision/",
@@ -1057,7 +1057,7 @@
     <div class="menu">
   <h6 class="menu__label">
     
-      Computer Vision
+      Neural Networks &amp; Computer Vision
     
   </h6>
   <ul>
@@ -1435,7 +1435,15 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/7/computer-vision/" class="menu__title active" data-depth="0">Computer Vision</a>
+          <a href="https://hist3000.netlify.app/week/7/instructions/" class="menu__title " data-depth="0">M2 Wk7: Instructions</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
+          <a href="https://hist3000.netlify.app/week/7/computer-vision/" class="menu__title active" data-depth="0">Neural Networks &amp; Computer Vision</a>
         </li>
       
     
@@ -1452,14 +1460,6 @@
         
         <li>
           <a href="https://hist3000.netlify.app/week/7/raise-the-dead-ii/" class="menu__title " data-depth="0">Raise the Dead II</a>
-        </li>
-      
-    
-      
-        
-        
-        <li>
-          <a href="https://hist3000.netlify.app/week/7/instructions/" class="menu__title " data-depth="0">M2 Wk7: Instructions</a>
         </li>
       
     
@@ -2047,7 +2047,7 @@
   <div class="header__wrapper bgcolor__header">
     <div class="divider">
       <div class="lmr">
-        <h2 class="title">Computer Vision</h2>
+        <h2 class="title">Neural Networks &amp; Computer Vision</h2>
       </div>
     </div>
   </div>
@@ -2072,7 +2072,7 @@
         <div class="menu">
   <h6 class="menu__label">
     
-      Computer Vision
+      Neural Networks &amp; Computer Vision
     
   </h6>
   <ul>
@@ -2450,7 +2450,15 @@
         
         
         <li>
-          <a href="https://hist3000.netlify.app/week/7/computer-vision/" class="menu__title active" data-depth="0">Computer Vision</a>
+          <a href="https://hist3000.netlify.app/week/7/instructions/" class="menu__title " data-depth="0">M2 Wk7: Instructions</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
+          <a href="https://hist3000.netlify.app/week/7/computer-vision/" class="menu__title active" data-depth="0">Neural Networks &amp; Computer Vision</a>
         </li>
       
     
@@ -2467,14 +2475,6 @@
         
         <li>
           <a href="https://hist3000.netlify.app/week/7/raise-the-dead-ii/" class="menu__title " data-depth="0">Raise the Dead II</a>
-        </li>
-      
-    
-      
-        
-        
-        <li>
-          <a href="https://hist3000.netlify.app/week/7/instructions/" class="menu__title " data-depth="0">M2 Wk7: Instructions</a>
         </li>
       
     
@@ -2787,8 +2787,29 @@
   
 
   <article class="single__contents" data-dir="ltr">
-    <p>A brief introduction to neural networks and their ilk</p>
-<p><a href="https://github.com/o-date/Identifying-Similar-Images-with-TensorFlow-notebooks">https://github.com/o-date/Identifying-Similar-Images-with-TensorFlow-notebooks</a></p>
+    <h2 id="introduction">Introduction</h2>
+<p><p class="md__image">
+  <img src="https://media.giphy.com/media/LXRhyTjXJEUmQG1NrT/giphy.gif" alt="neural network gif"  />
+</p></p>
+<p>Gif by Alex Mordvintsev showing how neural networks &lsquo;see&rsquo;; a higher resolution version is available <a href="https://twitter.com/zzznah/status/1118917356430995456" target="_blank">here</a>.</p>
+<p>When our eyes see an image, various receptors in the retina respond by firing. Some fire in response to various colours. Some fire in response to light and shadow. Imagine that these cells are arranged in layers. If those simple cells in the first layer fire, they pass a signal to the next layer up. The cells in <em>that</em> layer might only fire if they get enough &lsquo;activations&rsquo; from the previous layer. Each layer in turn receives the input of more and more complicated patterns of connections from the previous layer. Eventually, the brain receives the signal.</p>
+<p>A biologist might read that paragraph, and shudder. Neural networks have long been around in the field of artificial intelligence, and they&rsquo;ve been modelled after that simple analogy. Since about 2012 or so, the field of neural networks has exploded with the raw computing power of commercial grade GPUs. The key to the recent explosion has been this combination of raw computing power, large million image datasets, and the idea of allowing inputs to back propogated along the network: basically, if you put enough images of a dog in front of the neural network, the average pattern of connection and firing could be labelled &lsquo;dog&rsquo;; then if a picture of, say, a cat was put in front of the network, the <em>distance</em> or <em>similarity</em> of the firing could be compared to that we know for &lsquo;dog&rsquo; and a score computed. Put enough pictures of cats in front of the neural network, and the network learns what &lsquo;cats&rsquo; look like.</p>
+<p>I simplify enormously, of course, but that&rsquo;s the gist. The neat thing is, once you&rsquo;ve got a network trained on thousands of different kinds of things - which takes enormous computing power and resources - you can <em>retrain</em> just the <strong>last</strong> layer of the network with new data, to teach it what something looks like that it wasn&rsquo;t trained on. Retrain the network on pictures of Roman pottery, and it will learn what different kinds of Roman pottery look like (but you can&rsquo;t use it for dogs any more). The network lights up in a particular way when it encounters pictures of <em>verenice nera</em>, and we can say: this pattern = verenice nera, with a given probability.</p>
+<p>(For a discussion on the use of neural networks in archaeology, see <a href="https://www.academia.edu/8434624/Neural_networks_in_archaeology" target="_blank">Baxter 2014</a>).</p>
+<p>Indeed, you don&rsquo;t even need to have labelled categories of things for a pretrained neural network to be useful. The Yale DH Lab uses a neural network without that final layer to find image similarity: it shows images to the network, and computes the distance between how the network lights up for one image versus a different image. This distance can then be expressed in two-dimensional space, and you end up with a visualization of visual similarity! See <a href="https://github.com/YaleDHLab/pix-plot" target="_blank">their repository here</a>.</p>
+<p><p class="md__image">
+  <img src="https://raw.githubusercontent.com/YaleDHLab/pix-plot/master/pixplot/web/assets/images/preview.png" alt="pixplot"  />
+</p></p>
+<h2 id="exercise">Exercise</h2>
+<p>In this exercise, you&rsquo;re going to re-train a neural network on a small dataset of Roman pottery images.</p>
+<ol>
+<li>
+<p>In our <a href="https://github.com/shawngraham/hist3000/blob/master/static/data/archaeological_image_classifier.ipynb" target="_blank">course repository</a> I have created a notebook containing all of the code necessary to build a simple image classifier that you will train on some Roman pottery wares.  Hit the blue &lsquo;open in colab&rsquo; button. The notebook assumes you have a Google drive account. You will need to upload the <a href="https://github.com/shawngraham/hist3000/blob/master/static/data/data.zip?raw=true" target="_blank">image data zipped folder</a> (clicking the link should start a download to your machine).</p>
+</li>
+<li>
+<p>Read the notebook carefully, and make sure to run each cell in sequence, letting a cell complete before you run the next one. Also, you need to make sure that the notebook settings for hardware acceleration are set to &lsquo;gpu&rsquo; (see the getting started block in the notebook).</p>
+</li>
+</ol>
 
   </article>
 </div>
@@ -2796,6 +2817,13 @@
 <div class="grow"></div>
 <nav class="pagination-single">
   
+    
+      <a href="https://hist3000.netlify.app/week/7/instructions/" title="M2 Wk7: Instructions" class="pagination-single__left">
+        <div class="pagination-single__icon">
+          <svg xmlns="https://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
+        </div>
+        <div class="pagination-single__right-title">M2 Wk7: Instructions</div>
+      </a>
     
     <div class="grow"></div>
     
@@ -2818,7 +2846,12 @@
         <div class="toc">
   <h6 class="toc__label">What&#39;s on this Page</h6>
   <div class="toc__body">
-    <nav id="TableOfContents"></nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#exercise">Exercise</a></li>
+  </ul>
+</nav>
   </div>
 </div>
       

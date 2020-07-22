@@ -3,7 +3,7 @@ title: "M2 Wk7: Instructions"
 description: "Futures of Digital Archaeology"
 date: 2020-01-28T00:10:37+09:00
 draft: false
-weight: -6
+weight: -10
 ---
 ## Futures of Digital Archaeology
 
