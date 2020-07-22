@@ -11,13 +11,13 @@ author: "Shawn Graham"
 
 There are lots of different ways to engage with archaeological data in creative ways that can create an affecting and effective story. [Epoiesen - A Journal for Creative Engagement in History and Archaeology](https://epoiesen.library.carleton.ca) has published a number of pieces that use a wide variety of modes to tell the story, from [photo essays](https://epoiesen.library.carleton.ca/2020/06/18/walking-from-dunning/) to [time lapse art](https://epoiesen.library.carleton.ca/2020/03/04/classicist-in-disguise/) to [papercraft](https://epoiesen.library.carleton.ca/2019/03/14/york-minster-papercraft/).
 
-For this exercise, I want you to scratch that creative itch. I'm open to just about anything; if you have some sort of art or media practice you'd like to employ, by all means, go ahead. If however you're a bit like me - I'm all thumbs - you might want a bit of support. Below are two suggestions and supporting materials.
+For this exercise, I want you to scratch that creative itch. I'm open to just about anything; **if you have some sort of art or media practice you'd like to employ, by all means, go ahead.** If however you're a bit like me - I'm all thumbs - you might want a bit of support. Below are two suggestions and supporting materials.
 
 As you design and implement your piece, keep notes or 'paradata' on what you're doing and why - make explicit connections with the readings. The pieces on _Epoiesen_ can serve as models for paradata.
 
 **The theme of your piece**: a creative engagement with the graveyard project, and your work on that material.
 
-Two possible options: sonification, or photo-essay.
+Two suggestions: sonification, or photo-essay. I may add more supporting materials.
 
 ### Sonification  
 
@@ -44,3 +44,40 @@ A photoessay can be put together using a static gh-pages site (which you learned
 8. Now the text for your images: make text files for each image. If the image is 'sunny-day.png', the associated text should be in 'sunny-day.txt'. To control the order, change the names to have numbers at the start, eg '05-sunny-dat.txt'. (Names will be sorted alphabetically).
 
 9. Examine the resulting folder.
+
+### Step.works
+
+Stepworks is a newish service that uses the idea of the 'single tap' as the interaction that moves you through a multi-media piece; in its own words, "Stepworks turns just about anything into an embeddable digital instrument you can perform with clicks, taps, or keypresses. All you need is Google Sheets."
+
+The idea is that each column in a spreadsheet can be a kind of 'voice', while each row is what should happen on a subsequent tap. Spreadsheets then get loaded into a 'stage' that has different kinds of interactions or layouts. One looks like a text message screen; another can handle a kind of splitscreen effect (it reminds me of the opening to any Marvel movie, when the big 'MARVEL' logo appears).
+
+Now, it's still in beta, so there are some rough edges. Here's an example that ties voice clips and short movies into a kind of documentary:
+
+<iframe width="560" height="315" src="http://step.works/index.php/show/embed/rewriting-relearning-1?http://step.works/index.php/show/rewriting-relearning-1" frameborder="0" allowfullscreen></iframe>
+
+I find that tapping with the space bar works best.
+
+1. Create a new google spreadsheet by [copying this one to your account](https://docs.google.com/spreadsheets/d/1ZnI0UYJMG77Uj4tIrFCtwwhRqF3zjrCtZWbhN-cKtjA/copy).
+
+2. You can add some more characters just by putting their name at the top of the columns, one name to one column.
+![stepworks](/images/stepworks.png)
+
+3. Your sheet can get complicated; you can mix in videos and other multimedia, as in the image below, _if the stage you choose to use accepts that_.
+
+![stepworks2](/images/stepworks2.png)
+
+4. When you're ready, go to 'file' and hit 'publish to the web'. Accept whatever it says. Then, _don't copy the url that the pop up gives you_. Dismiss the pop up, and then copy the url in your address bar.
+
+5. Go to [http://step.works/index.php/stage](http://step.works/index.php/stage) and select the kind of stage you want to use.
+
+6. Hit the 'load' button, and then select 'google sheets' and paste the url in there.
+
+![stepworks3](/images/stepworks3.png)
+
+7. Do you see that button 'notes' at the bottom? If you click on that, special commands that you can enter to customize your work for the particular affordances of a particular stage will appear. **Not every stage will display all of the same material**. So do check those 'notes' as you develop.
+
+8. Every stage's url is constructed the same way. That means you can try the different stages, and just _paste_ in the bit from the `?sheets=` onwards (from the ? on!) after the url to the stage, eg:
+
+![stepworks4](/images/stepworks4.png)
+
+9. See what you can come up with, and share the link (you could try embedding it in your github repo for this week too).  
