@@ -51,11 +51,9 @@ Stepworks is a newish service that uses the idea of the 'single tap' as the inte
 
 The idea is that each column in a spreadsheet can be a kind of 'voice', while each row is what should happen on a subsequent tap. Spreadsheets then get loaded into a 'stage' that has different kinds of interactions or layouts. One looks like a text message screen; another can handle a kind of splitscreen effect (it reminds me of the opening to any Marvel movie, when the big 'MARVEL' logo appears).
 
-Now, it's still in beta, so there are some rough edges. Here's an example that ties voice clips and short movies into a kind of documentary:
+Now, it's still in beta, so there are some rough edges; it doesn't seem to use https (just plain ol' http) so you might get some security warnings. If you do, and your browser just doesn't want to play with it, then you might as well stop because it's not something that we, on our end, can fix.
 
-<iframe width="560" height="315" src="http://step.works/index.php/show/embed/rewriting-relearning-1?http://step.works/index.php/show/rewriting-relearning-1" frameborder="0" allowfullscreen></iframe>
-
-I find that tapping with the space bar works best.
+But if it does work for you, I find that tapping with the space bar works best once you're looking at something.
 
 1. Create a new google spreadsheet by [copying this one to your account](https://docs.google.com/spreadsheets/d/1ZnI0UYJMG77Uj4tIrFCtwwhRqF3zjrCtZWbhN-cKtjA/copy).
 
@@ -68,7 +66,7 @@ I find that tapping with the space bar works best.
 
 4. When you're ready, go to 'file' and hit 'publish to the web'. Accept whatever it says. Then, _don't copy the url that the pop up gives you_. Dismiss the pop up, and then copy the url in your address bar.
 
-5. Go to [http://step.works/index.php/stage](http://step.works/index.php/stage) and select the kind of stage you want to use.
+5. Go to [https://step.works/index.php/stage](https://step.works/index.php/stage) and select the kind of stage you want to use.
 
 6. Hit the 'load' button, and then select 'google sheets' and paste the url in there.
 
