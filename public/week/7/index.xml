@@ -17,6 +17,36 @@
     
       
       <item>
+        <title>Computer Vision</title>
+        <link>https://hist3000.netlify.app/week/7/computer-vision/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/computer-vision/</guid>
+        <description>A brief introduction to neural networks and their ilk
+https://github.com/o-date/Identifying-Similar-Images-with-TensorFlow-notebooks</description>
+      </item>
+      
+      <item>
+        <title>Raise the Dead I</title>
+        <link>https://hist3000.netlify.app/week/7/abm/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/abm/</guid>
+        <description>Read ODATE 4.4 - 4.4.1.3
+  Download and install Netlogo for your machine (there is an option called &amp;lsquo;Netlogo Web&amp;rsquo;, which runs in your browser. You can give that a shot, but I know that the bits below work on the desktop version. I haven&amp;rsquo;t tested on the web version.)
+    Option A: I wrote a guide to getting started with Netlogo that simulates trading pottery around a network, here: https://digitalarchaeology.</description>
+      </item>
+      
+      <item>
+        <title>Raise the Dead II</title>
+        <link>https://hist3000.netlify.app/week/7/raise-the-dead-ii/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/raise-the-dead-ii/</guid>
+        <description>We&amp;rsquo;re going to use a &amp;lsquo;language model&amp;rsquo;, trained on masses of english-language webpages, to raise Rudolopho Lanciani from the dead. The language model we&amp;rsquo;ll use - GPT-2 - is essentially a statistical model of what words are likely to be found together in a given context. If we trained a language model on my writing, the changes that the word &amp;lsquo;social&amp;rsquo; would be followed by &amp;lsquo;network&amp;rsquo; would be very high, if the rest of the text contained words like &amp;lsquo;links&amp;rsquo; or &amp;lsquo;edges&amp;rsquo; or &amp;lsquo;power&amp;rsquo;.</description>
+      </item>
+      
+      <item>
         <title>M2 Wk7: Instructions</title>
         <link>https://hist3000.netlify.app/week/7/instructions/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>

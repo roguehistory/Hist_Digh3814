@@ -56,3 +56,10 @@ The numbering system builds up to describe a stone, monument, or tomb. For insta
 I am imagining that recording between 5 and 10 stones will be feasible for you to do over the course of this week and next.
 
 Your data will upload to a server that I have access to, and be collated with the work of everyone else in the class. We will explore and use this data in the following weeks.
+
+### Some graveyard / mortuary archaeology projects
+
+- The Dead House Database [https://spadeandthegrave.com/dead-house-database/](https://spadeandthegrave.com/dead-house-database/)
+- Canadian Cemetery History [https://canadiancemeteryhistory.ca](https://canadiancemeteryhistory.ca)
+- DEBS [https://debs.ac.uk](https://debs.ac.uk)
+- Monumental Archive Project [https://monumentalarchiveproject.wordpress.com/](https://monumentalarchiveproject.wordpress.com/)
