@@ -33,7 +33,6 @@ A good annotation draws connections between what you've read and other things yo
 
 _I do not necessarily expect you to complete all of these, because you are all coming to this class with different levels of digital ability. These are listed in order of difficulty. Push yourself until you get stumped._
 
-
 - [Archaeology Data Service, how it makes data available, and a simple bit of code for getting that data into R](/week/9/ads)
 - [Replicating others' research, and research compendia](/week/9/replication)
 - [Archaeologists teaching other archaeologists code](/week/9/archaes-teaching-archaes)
@@ -47,9 +46,7 @@ _I do not necessarily expect you to complete all of these, because you are all c
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 9.
 
-2. TODO   Put your journal entry in your repo.
-
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+2. I am willing to bet that the idea of 'replication' has never cropped up in any of your other history or GRS classes. I want you to reflect on the readings and your work this week in the context of those _other_ classes. What might all of this imply for you as history or humanities students? Discuss this in the context of your wins/fails for this week. Put your journal entry in your repo.
 
 ### Log Your Work
 

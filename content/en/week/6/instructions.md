@@ -42,9 +42,7 @@ A good annotation draws connections between what you've read and other things yo
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 6.
 
-2. TODO   . Put your journal entry in your repo.
-
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss what you have observed from the topic models (and what you did last week) in the context of what you have read this week. Can you identify issues or trends that make you hopeful for the discipline? How do our course materials stack up - is there something that needs changing? Maybe it's something that I can change **right now**, and if that's the case, then I need to know. Put your journal entry in your repo.
 
 ### Log Your Work
 

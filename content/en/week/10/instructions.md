@@ -45,9 +45,7 @@ _Unlike in previous weeks, I really want you to do both of these. For the resear
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 10.
 
-2. TODO    . Put your journal entry in your repo.
-
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done this week (both the successes and the not-quite-successes) discuss the work you've done so far in this class as a whole and what it might mean for the communities which your graveyards serve. Put your journal in your repo.
 
 ### Log Your Work
 

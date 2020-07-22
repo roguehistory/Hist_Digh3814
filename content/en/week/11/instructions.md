@@ -40,9 +40,7 @@ A good annotation draws connections between what you've read and other things yo
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 11.
 
-2. TODO    Put your journal entry in your repo.
-
-Drawing on your annotations of what you've read (and/or your notes from what you've listened to), discuss ...
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes), discuss some ways in which a creative mindset might change what archaeology (or history for that matter) could be for you as a scholar. Put your journal in your repo.
 
 ### Log Your Work
 
