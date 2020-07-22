@@ -38,7 +38,7 @@ Every fourth week (that is, at the end of each module) you will submit a 'consol
 + Module 3 consolidation document: **due at the end of week twelve**; may be submitted in the following week _if you notify me in week twelve_.
 
 {{< alert theme="warning" >}}
-**Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Do not do this.
+**Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Thus, work done in this fashion cannot meet the learning goals of the course, with negative implications for your grade. Do not do this.
 {{< /alert >}}
 
 ### The Exit Ticket
