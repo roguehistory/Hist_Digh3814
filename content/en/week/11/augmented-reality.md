@@ -47,7 +47,7 @@ We're going to build a website that you load up on your phone, and which will th
 
 2. Create a new public repository on github for this exercise; initialize it with a readme file. Call the repo `ar-demo`.
 
-3. drag and drop the **unzipped** folder for your model into the repo. Commit your changes.
+3. Drag and drop the **unzipped** folder for your model into the repo. Commit your changes.
 
 4. Create a new file in that repo and call it `index.html`. **nb** This file lives at the same level as your `readme.md` file, _not_ inside your model folder.
 
@@ -110,7 +110,7 @@ Where I have `gravestone3/scene.gltf` you'll have the folder name for your model
 
 ### Conclusion
 
-This is a very basic example of something that could be done. If you explore the tutorial link I shared up above, you should be able to build more complex experiences. You could, for instance, set up _relative_ positioning, so that assets appear in space relative to the user, wherever they may be. You could then code in _all_ of your gravestones, and bring the graveyard to your users. You could set things up so that text or location markers appear. You could set things up so that audio plays, and the voices of the dead whisper to you...
+This is a very basic example of something that could be done. If you explore the tutorial links I shared up above, you should be able to build more complex experiences. You could, for instance, set up _relative_ positioning, so that assets appear in space relative to the user, wherever they may be. You could then code in _all_ of your gravestones, and bring the graveyard to your users. You could set things up so that text or location markers appear. You could set things up so that audio plays, and the voices of the dead whisper to you...
 
 {{< youtube wAdbynt4gyw >}}  
 
