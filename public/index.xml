@@ -119,6 +119,16 @@ Read  ‘What gets counted, counts’. Draft chapter from Data Feminism by Cathe
       </item>
       
       <item>
+        <title>Digital Creativity</title>
+        <link>https://hist3000.netlify.app/week/11/creativity/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/11/creativity/</guid>
+        <description>Introduction There are lots of different ways to engage with archaeological data in creative ways that can create an affecting and effective story. Epoiesen - A Journal for Creative Engagement in History and Archaeology has published a number of pieces that use a wide variety of modes to tell the story, from photo essays to time lapse art to papercraft.
+For this exercise, I want you to scratch that creative itch.</description>
+      </item>
+      
+      <item>
         <title>Photogrammetry</title>
         <link>https://hist3000.netlify.app/week/3/photogrammetry/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
@@ -158,13 +168,12 @@ Any data published as CSV files with the ADS can be pulled into R for exploratio
       </item>
       
       <item>
-        <title>Digital Creativity</title>
-        <link>https://hist3000.netlify.app/week/11/creativity/</link>
+        <title>Augmented Reality</title>
+        <link>https://hist3000.netlify.app/week/11/augmented-reality/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/11/creativity/</guid>
-        <description>Introduction There are lots of different ways to engage with archaeological data in creative ways that can create an affecting and effective story. Epoiesen - A Journal for Creative Engagement in History and Archaeology has published a number of pieces that use a wide variety of modes to tell the story, from photo essays to time lapse art to papercraft.
-For this exercise, I want you to scratch that creative itch.</description>
+        <guid>https://hist3000.netlify.app/week/11/augmented-reality/</guid>
+        <description>Introduction I read a lot of science fiction when I was a kid. Augmented and virtual realities were always a part of the scene, in the stuff I read. I&amp;rsquo;ve spent a lot of time over the past ten years or so trying to bring those visions to life, given the level of my tech chops and the available technologies I had to play with, with various degrees of success. I shelled out for an Oculus Rift SDK v2, put it on, plumbed it into Minecraft, and promptly had to lie down for three hours because my head went one way and my body went the other.</description>
       </item>
       
       <item>
