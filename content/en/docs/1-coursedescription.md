@@ -18,7 +18,7 @@ Once the excavation is over, what happens to the information created through arc
 
 You will read, watch, listen to, and discuss the class materials via various online tools including [Hypothes.is](http://hypothes.is) and [Github](http://github.com) (Speaking of Hypothes.is, highlight a word on this page and see what happens). We do not use cuLearn in the course. We work on the open web instead. Successful completion of this class involves doing a series of exercises each week designed to push you out of your comfort zone, AND to be a collegial and generous scholar engaging with, and helping your peers to achieve success. What is challenging for one student will not necessarily be challenging for another, and I expect you to push yourself and pull others along as you go. Thus open and honest reporting of what works and what hasn’t worked, is a meaningful aspect of this course. **Again: You don’t need to be techy to succeed, but you do need to be willing to embrace when things go ‘wrong’.**
 
-## The Most Important Idea
+### The Most Important Idea
 
 Archaeology's genesis was in racism, and colonialism.
 
@@ -36,14 +36,14 @@ My goal here is to teach you to use certain digital techs; to unpack and interro
 
 It's going to be uncomfortable. Not only that, this is the first iteration of the course. That makes you my _accomplices_. There will be things we try here that will not work. That's why part of the exit ticket for this course will be for you to rethink the one part of the course that was _most affecting_ for you to make it better, but also, to think through who it might _harm_.
 
-## Text/Tech
+### Text/Tech
 To the best of my ability, all materials will either be open access materials on the web or materials made available to us through MacOdrum Library or the University. You will not be required to purchase any set text or software.
 
 We will be using elements of the Open Digital Archaeology Textbook Environment https://o-date.github.io; we may in fact re-write parts of it as a result of our work, in which case you will be credited as a co-author.
 
 Having a reasonably up-to-date computer will make life easier for you; if you use a chromebook or a low-powered laptop (eg, less than 8 gb of RAM), this will require us to think creatively about some of the work, but should not present an insurmountable obstacle. A good internet connection will make life easier, but I realize that not everyone is well-served by our tech oligopolies. **Please let me know if these situations apply to you** so that we can work out a suitable plan of action.
 
-## Class format
+### Class format
 This class will be delivered online, asynchronously. A Discord server will be used to provide a social context to our work, for help, and for collaboration. Learning materials will be curated on this open course website, and might include a variety of modalities. **There will be no required synchronous chats or lectures.** Students will maintain course research notebooks on the web (which may be anonymous or pseudonymous or made private provided access is shared with me).
 
 

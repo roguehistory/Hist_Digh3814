@@ -5,7 +5,7 @@ date: 2020-01-28T00:39:06+09:00
 draft: false
 ---
 
-{{< notice success "Important" >}}The following are the University regulations common to all History courses.
+{{< notice success "Important" >}}The following are the University regulations common to all History courses, that I am obligated to share with you.
 {{< /notice >}}
 
 ### COPIES OF WRITTEN WORK SUBMITTED
