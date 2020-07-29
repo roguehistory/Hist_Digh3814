@@ -19,8 +19,8 @@ weight: -11
 
 ### Read
 
-+ Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Project. AP: Online Journal of Public Archaeology 3: 177-194. [link](http://revistas.jasarqueologia.es/index.php/APJournal/article/view/152/165)
-+ Lacy, Robyn S. 2018. Public Engagement through Burial Landscapes: Cupids and Ferryland, Newfoundland. AP: Online Journal of Public Archaeology, Special Volume 3: Death in the Contemporary World: Perspectives from Public Archaeology. Pp. 55-78. [link](http://revistas.jasarqueologia.es/index.php/APJournal/issue/view/14/showToc)
++ Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Project. AP: Online Journal of Public Archaeology 3: 177-194. [link](https://via.hypothes.is/http://revistas.jasarqueologia.es/index.php/APJournal/article/download/152/165)
++ Lacy, Robyn S. 2018. Public Engagement through Burial Landscapes: Cupids and Ferryland, Newfoundland. AP: Online Journal of Public Archaeology, Special Volume 3: Death in the Contemporary World: Perspectives from Public Archaeology. Pp. 55-78. [link](https://via.hypothes.is/http://revistas.jasarqueologia.es/index.php/APJournal/article/download/146/162)
 + Dennis, L.Meghan., 2020. Digital Archaeological Ethics: Successes and Failures in Disciplinary Attention. Journal of Computer Applications in Archaeology, 3(1), pp.210–218. [link](http://doi.org/10.5334/jcaa.24)
 Richardson, Lorna-Jane., 2018. Ethical Challenges in Digital Public Archaeology. Journal of Computer Applications in Archaeology, 1.1, pp.64–73. [link](http://doi.org/10.5334/jcaa.13)
 

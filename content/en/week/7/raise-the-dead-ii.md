@@ -13,7 +13,7 @@ But, once we have such a language, we can _perturb_ it or re-train its final out
 
 At this point, we are so far off the map we'd need a map just to find the map again. What is the truth value of anything that simLanciani might say? Is it just a toy? Or could there be a route through to archaeological enchantment this way?
 
-1. Go to [Max Woolf's notebook](https://colab.research.google.com/github/shawngraham/hist3000/blob/master/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb). That link will open the notebook in Google Colab. (You can preview a static version of the notebook [here](https://github.com/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb).)
+1. Go to this copy of [Max Woolf's notebook](https://colab.research.google.com/github/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb). That link will open the notebook in Google Colab. (You can preview a static version of the notebook [here](https://github.com/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb).)
 
 2. in the cell 'Downloading GPT2' we want to load the slightly larger model, the 355 mb sized one. Change the code to:
 
