@@ -10,13 +10,13 @@ There is no midterm. There is no final exam.
 {{< /notice >}}
 ### Weekly Work
 
-Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level.
+Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, **I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level**. What's more, it's OK if something doesn't work 'perfectly.' The reflection on the process, both your fails and your successes, is the important thing.
 
-Weekly work must be completed and logged by the end of the relevant week. Dr Graham will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Dr. Graham.
+Weekly work should be completed and logged by the end of the relevant week. Dr Graham will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Dr. Graham.
 
 If you miss a week, or something comes up let Dr. Graham know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
 
-### Evidence for Your Weekly Logs
+### Evidence for Your Weekly Logs (ungraded work)
 
 I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
 
@@ -29,9 +29,9 @@ At the end of each week **by Sunday evening**, you will provide to me through a 
 
 I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
 
-### Consolidation Weeks
+### Consolidation Weeks (graded work)
 
-Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents.
+Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
 
 + Module 1 consolidation document: **due at the end of week four**; may be submitted in the following week _if you notify me in week four_.
 + Module 2 consolidation document: **due at the end of week eight**; may be submitted in the following week _if you notify me in week eight_.
@@ -68,7 +68,7 @@ Remembering the [learning outcomes](2-docs/learning-outcomes),
 ...5/5 would be an A, 4/5 would be a B, 3/5 would be a C, 2/5 a D.
 
 {{< alert theme="info" >}}
-In this example, based on my consideration of Jo Q Student's evidence and the feedback I'd written him over the six weeks, it seemed to me that he did what he needed to do (satisfactorily) for 3 out of the 5 outcomes and so earned a C. However, his exit ticket might bring him up.
+In this example, based on my consideration of Jo Q Student's evidence and the feedback I'd written him over the six weeks, it seemed to me that he did what she needed to do (satisfactorily) for 3 out of the 5 outcomes and so earned a C. However, her exit ticket might bring her up.
 {{< /alert >}}
 
 ### Percentage Breakdown

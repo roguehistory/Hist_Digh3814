@@ -45,3 +45,15 @@ Having a reasonably up-to-date computer will make life easier for you; if you us
 
 ## Class format
 This class will be delivered online, asynchronously. A Discord server will be used to provide a social context to our work, for help, and for collaboration. Learning materials will be curated on this open course website, and might include a variety of modalities. **There will be no required synchronous chats or lectures.** Students will maintain course research notebooks on the web (which may be anonymous or pseudonymous or made private provided access is shared with me).
+
+
+### Why?
+I've taught online for a variety of institutions, using a variety of formats and approaches. I like teaching asnchronously because I believe it is a kinder approach to complex topics, especially when there is a second layer of difficulty - basic digital literacy, in this case - which intersects with the content, my learning goals for you, your own personal situations - in ways I cannot always anticipate or know.
+
+Since I cannot know these things, I do not believe that I should bludgeon you with content; I do not think that 'rigour' is demonstrated by forcing you to join me at set times; I do not believe that face-to-face work is somehow more 'scholarly' than other kinds of work. Right now, with the world the way it is, I want to build a structure that opens possibility space for you to engage with this topic, and with 'digital archaeology' when you encounter it beyond this course, in ways that will push you forward as a scholar and citizen.
+
+For this to work well, it requires you to be on the same page as me. There is a lot of flexibility built into this course, but it does require you to try to push yourself out of your comfort zone. The key thing is always to tie what you're doing with what you're reading and what you're thinking. That 'second layer of difficulty' will come with practice. But how it intersects with everything else: that's where the learning happens.
+
+It might seem a bit macabre or 'off' somehow to build some of our work around the ways the dead are memorialized in Canadian graveyards, in this time of pandemic (see [week two](/week/2/instructions)). I wrestled with this. But I settled on doing this for a variety of reasons. One, the simple reason that getting you outside and _doing_ one variety of archaeological work and thinking through how tech intersects with field work and the realities of space is a valuable exercise; two it gives us data that we can work on later as the weather grows colder; and more importantly - three - we don't often talk about death in modern Western culture. Memorialization and its practices can reveal much about past human groups, but in the gaps with our present day, can teach us much about ourselves.
+
+...and that is why this course is the way it is. No doubt, things will break, and some things will work better/be more effective than others. We will roll with it.

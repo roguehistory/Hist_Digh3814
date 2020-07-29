@@ -6,7 +6,7 @@ draft: false
 weight: -9
 ---
 
-### An Invitation
+### Your Own Digital Archaeology
 
 This course has not even begun to scratch the surface of what a digital archaeology could be. There are digital archaeologies that [focus on the work in the field, towards ever better practices and data collection](https://thedigitalpress.org/mobilizing-the-past-for-a-digital-future/). There are digital archaeologies that try to [upend our notions of what it means to publish archaeological work](https://www.press.umich.edu/9231782/mid_republican_house_from_gabii). There are digital archaeologies that aim to [immerse us in the past](https://diglab.org/). This is not an exhaustive list.
 
