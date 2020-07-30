@@ -1,12 +1,13 @@
 ---
-title: "Module 1 Capturing/Creating"
-description: "Getting Started"
+title: "M1 Wk1: Instructions"
+description: "Module 1: Capturing/Creating"
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -12
 author: "Shawn Graham"
 ---
-## Getting Started
+## Module 1: Capturing/Creating
+### Getting Started
 
 <p align="center"><iframe id="vp1EK0HF" title="Video Player" width = "480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
