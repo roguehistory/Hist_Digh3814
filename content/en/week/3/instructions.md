@@ -22,7 +22,7 @@ weight: -10
 
 + Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social Change in Barbados. African and Black Diaspora: An International Journal. [official link](https://doi.org/10.1080/17528631.2017.1412929) but you can [get the pdf via Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Negotiating+memory%3A+funerary+commemoration+as+social+change+in+emancipation-era+Barbados&btnG=)
 + Pillatt, Toby. et al. 2020 The Burial Space Research Database (Data Paper), Internet Archaeology 55. [link](https://doi.org/10.11141/ia.55.3)
-+ Gupta, Neha. 2017. Geographic Visualization in Archaeology. Journal of Archaeological Method and Theory 24, 852–885 [link](https://link.springer.com/article/10.1007/s10816-016-9298-7)
++ Gupta, Neha, and Rodolphe Devillers. 2017. Geographic Visualization in Archaeology. Journal of Archaeological Method and Theory 24, 852–885 [link](https://link.springer.com/article/10.1007/s10816-016-9298-7)
 + Baxter, Jane Eva. 2020. Emotional Practice and Emotional Archaeology- A Perspective from the Archaeology of Childhood in Kisha Supernant, Jane Eva Baxter, Natasha Lyons, Sonya Atalay (eds). Archaeologies of the Heart, Springer, Cham. [link via Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Emotional+Practice+and+Emotional+Archaeology-+A+Perspective+from+the+Archaeology+of+Childhood&btnG=)
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.

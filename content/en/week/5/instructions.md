@@ -21,8 +21,8 @@ weight: -10
 
 ### Read
 
-+ ‘What gets counted, counts’. Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein [link](https://bookbook.pubpub.org/pub/rykaknh1/release/4)
-+ Labrador, Angela. 2012. Ontologies of the Future and Interfaces for All: Archaeological Databases for the Twenty-First Century. Archaeologies 8,236–249 [link](https://link.springer.com/article/10.1007/s11759-012-9203-2)
++ ‘What gets counted, counts’. Chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein [link](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
++ Labrador, Angela. 2012. Ontologies of the Future and Interfaces for All: Archaeological Databases for the Twenty-First Century. Archaeologies 8,236–249 [link](https://link.springer.com/article/10.1007/s11759-012-9203-2) (Hypothesis should be able to read the pdf if you open it in your browser).
 + Cook, Katherine, et al. 2018.  Teaching Open Science: Published Data and Digital Literacy in Archaeology Classrooms. Advances in Archaeological Practice, 6.2,144-156 [link](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/teaching-open-science-published-data-and-digital-literacy-in-archaeology-classrooms/8404682E019727CCF43416B81E4E9092/core-reader)
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
