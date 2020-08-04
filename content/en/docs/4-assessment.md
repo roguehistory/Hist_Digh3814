@@ -29,9 +29,13 @@ At the end of each week **by Sunday evening**, you will provide to me through a 
 
 I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
 
+{{< notice success "Important" >}}
+It might not be formally 'graded' weekly work. But it does count towards your grade, especially when you need to point to the evidence supporting your consolidation work or your exit ticket. So it matters that you do this conscientiously.
+{{< /notice >}}
+
 ### Consolidation Weeks (graded work)
 
-Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
+Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. Show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
 
 + Module 1 consolidation document: **due at the end of week four**; may be submitted in the following week _if you notify me in week four_.
 + Module 2 consolidation document: **due at the end of week eight**; may be submitted in the following week _if you notify me in week eight_.
@@ -43,7 +47,7 @@ Every fourth week (that is, at the end of each module) you will submit a 'consol
 
 ### The Exit Ticket
 
-You will produce an '[exit ticket](week/12-5/instructions/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
+You will produce an '[exit ticket](week/12-5/instructions/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). You are **required** to explicitly tie your exit ticket to evidence collected in your weekly work. The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
 If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
 
