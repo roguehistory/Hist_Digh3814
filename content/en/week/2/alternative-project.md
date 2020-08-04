@@ -14,7 +14,7 @@ It may be that it is not feasible for you to go out into your community and visi
 
 The alternatives I've crafted below might cause us hiccups and roadblocks or other unforseen difficulties. **That's OK**. No archaeological project ever goes off perfectly without a hitch. Adapting and working through the consequences is part of the point.
 
-For this alternative project, you'll capture data that has already escaped online, principally into the [findagrave.com](https://findagrave.com) website. I still want you to use the same [recording framework](/week/2/kobotoolbox) as the main project. In subsequent weeks, you'll read the main instructions and just adapt/adopt accordingly - you will want to consult with other students who are trying the same thing, and with me. There will be situations where this is easy; there will be situations where this is hard; there will be situations where it all breaks.
+For this alternative project, you'll capture data that has already escaped online, principally into the [findagrave.com](https://findagrave.com) website. I still want you to use the same [recording framework](/week/2/do-the-project) as the main project. In subsequent weeks, you'll read the main instructions and just adapt/adopt accordingly - you will want to consult with other students who are trying the same thing, and with me. There will be situations where this is easy; there will be situations where this is hard; there will be situations where it all breaks.
 
 **That's OK**
 

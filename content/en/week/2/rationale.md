@@ -24,7 +24,7 @@ In a way, the scheme that we are going to use (adapted from ['Discovering Englan
 
 ### Mortuary Archaeology  
 
-The study of graveyards is one point where history and archaeology intersect, as both disciplines have their own bodies of literature connected with exploring how humans have dealt with their dead. I remember being taught as an undergrad the concept of [seriation](https://en.wikipedia.org/wiki/Seriation_(archaeology)) with reference to motifs on New England headstones (['Death's Head, Cherub, Urn and Willow' by Deetz and Dethlefsen](http://www.histarch.illinois.edu/plymouth/deathshead.html]).)
+The study of graveyards is one point where history and archaeology intersect, as both disciplines have their own bodies of literature connected with exploring how humans have dealt with their dead. I remember being taught as an undergrad the concept of [seriation](https://en.wikipedia.org/wiki/Seriation_(archaeology)) with reference to motifs on New England headstones (['Death's Head, Cherub, Urn and Willow' by Deetz and Dethlefsen](http://www.histarch.illinois.edu/plymouth/deathshead.html).)
 
 ![](/images/graveyards/deathsheadfg1.jpg)
 
