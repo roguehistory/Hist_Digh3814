@@ -20,7 +20,7 @@ author: "Shawn Graham"
 
 ### Listen
 
-[Feed for the podcast here.]()
+[Feed for the podcast here.]() _Podcast episodes will be updated once they're created. These are not 'lectures' per se, but me sitting down beside you to help you get to grips with each week's materials. Sometimes they will include discussion with other archaeologists..._
 
 ### Read
 

@@ -21,7 +21,7 @@ weight: -10
 ### Read
 
 + Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archaeology 44. [link](https://doi.org/10.11141/ia.44.7)
-Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen [link](http://dx.doi.org/10.22215/epoiesen/2019.4) AND RESPONSE by Rachel Opitz [link](https://epoiesen.library.carleton.ca/2019/07/26/messy-assemblages-response1/)
++ Dawson, Ian, and Reilly, Paul. 2019. “Messy Assemblages, Residuality and Recursion within a Phygital Nexus” Epoiesen [link](http://dx.doi.org/10.22215/epoiesen/2019.4) AND RESPONSE by Rachel Opitz [link](https://epoiesen.library.carleton.ca/2019/07/26/messy-assemblages-response1/)
 + Morgan, Colleen. 2019. Avatars, Monsters, and Machines: A Cyborg Archaeology. European Journal of Archaeology 22.3, 324-337 [link](https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/avatars-monsters-and-machines-a-cyborg-archaeology/CD467A5E5232B50D6CAA4D72091FCFA9/core-reader)
 + Kersel, Morag. 2016. Living a Semi-digital Kinda Life in Erin Walcek Averett, Jody Michael Gordon, and Derek B. Counts (eds) Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology. Grand Forks: The Digital Press at the University of North Dakota. pp. 475-492. [link](https://digitalpressatund.files.wordpress.com/2016/09/5_1_kersel.pdf)
 
