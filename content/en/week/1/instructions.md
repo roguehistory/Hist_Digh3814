@@ -20,7 +20,9 @@ author: "Shawn Graham"
 
 ### Listen
 
-[Feed for the podcast here.]() _Podcast episodes will be updated once they're created. These are not 'lectures' per se, but me sitting down beside you to help you get to grips with each week's materials. Sometimes they will include discussion with other archaeologists..._
+<iframe src="https://anchor.fm/hist3814o/embed/episodes/HIST3000CLCV3000-Getting-Comfortable-ehpc8o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here](/transcripts/episode-1) 
 
 ### Read
 
