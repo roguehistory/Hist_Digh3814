@@ -57,3 +57,7 @@ Drawing on your annotations of what you’ve read (and/or your notes from what y
 ### Log Your Work
 
 You can log the link to your private repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+
+### PS
+
+If you missed it in the syllabus, this [spreadsheet](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing) can be used to keep track of what's due when. 
