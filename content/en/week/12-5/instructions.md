@@ -12,7 +12,7 @@ The last bit of the course is the **Exit Ticket**.
 
 ## Listen
 
-[Feed for the podcast here.]()
+[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
 ### Do
 
@@ -22,7 +22,7 @@ This isn't a long document|piece of media. You can, in a way, consider it a cons
 
 ### Submit work
 
-You can submit the link to your work on [this form](#).
+You can submit the link to your work on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
 
 ### Celebrate
 

@@ -10,6 +10,8 @@ Each week involves completing to the best of your ability various exercises; you
 
 Some exercises are collaborative for the class as a whole. Some are individual. There will sometimes be a choice of exercise.
 
+[This Google spreadsheet lays out the work by the week](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing). 
+
 {{< alert theme="warning" >}}
 All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted _unless you obtain permission from Dr. Graham_. Just talk with him, if something comes up.
 {{< /alert >}}

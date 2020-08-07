@@ -22,7 +22,7 @@ author: "Shawn Graham"
 
 <iframe src="https://anchor.fm/hist3814o/embed/episodes/HIST3000CLCV3000-Getting-Comfortable-ehpc8o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here](/transcripts/episode-1) 
+[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here.](/transcripts/episode-1)
 
 ### Read
 
@@ -56,4 +56,4 @@ Drawing on your annotations of what you’ve read (and/or your notes from what y
 
 ### Log Your Work
 
-You can log the link to your private repository on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can log the link to your private repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

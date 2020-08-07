@@ -13,15 +13,15 @@ weight: -9
 
 ### Listen
 
-[Feed for the podcast here.]()
+No episode this week. But the [feed for the podcast is here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
 ### Do
 
-- Create a short consolidation document that reflects on this first module and your growth (one or two pages is fine). Feel free to build it from what you've already written in your logs. 
+- Create a short consolidation document that reflects on this first module and your growth (one or two pages is fine). Feel free to build it from what you've already written in your logs.
 
 Discuss _at least_ one 'fail' and one 'win'. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. What has been most challenging for you so far, and why is that? What are the implications for 'doing' digital archaeology? What are some of the ethical dimensions to the work you've encountered so far? Integrate my feedback on your earlier work or any feedback you have received from your peers, summarizing the work you have done to date.
 - Upload this to your private github repository.
 
 ### Submit Work for Grading
 
-You can submit the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can submit the link to your work on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

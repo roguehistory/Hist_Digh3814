@@ -13,7 +13,7 @@ weight: -1
 
 ### Listen
 
-[Feed for the podcast here.]()
+No episode this week. But you can get the [feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
 ### Do
 
@@ -28,4 +28,4 @@ Integrate my feedback on your earlier work or any feedback you have received fro
 
 ### Submit Work for Grading
 
-You can submit the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can submit the link to your work on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

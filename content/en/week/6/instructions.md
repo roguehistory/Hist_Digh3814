@@ -15,7 +15,7 @@ weight: -7
 
 ### Listen
 
-[Feed for the podcast here.]()
+[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
 ### Read
 
@@ -46,4 +46,4 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Log Your Work
 
-You can log the link to your work on [this form](#). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You can log the link to your work on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)

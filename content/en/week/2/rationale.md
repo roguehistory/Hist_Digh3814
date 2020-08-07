@@ -30,7 +30,6 @@ The study of graveyards is one point where history and archaeology intersect, as
 
 _The count of headstones with different motifs, when organized according to date of death, demonstrates how fashions evolve even within gravestone motifs. Which also means you can use a motif to suggest a likely date for a stone..._
 
-
 Now, mortuary archaeology as a branch of bioarchaeology has tended to focus more on the human remains (an overview by Bettina Arnold and Robert Jeske is available [here](https://www.annualreviews.org/doi/full/10.1146/annurev-anthro-102313-025851)).
 
 In my own research [(The Bone Trade Project)](https://bonetrade.github.io) I am looking at how and why people buy human remains (which they do these days over Facebook and Instagram) using computer vision and machine learning (artificial intelligence). Many of the people whose remains are now being traded were stolen from their graves; many never even made it to the grave (people who died homeless, for instance, in the late 19th and early 20th centuries, could be claimed by schools of anatomy for dissection).
