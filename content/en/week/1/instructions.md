@@ -24,6 +24,8 @@ author: "Shawn Graham"
 
 [Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here.](/transcripts/episode-1)
 
+[Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
+
 ### Read
 
 + An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
@@ -60,4 +62,4 @@ You can log the link to your private repository on [this form](https://forms.gle
 
 ### PS
 
-If you missed it in the syllabus, this [spreadsheet](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing) can be used to keep track of what's due when. 
+If you missed it in the syllabus, this [spreadsheet](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing) can be used to keep track of what's due when.

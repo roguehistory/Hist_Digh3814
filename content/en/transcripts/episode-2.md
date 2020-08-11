@@ -25,6 +25,6 @@ Graveyards are liminal spaces, and given the ways our cities have grown, are now
 
 ### Part II
 
-This week, we're joined by
+This week, we're joined by Robyn Lacey.
 
-- Robyn? 
+Hello, my name is Robin Lacey, and I am a historic archaeologist currently working in crm, which is cultural resource management in Ontario. I am currently working on publishing my first book, which is based on my master's research, with some other things thrown in there. I signed a contract to write my second book which I'm really excited about, and I am also preparing to start my phd in historical archaeology, focusing on mortuary studies, because most of my research focuses on burials.

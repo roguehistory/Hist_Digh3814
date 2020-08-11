@@ -17,10 +17,10 @@ It is in fact quite an emotional moment, I have no hesitation to share that. Thi
 
 This week, in addition to finishing your work in the graveyards, I want you to try to create 3d models of some of the stones. This too is a kind of close contemplation of a stone, because it takes care and effort to capture photos that can be stitched together into a model. When the light falls across the stones at an oblique angle, it can sometimes be easier to read the inscriptions; in a 3d model, when you digitally 'remove' the surface texture you can sometimes see the inscriptions in the model surface. For me, these models have 'aura' because they are imbued with the work, care, and attention that went into reading and recording the stones in the first place. Years ago, Walter Benjamin in a piece called 'The work of art in the age of mechanical reproduction' argued that a reproduction has no aura, no authenticity, that 'aura' was connected with the uniqueness of a thing; a reproduction has no _authority_ to speak about the thing reproduced. I have my doubts.
 
-This week, you continue to put materials into a database, and you create digital representations of these materials. Think about what is created by these acts of digitization. Think about the emotional connection you may have with the material, think about how you've come to know this material.
+This week, you continue to put materials into a database, and you create digital representations of these materials. Think about what is created by these acts of digitization. Think about the emotional connection you may have with the material, think about how you've come to know this material. This is the day-to-day work of digital archaeology.
 
 ### Part II
 
 This week, we're joined by
 
-- Bill? 
+- Bill?
