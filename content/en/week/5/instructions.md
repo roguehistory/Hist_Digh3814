@@ -17,7 +17,9 @@ weight: -10
 
 ### Listen
 
-[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
+<iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST3000CLCV3000-Week-5-What-gets-counted--counts-ei3nbu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here.](/transcripts/m2-episode-1)
 
 ### Read
 
