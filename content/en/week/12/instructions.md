@@ -1,6 +1,6 @@
 ---
 title: "M3 Wk12: Instructions"
-description: "The End"
+description: "Consolidation III"
 date: 2020-01-28T00:10:37+09:00
 draft: false
 weight: -1

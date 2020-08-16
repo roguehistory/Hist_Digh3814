@@ -1,7 +1,7 @@
 +++
 author = "Dr. Graham"
 title = "And We're Off!"
-date = "2020-04-01"
+date = "2020-09-03"
 #description = "Class Begins"
 
 image = "images/bike-race.png"
