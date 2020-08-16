@@ -19,9 +19,9 @@ I get motion sick. VR just doesn't work for me. But AR - and other kinds of 'mix
 
 > [...] Without the story, it’s just gee-whiz look at what I can do. It’s somehow not authentic. That’s one of the reasons various museum apps that employ AR tricks haven’t really taken off I think. The corollary of this (and I’m just thinking out loud here) is that AR can’t be divorced from the tools and techniques of game based storytelling (narrative/ludology, whatever).
 
-I can teach you the technical elements of putting together a simple augmented reality web-app. But the storytelling, the framing, the 'why am I doing this with my phone' - that's the harder part. In this exercise then, I want you to reuse the 3d model you built in [week 3](/week/3/photogrammetry) and put it into physical space. We're going to use a tool called [AR.js](https://ar-js-org.github.io/) that delivers AR via html. (Other options are possible - [Unity](https://programminghistorian.org/en/lessons/creating-mobile-augmented-reality-experiences-in-unity) for instance can be used to make both location based and image-based AR).
+I can teach you the technical elements of putting together a simple augmented reality web-app. But the storytelling, the framing, the 'why am I doing this with my phone' - that's the harder part. In this exercise then, I want you to reuse the 3d model you built in [week 3](/week/3/photogrammetry) and put it into physical space. We're going to use a tool called [AR.js](https://ar-js-org.github.io/AR.js-Docs/) that delivers AR via html. (Other options are possible - [Unity](https://programminghistorian.org/en/lessons/creating-mobile-augmented-reality-experiences-in-unity) for instance can be used to make both location based and image-based AR).
 
-Some terms:
+#### Some terms:
 
 Location based AR: your device reads your position in physical space and overlays 'assets' (3d models, audio, video, text) tied to those spaces
 
