@@ -3,7 +3,7 @@ title: "M1 Wk3: Instructions"
 description: "Field work and ethical data collection II"
 date: 2020-01-28T00:10:42+09:00
 draft: false
-weight: -10
+weight: -15
 ---
 ## Field work and ethical data collection II
 
@@ -23,9 +23,6 @@ weight: -10
 ### Read
 
 + Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social Change in Barbados. African and Black Diaspora: An International Journal. [link](data/cook2018.pdf)
-
-
-
 + Pillatt, Toby. et al. 2020 The Burial Space Research Database (Data Paper), Internet Archaeology 55. [link](https://doi.org/10.11141/ia.55.3)
 + Gupta, Neha, and Rodolphe Devillers. 2017. Geographic Visualization in Archaeology. Journal of Archaeological Method and Theory 24, 852–885 [link](https://core.ac.uk/download/pdf/77997647.pdf)
 + Baxter, Jane Eva. 2020. Emotional Practice and Emotional Archaeology- A Perspective from the Archaeology of Childhood in Kisha Supernant, Jane Eva Baxter, Natasha Lyons, Sonya Atalay (eds). Archaeologies of the Heart, Springer, Cham. [link](data/Baxter_chp_Archaeologies_of_the_Heart.pdf)
