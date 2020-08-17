@@ -1,6 +1,6 @@
 ---
 title: "Setting up your Github"
-description: "instructions"
+description: "This is where your journal and working notes will go."
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -4

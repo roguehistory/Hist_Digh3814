@@ -7,7 +7,15 @@ weight: -9
 author: "Shawn Graham"
 ---
 
-In the Open Digital Archaeology Textbook Environment, [look at section 2.4 on databases](https://o-date.github.io/draft/book/arranging-and-storing-data-for-the-long-haul-databases.html); then [start up the binder in a new tab by right-clicking this link](https://mybinder.org/v2/gh/o-date/sqlite/master?filepath=intro%20to%20sql.ipynb). This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting 'run'):
+In the Open Digital Archaeology Textbook Environment, [look at section 2.4 on databases](https://o-date.github.io/draft/book/arranging-and-storing-data-for-the-long-haul-databases.html); then [start up the binder in a new tab by right-clicking this link](https://mybinder.org/v2/gh/o-date/sqlite/master?filepath=intro%20to%20sql.ipynb). This is a computational notebook: a computer that you access through the website.
+
+{{< notice warning "Warning #1" >}} These notebooks are generated from a static collection of files. The generated 'image' - the virtual computer - loads up quickly when someone has recently generated it, but if it's been a while since someone tried to start up this notebook, **it can take several minutes - 15 to 30 - before it finally launches**. If you're the unfortunate soul who starts this up after it's been dormant, _please be patient_. Go make a coffee. Read the news. Sorry.
+{{< /notice >}}
+
+{{< notice warning "Warning #2" >}} If you have ad-blockers on, you'll need to turn them off to run the binder.
+{{< /notice >}}
+
+Once the binder launches, you can then open the computational notebooks and begin exploring. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting 'run'):
 
 ![run a cell](/images/notebooks/notebook1.png)
 

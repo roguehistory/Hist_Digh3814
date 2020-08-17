@@ -24,7 +24,7 @@ weight: -10
 ### Read
 
 + ‘What gets counted, counts’. Chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein [link](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
-+ Labrador, Angela. 2012. Ontologies of the Future and Interfaces for All: Archaeological Databases for the Twenty-First Century. Archaeologies 8,236–249 [link](https://link.springer.com/article/10.1007/s11759-012-9203-2) (Hypothesis should be able to read the pdf if you open it in your browser).
++ Labrador, Angela. 2012. Ontologies of the Future and Interfaces for All: Archaeological Databases for the Twenty-First Century. Archaeologies 8,236–249 [link](data/Ontologies_of_the_Future_and_Interfaces.pdf) (Hypothesis should be able to read the pdf if you open it in your browser).
 + Cook, Katherine, et al. 2018.  Teaching Open Science: Published Data and Digital Literacy in Archaeology Classrooms. Advances in Archaeological Practice, 6.2,144-156 [link](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/teaching-open-science-published-data-and-digital-literacy-in-archaeology-classrooms/8404682E019727CCF43416B81E4E9092/core-reader)
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
@@ -50,7 +50,7 @@ _These exercises are important, so you can continue them next week if necessary.
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 5.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the space between the action of counting, and the reality of the things that have been counted. In what ways does the coding scheme from [DEBS](https://debs.ac.uk) miss, elide, or highlight memorialization practice in Canadian graveyards? If you were able to get our data into a notebook and begin examining it, what patterns emerge and what do they suggest (given what you've read this week)? Put your journal entry in your repo.
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the space between the action of counting, and the reality of the things that have been counted. In what ways does the coding scheme from debs.ac.uk miss, elide, or highlight memorialization practice in Canadian graveyards? If you were able to get our data into a notebook and begin examining it, what patterns emerge and what do they suggest (given what you've read this week)? Put your journal entry in your repo.
 
 ### Log You Work
 

@@ -44,7 +44,8 @@ Read  ‘What gets counted, counts’. Chapter from Data Feminism by Catherine D
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/5/databases/</guid>
-        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting &amp;lsquo;run&amp;rsquo;):</description>
+        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website.
+These notebooks are generated from a static collection of files. The generated &amp;lsquo;image&amp;rsquo; - the virtual computer - loads up quickly when someone has recently generated it, but if it&amp;rsquo;s been a while since someone tried to start up this notebook, it can take several minutes - 15 to 30 - before it finally launches.</description>
       </item>
       
       <item>

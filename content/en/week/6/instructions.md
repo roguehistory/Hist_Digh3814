@@ -20,7 +20,7 @@ weight: -7
 ### Read
 
 + White, William and Catherine Draycott. 2020 Why the Whiteness of Archaeology Is a Problem. SAPIENS [link](https://www.sapiens.org/archaeology/archaeology-diversity/)
-+ Perry, Sara and James Taylor. 2018. Theorising the Digital: A Call to Action for the Archaeological Community. In Oceans of Data: Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology, Mieko Matsumoto & Espen Uleberg, eds. Oxford: Archaeopress, pp. 11-22. [link](http://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id=%7B2724F16C-FAC1-4987-8D1E-E85D9F94ACAD%7D) (download the full publication at that page _or_ look up the article on Google scholar.)
++ Perry, Sara and James Taylor. 2018. Theorising the Digital: A Call to Action for the Archaeological Community. In Oceans of Data: Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology, Mieko Matsumoto & Espen Uleberg, eds. Oxford: Archaeopress, pp. 11-22. [link](data/Theorising_the_Digital_A_Call_to_Action.pdf) (download the full publication at that page _or_ look up the article on Google scholar.)
 + Gupta, Neha. 2013. What Do Spatial Approaches to the History of Archaeology Tell Us? Insights from Post-Colonial India Complutum 24.2, 189-201 [link](https://revistas.ucm.es/index.php/CMPL/article/download/43379/41051/0)
 + Wilkins, Brendan. Designing a Collaborative Peer-to-peer System for Archaeology: The DigVentures Platform. JCAA 2020. Designing a Collaborative Peer-to-peer System for Archaeology: The DigVentures Platform. Journal of Computer Applications in Archaeology, 3.1, 33–50. [link](http://doi.org/10.5334/jcaa.34)
 

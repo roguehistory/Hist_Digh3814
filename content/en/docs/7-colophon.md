@@ -30,4 +30,6 @@ This year, as I write this, I'm trying Discord, for its voice and screensharing 
 
 This website is built using Hugo, a static site builder. Static sites are quicker, more secure, and [separate content from container, thus making them more sustainable](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). I write all of the content in individual text files, which I can then turn into whatever output - html, pdf, word doc - that I need. My writing is freed from subscription-based software that might lock it in. I push all of the text files onto github (you can see them [here](https://github.com/shawngraham/hist3000/tree/master/content/en).) Then, I have [netlify.com](http://netlify.com) watch those files for any changes. When it spots changes, it uses Hugo to turn them into html, and serves them up to the world.
 
+I am grateful to Chantal Brousseau, who did a road-test of this entire site, checking for dead links and so on, before we went live in September.
+
 The course logo is by user 'corpus delicti', at [The Noun Project](https://thenounproject.com).

@@ -44,7 +44,7 @@ Read  Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Arch
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/3/instructions/</guid>
         <description>Field work and ethical data collection II Goals for this week  Continue the Graveyard Project Create some 3d models of grave stones Develop a webmap of the site Explore the connections between what you are doing and what you are reading: graveyards are emotional spaces  Listen  Feed for the podcast here. Transcript here.
-Read  Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social Change in Barbados. African and Black Diaspora: An International Journal.</description>
+Read   Cook, Katherine. 2018 Negotiating Memory: Funerary Commemoration as Social Change in Barbados.</description>
       </item>
       
       <item>
@@ -74,7 +74,7 @@ Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doh
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/11/instructions/</guid>
         <description>Storytelling Goals for this week  Last week was about getting your work out there. This week is about finding the compelling story, the enchanting story, the heart-centered work of archaeology.  Listen Feed for the podcast here.
-Read  Perry, Sara. 2019. The Enchantment of the Archaeological Record. European Journal of Archaeology. 22.3, 354-371link González-Tennant, Edward. 2010. Virtual Archaeology and Digital Storytelling: A Report from Rosewood, Florida. The African Diaspora Archaeology Network, September 2010 Newsletter.</description>
+Read  Perry, Sara. 2019. The Enchantment of the Archaeological Record. European Journal of Archaeology. 22.3, 354-371 link González-Tennant, Edward. 2010. Virtual Archaeology and Digital Storytelling: A Report from Rosewood, Florida. The African Diaspora Archaeology Network, September 2010 Newsletter.</description>
       </item>
       
       <item>
@@ -126,7 +126,8 @@ Read  ‘What gets counted, counts’. Chapter from Data Feminism by Catherine D
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/5/databases/</guid>
-        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website. The idea here is that these notebooks mix comments and code in a single document. You read from top to bottom, and you run each cell as you encounter (by hitting &amp;lsquo;run&amp;rsquo;):</description>
+        <description>In the Open Digital Archaeology Textbook Environment, look at section 2.4 on databases; then start up the binder in a new tab by right-clicking this link. This is a computational notebook: a computer that you access through the website.
+These notebooks are generated from a static collection of files. The generated &amp;lsquo;image&amp;rsquo; - the virtual computer - loads up quickly when someone has recently generated it, but if it&amp;rsquo;s been a while since someone tried to start up this notebook, it can take several minutes - 15 to 30 - before it finally launches.</description>
       </item>
       
       <item>
@@ -242,16 +243,6 @@ Get set up Launch the binder containing R Studio. This will open up the Jupyter 
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/week/2/alternative-project/</guid>
         <description>Annotate this page with hypothesis (while being logged into our course reading group) with connections to other things you&amp;rsquo;ve read or thought about during your studies. If you spot an interesting annotation by someone else and it strikes a chord, respond generously to the annotation. It may be that it is not feasible for you to go out into your community and visit a local graveyard for the purposes of this course.</description>
-      </item>
-      
-      <item>
-        <title>Neural Networks &amp; Computer Vision</title>
-        <link>https://hist3000.netlify.app/week/7/computer-vision/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/week/7/computer-vision/</guid>
-        <description>Introduction Gif by Alex Mordvintsev showing how neural networks &amp;lsquo;see&amp;rsquo;; a higher resolution version is available here.
-When our eyes see an image, various receptors in the retina respond by firing. Some fire in response to various colours. Some fire in response to light and shadow. Imagine that these cells are arranged in layers. If those simple cells in the first layer fire, they pass a signal to the next layer up.</description>
       </item>
       
       <item>
@@ -378,6 +369,16 @@ I don’t know about you, but I can’t stomach any more zoom meetings. There’
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://hist3000.netlify.app/transcripts/m2-episode-1/</guid>
         <description>Part I My job was to copy the information in the paper recording sheets into the Access Database. Each box on the form had a count for a different type of pottery. Each paper form had a digital analog on my screen. I got pretty fast at running my finger down the paper form, and banging in numbers on the keypad. But every so often, there&amp;rsquo;d be a horrible warning noise: computer says no.</description>
+      </item>
+      
+      <item>
+        <title>Neural Networks &amp; Computer Vision</title>
+        <link>https://hist3000.netlify.app/week/7/computer-vision/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://hist3000.netlify.app/week/7/computer-vision/</guid>
+        <description>Introduction Gif by Alex Mordvintsev showing how neural networks &amp;lsquo;see&amp;rsquo;; a higher resolution version is available here.
+When our eyes see an image, various receptors in the retina respond by firing. Some fire in response to various colours. Some fire in response to light and shadow. Imagine that these cells are arranged in layers. If those simple cells in the first layer fire, they pass a signal to the next layer up.</description>
       </item>
       
       <item>

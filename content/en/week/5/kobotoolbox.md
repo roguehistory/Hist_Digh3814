@@ -65,7 +65,7 @@ I learned about KoBoToolbox from Ben Carter at Muhlenberg College in Allentown P
 
 + [Digital Data Collection](http://benjaminpcarter.com/digital-data-collection/)
 + [Justification](http://benjaminpcarter.com/digital-data-collection/justification/)
-+ [Criteria for selecting a digital data collection tool](http://benjaminpcarter.com/digital-data-collection/justification/)
++ [Criteria for selecting a digital data collection tool](http://benjaminpcarter.com/digital-data-collection/selection-criteria/)
 + [Tools (including a critique of KoBoToolbox)](http://benjaminpcarter.com/digital-data-collection/tools/)
 + [Worfklow (including a discussion of how he gets the data into QGIS)](http://benjaminpcarter.com/digital-data-collection/work-flow/)
 

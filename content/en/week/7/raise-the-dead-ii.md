@@ -17,14 +17,14 @@ At this point, we are so far off the map we'd need a map just to find the map ag
 
 2. in the cell 'Downloading GPT2' we want to load the slightly larger model, the 355 mb sized one. Change the code to:
 
-```
+```ipynb
 gpt2.download_gpt2(model_name="355M")
 ```
 3. The notebook contains code for connecting to your google drive, so that you can save the trained model once it's finished to your drive. If you do this, you can reload and return to generating text at a later time.
 
-4. We're going to use the `wget` command to copy Lanciani's 1892 book _Pagan and Christian Rome_ to the notebook; this will be the text that we retrain the model on. Highlight (click on) the 'upload' cell explaining how to upload materials, and then hit the `+ code` button at the top of the window. In the new empty cell, add:
+4. We're going to use the `wget` command to copy Lanciani's 1892 book _Pagan and Christian Rome_ from its location at the Gutenberg Project into the notebook; this will be the text that we retrain the model on. The 'wget' command is already available in the notebook; this command enables a person to download files from a server (eg, the files that, stitched together by a browser, make up a website; or the contents of a directory in an online archive). Highlight (click on) the 'upload' cell explaining how to upload materials, and then hit the `+ code` button at the top of the window. In the new empty cell, add:
 
-```
+```ipynb
 #lanciani pagan & christian rome 1892
 !wget http://www.gutenberg.org/files/22153/22153-0.txt
 ```
@@ -37,7 +37,7 @@ gpt2.download_gpt2(model_name="355M")
 8. Once that finishes running, you can skip ahead to 'Generate Text from the Trained Model'
 
 9. This command `gpt2.generate(sess, run_name='run1')` just generates a text using the defaults. (The output of training is saved as 'run1') But let's let the machine get creative. The next command,
-```
+```ipynb
 gpt2.generate(sess,
               length=250,
               temperature=0.7,
