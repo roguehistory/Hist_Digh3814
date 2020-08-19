@@ -106,10 +106,54 @@ If this is you, do not despair.
 
 #### When you've forgotten to initialize a new repo:
 
-1. If you have a PC, [click on this link to download and install git](https://git-scm.com/download/win).
-2. Make a new directory on your computer **with the same name as the repo you created above**. In my example, that would be `week-two`.
-3. On a PC, right-click on the folder and select 'open a command prompt here'. On a Mac, go to System Preferences, select Keyboard > Shortcuts > Services. Look for 'New Terminal at Folder' and tick the box. Open your finder; find the folder you created, right-click and select 'open Terminal here'.
-4. Do you see where, in your browser at github, it says `...or create a new repository on the command line`? Type in each line exactly as it is there (beginning with `echo`), hitting enter at the end of each line, in order. **If the command works, you'll just be presented with the next prompt.** The computer only ever responds when there is output to print - which often means only when there is an error message to report.
+You're going to have to install one or two things, and do some work at the **command prompt** or **terminal**.
+
+1. If you have a PC, [click on this link to download and install git](https://git-scm.com/download/win). **Just use all of the suggested default settings when you run the installer**. If you have a Mac, you can install it by opening the terminal program (click on your applications and type 'terminal' in the search window) and then typing in these two commands (or copy and paste). The first command starts at the `/` and ends at the `"` and you must include the entire line from slash to closing quotation mark:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+and when that finishes,
+
+```
+brew install git
+```
+
+2. Make a new directory on your computer **with the same name as the repo you created above**. For my screenshotted example above, that would be `week-two`.
+3. On a PC, find the folder in your file explorer; click on it so that's the folder displayed in the address bar at the top of the explorer. Then, click in the address bar and type `cmd` and hit enter. This will open a command prompt window for that folder, allowing you to type commands in directly. On a Mac, go to System Preferences, select Keyboard > Shortcuts > Services. Look for 'New Terminal at Folder' and tick the box. Open your finder; find the folder you created, right-click and select 'open Terminal here'.
+
+---
+
+{{< alert theme="info" >}}
+A Quick Primer for Working at the Command Line or Terminal
+
+The following two videos, one for PC, one for Mac, show you how to do this. For reference's sake, this is what 'working at the command prompt' or 'working at the terminal' look like on your machine. When you interact with your computer, you can do it through a graphical interface - icons, clicks, etc - or you can directly type in commands. It's this latter kind of interaction that most people think of as 'coding', but for us, this is just 'opening the hood'.
+{{< /alert >}}
+
+PC:
+{{<youtube yvpn1lITcVU >}}
+
+Mac:
+{{<youtube 0R25NOsAHh4 >}}
+
+Key commands for PC:
++ `dir` show the contents of the current directory
++ `cls` clear the window so that it's fresh again
++ `cd directory-name` change director to the named directory
++ `cd ..` change directory up one level
++ if you hit the up or down arrows you can cycle through the history of commands you've already typed
+
+Key commands for Mac:
++ `ls` list the contents of the current directory
++ `pwd` print the path (location) of the current directory
++ `cd directory-name` change director to the named directory
++ `cd ..` change directory up one level
++ `history` prints out the entire history of commands you've typed this session
++ up and down arrows will cycle through this list
+
+---
+
+4. Do you see where, in your browser at github, it says `...or create a new repository on the command line`? With your command prompt or terminal open in the appropriate folder on your machine (remember, folders on your machine = repos on github), type in each line exactly as it is there (beginning with `echo`), hitting enter at the end of each line, in order. **If the command works, you'll just be presented with the next prompt.** The computer only ever responds when there is output to print - which often means only when there is an error message to report. (**nb** Git might prompt you to enter your email and name, as it does in the PC video, the first time you ever do this).
 
 Ta da! You can now go to `github.com\<your-user-name>\your-repo` and you'll see it all there tickety boo.
 

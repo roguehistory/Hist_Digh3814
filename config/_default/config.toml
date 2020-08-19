@@ -1,4 +1,4 @@
-baseURL = "https://digiarch.netlify.app"
+baseURL = "https://digiarch.netlify.app" # never ever have a 3 in the baseURL
 title = "HIST3000|CLCV300 Digital Archaeology Fall 2020 Edition"
 theme = "zdoc"
 description = "HIST3000|CLCV3000 Digital Archaeology Fall 2020"

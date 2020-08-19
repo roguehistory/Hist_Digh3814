@@ -1,6 +1,6 @@
 ---
 title: "episode 1"
-description: "transcript"
+description: "In this episode, I introduce some of the important themes for this class, bring you up to speed on what needs to be done this week, and try to reassure you that when things break, all is not lost: digital work at its best understands that 'failures' happen. Since digital archaeology is a team sport, we can draw on each other to understand the kind of failures we're dealing with, and use that process of reflection to move forward. This episode is a bit longer than what will be the usual in this class. Some of the material comes from the 'failing gloriously' chapter of my book."
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -4

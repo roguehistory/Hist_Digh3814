@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Transcripts on HIST3000|CLCV3000</title>
-    <link>https://hist3000.netlify.app/transcripts/</link>
+    <link>https://digiarch.netlify.app/transcripts/</link>
     <description>Recent content in Transcripts on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,17 +11,17 @@
     <copyright>Original content by Shawn Graham licensed under a &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;. &lt;br&gt;Site logo &#39;archaeological information&#39; by corpus delicti, GR, The Noun Project.</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:08:29 +0900</lastBuildDate>
     
-        <atom:link href="https://hist3000.netlify.app/transcripts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://digiarch.netlify.app/transcripts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>episode 1</title>
-        <link>https://hist3000.netlify.app/transcripts/episode-1/</link>
+        <link>https://digiarch.netlify.app/transcripts/episode-1/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/transcripts/episode-1/</guid>
+        <guid>https://digiarch.netlify.app/transcripts/episode-1/</guid>
         <description>Part I Hi everyone!
 Welcome to introduction to digital history.
 I don’t know about you, but I can’t stomach any more zoom meetings. There’s something horrible about having to stare off-centre at your camera so that it appears like you’re looking out of your little window box at everyone else; but everyone else is staring off camera too, and frankly the whole thing feels like horrible small talk at an awkward faculty social event.</description>
@@ -29,29 +29,44 @@ I don’t know about you, but I can’t stomach any more zoom meetings. There’
       
       <item>
         <title>episode 2</title>
-        <link>https://hist3000.netlify.app/transcripts/episode-2/</link>
+        <link>https://digiarch.netlify.app/transcripts/episode-2/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/transcripts/episode-2/</guid>
+        <guid>https://digiarch.netlify.app/transcripts/episode-2/</guid>
         <description>Part I This week you&amp;rsquo;re going out into the field. But which field? When I was a kid, there was a graveyard on the other side of the dirt road from our farm. It had about six or seven headstones, and an old wrought-iron fence that surrounded the little plot. One stone was flat on the ground, at the centre of the graveyard. Almost like a lid. In fact, now that I think about it, it was probably a family vault, with soil backfilled around it.</description>
       </item>
       
       <item>
         <title>episode 3</title>
-        <link>https://hist3000.netlify.app/transcripts/episode-3/</link>
+        <link>https://digiarch.netlify.app/transcripts/episode-3/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/transcripts/episode-3/</guid>
+        <guid>https://digiarch.netlify.app/transcripts/episode-3/</guid>
         <description>Part I Last week, I went to a graveyard not too far from my house. It took me about 15 minutes to walk there, crossing roads with heavy traffic. It&amp;rsquo;s in the corner of a city park, underneath some trees. The ground outside the little graveyard&amp;rsquo;s precinct is lumpy and uneven, and, as I peer into the underbrush, I&amp;rsquo;m pretty certain that I&amp;rsquo;m seeing the foundation pit of a small structure.</description>
       </item>
       
       <item>
         <title>Module 2 Episode 1</title>
-        <link>https://hist3000.netlify.app/transcripts/m2-episode-1/</link>
+        <link>https://digiarch.netlify.app/transcripts/m2-episode-1/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
-        <guid>https://hist3000.netlify.app/transcripts/m2-episode-1/</guid>
+        <guid>https://digiarch.netlify.app/transcripts/m2-episode-1/</guid>
         <description>Part I My job was to copy the information in the paper recording sheets into the Access Database. Each box on the form had a count for a different type of pottery. Each paper form had a digital analog on my screen. I got pretty fast at running my finger down the paper form, and banging in numbers on the keypad. But every so often, there&amp;rsquo;d be a horrible warning noise: computer says no.</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://digiarch.netlify.app/transcripts/m2-episode-2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://digiarch.netlify.app/transcripts/m2-episode-2/</guid>
+        <description>title: &amp;ldquo;Module 2 Episode 2&amp;rdquo;
+description: &amp;quot;&amp;rdquo;
+date: 2020-01-28T00:10:51+09:00
+draft: false
+weight: -4
+author: &amp;ldquo;Shawn Graham&amp;rdquo; Part I If knowledge equals power, and power equals energy, and energy equals matter, and matter equals mass, then libraries are very dangerous places indeed. Not because they cause explosions, but because the explosions they cause happen inside your own head.
+If you&amp;rsquo;ve read any of the works of Terry Pratchett, you&amp;rsquo;ll recognize that I&amp;rsquo;m talking about what Pratchett calls &amp;lsquo;L-Space&amp;rsquo;, one of the great secrets of Librarianship.</description>
       </item>
       
     
