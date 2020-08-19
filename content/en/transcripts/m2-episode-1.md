@@ -9,6 +9,8 @@ weight: -4
 author: "Shawn Graham"
 ---
 
+Transcript of this week's podcast episode.
+
 ### Part I
 
 My job was to copy the information in the paper recording sheets into the Access Database. Each box on the form had a count for a different type of pottery. Each paper form had a digital analog on my screen. I got pretty fast at running my finger down the paper form, and banging in numbers on the keypad. But every so often, there'd be a horrible warning noise: computer says no. There was a ware recorded on the form, but not provided for in the computer's controlled vocabulary.

@@ -7,6 +7,8 @@ weight: -4
 author: "Shawn Graham"
 ---
 
+Transcript of this week's podcast episode.
+
 ### Part I
 Hi everyone!
 

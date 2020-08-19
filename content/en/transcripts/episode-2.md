@@ -9,6 +9,8 @@ weight: -4
 author: "Shawn Graham"
 ---
 
+Transcript of this week's podcast episode.
+
 ### Part I
 
 This week you're going out into the field. But which field? When I was a kid, there was a graveyard on the other side of the dirt road from our farm. It had about six or seven headstones, and an old wrought-iron fence that surrounded the little plot. One stone was flat on the ground, at the centre of the graveyard. Almost like a lid. In fact, now that I think about it, it was probably a family vault, with soil backfilled around it. That would explain why this little burial ground was so much higher than the surrounding fields. Even when we bury our dead, we change the environment around us.

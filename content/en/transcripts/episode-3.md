@@ -1,11 +1,12 @@
 ---
 title: "episode 3"
-description: "his week, you should be continuing to do your graveyard survey. But I also want you to try to do some 3d photogrammetry; when we try to fit archaeological data into a recording scheme, or we try to take the 'right' kind of pictures to build a 3d model, we have to attend to the physicality of the remains in ways that make us think hard about what the act of recording does to knowledge creation. A digital close reading, if you will. In this week's episode, Bill Caraher of the University of North Dakota takes us through his reflections on what 'digital archaeologies' might mean for the nuts-and-bolts of doing archaeology."
+description: "This week, you should be continuing to do your graveyard survey. But I also want you to try to do some 3d photogrammetry; when we try to fit archaeological data into a recording scheme, or we try to take the 'right' kind of pictures to build a 3d model, we have to attend to the physicality of the remains in ways that make us think hard about what the act of recording does to knowledge creation. A digital close reading, if you will. In this week's episode, Bill Caraher of the University of North Dakota takes us through his reflections on what 'digital archaeologies' might mean for the nuts-and-bolts of doing archaeology."
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -4
 author: "Shawn Graham"
 ---
+Transcript of this week's podcast episode.
 
 ### Part I
 
