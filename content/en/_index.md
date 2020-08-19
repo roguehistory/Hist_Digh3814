@@ -15,9 +15,9 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs/1-coursedescription
-      text: READ THE SYLLABUS
+      text: SECRETS YOU MUST KNOW FIRST
       color: primary
     - link: week/1/instructions
-      text: WELCOME TO WEEK 1
+      text: THEN, BEGIN YOUR JOURNEY
       color: default
 ---

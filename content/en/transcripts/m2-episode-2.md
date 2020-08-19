@@ -6,7 +6,14 @@ weight: -4
 author: "Shawn Graham"
 ---
 
+### Storytime
+
+Welcome to week 6, the halfway point of the course, and the last week before the fall reading week and Hallowe'en. I want to tell you about the library at the British School at Rome. Imagine a room two stories tall, lined with bookshelves. There's a walkway around where the second floor would be; you can go up a spiral steel staircase and browse those shelves up there, looking down on the scholars at their desks below. Each scholar in residence at the School has their favourite desk. People get quite attached to 'their' space. The school faces to the west, and in the afternoons, the light slants in through the huge high windows, bathing everything in a sleepy yellow glow. But as night falls, the shadows get longer, the building starts to cool, and soon there are only small pools of light where the dedicated still labour at their desks. After supper, no one is in the library. But say you open the little wooden door and step into the vast shadowy darkness... if you go up onto the upper walkway around about that time, and you wander over to the one bit of wall without any shelving, try placing a book on that empty shelf. You might look away if you hear something. When you look back, the book will be on the floor. They say the ghost of Eugenia Strong, once the assistant director of the school during WWII, still likes to work in the library at night, and uses this now blocked in doorway as her own personal entrance. She only throws the books over the edge.
+
+So they say.
+
 ### Part I
+I want to talk to you about libraries.
 
 If knowledge equals power, and power equals energy, and energy equals matter, and matter equals mass, then libraries are very dangerous places indeed. Not because they cause explosions, but because the explosions they cause happen inside your own head.
 

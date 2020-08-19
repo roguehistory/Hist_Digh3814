@@ -2917,26 +2917,12 @@
 <h4 id="when-youve-forgotten-to-initialize-a-new-repo">When you&rsquo;ve forgotten to initialize a new repo:</h4>
 <p>You&rsquo;re going to have to install one or two things, and do some work at the <strong>command prompt</strong> or <strong>terminal</strong>.</p>
 <ol>
-<li>If you have a PC, <a href="https://git-scm.com/download/win" target="_blank">click on this link to download and install git</a>. <strong>Just use all of the suggested default settings when you run the installer</strong>. If you have a Mac, you can install it by opening the terminal program (click on your applications and type &lsquo;terminal&rsquo; in the search window) and then typing in these two commands:</li>
+<li>If you have a PC, <a href="https://git-scm.com/download/win" target="_blank">click on this link to download and install git</a>. <strong>Just use all of the suggested default settings when you run the installer</strong>. If you have a Mac, you can install it by opening the terminal program (click on your applications and type &lsquo;terminal&rsquo; in the search window) and then typing in these two commands (or copy and paste). The first command starts at the <code>/</code> and ends at the <code>&quot;</code> and you must include the entire line from slash to closing quotation mark:</li>
 </ol>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">/bin/bash -c <span class="s2">&#34;</span><span class="k">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh<span class="k">)</span><span class="s2">&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p>and when that finishes,</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">brew install git
-</code></pre></td></tr></table>
-</div>
-</div><ol start="2">
+<pre><code>/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&quot;
+</code></pre><p>and when that finishes,</p>
+<pre><code>brew install git
+</code></pre><ol start="2">
 <li>Make a new directory on your computer <strong>with the same name as the repo you created above</strong>. For my screenshotted example above, that would be <code>week-two</code>.</li>
 <li>On a PC, find the folder in your file explorer; click on it so that&rsquo;s the folder displayed in the address bar at the top of the explorer. Then, click in the address bar and type <code>cmd</code> and hit enter. This will open a command prompt window for that folder, allowing you to type commands in directly. On a Mac, go to System Preferences, select Keyboard &gt; Shortcuts &gt; Services. Look for &lsquo;New Terminal at Folder&rsquo; and tick the box. Open your finder; find the folder you created, right-click and select &lsquo;open Terminal here&rsquo;.</li>
 </ol>
