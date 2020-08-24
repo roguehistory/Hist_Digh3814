@@ -16,7 +16,7 @@ The last bit of the course is the **Exit Ticket**.
 
 ### Do
 
-The format of the exit ticket is up to you. You will craft a statement reflecting on where you started and where you’ve gotten to, and you will indicate how you feel you’ve done against the [learning outcomes](/docs/2-learning-outcomes) by reference to evidence in your repo, things you've read, things you've written. In essence, you're making the case to me now for what you understand _your_ Digital Archaeology to be. You may, if you wish, indicate what you think your letter grade ought to be, and why.
+The format of the exit ticket is up to you. Collect evidence detailing your greatest success in the course, and your most glorious failure, and put it into a new private repo (make me a collaborator on it). You will craft a framing statement around the success and glorious fail, reflecting on where you started and where you’ve gotten to, and you will indicate how you the evidence supports the [learning outcomes](/docs/2-learning-outcomes) (and which ones). Please also reference any other evidence in from your repositories, things you've read, things you've written that speak to your experience. **In essence, you're making the case to me now for what you understand _your_ Digital Archaeology to be.** You may, if you wish, indicate what you think your letter grade ought to be, and why.
 
 This isn't a long document|piece of media. You can, in a way, consider it a consolidation of your three Consolidation Docs (and you may freely draw on those docs, to make it).
 

@@ -15,6 +15,8 @@ weight: -7
 
 ### Listen
 
+<iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST3000CLCV3000-Week-6-The-Contexts-of-Digital-and-Other-Archaeologies-eijqe3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 [Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
 ### Read
@@ -34,6 +36,10 @@ A good annotation draws connections between what you've read and other things yo
 - A few years ago I created a [topic model](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#what-is-topic-modeling-and-for-whom-is-this-useful) of 20 000 archaeological articles from 1935 to 2010-ish. I want you to [explore it here](https://shawngraham.github.io/archae-topic-models/20000/#). Each of the bubbles is a 'topic'; if you click on 'years' you'll see a 'stream graph', or the proportion each topic accounts for that year's total archaeological writing output (in English speaking journals). Notice the inflection points? What was going on in the world at those points? (Remember there's a lag between work being done, and work being published). What other patterns do you notice? Are there topics that perhaps relate to the themes of this course? In what journals? By what authors?
 - [World Archaeology](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rwar20) tries to be a much more ...global... journal. It's not included in the 20 000 topic model. Here's another [topic model just for this particular journal](http://graeworks.net/digitalarchae/wa/#). Explore, and contrast this with the previous.
 - You can continue to try the exercises from last week as well.
+
+A quick video introducing the idea of a topic model:
+
+{{<youtube gN2x_KjJI1o >}}
 
 {{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
 {{< /notice >}}

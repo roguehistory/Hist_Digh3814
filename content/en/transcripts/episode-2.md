@@ -1,5 +1,5 @@
 ---
-title: "episode 2"
+title: "Module 2 Episode 2"
 description: "In this episode, I offer some advice on what to look for in the materials this week, as well as things to think about as you get started with the Graveyard Project. Also, Robyn S. Lacy, a professional archaeologist working in the cultural resource management sector in Ontario provides some reflections on her work and her evolution as an archaeologist, especially given her research interests in mortuary archaeology. Robyn can be followed on Twitter at https://twitter.com/robyn_la.
 
 Sound effects from users OneOddEgg and KvGarlic. Opening instrumental music is a clip from 'Reflexivity', a sonification of archaeological data by Andrew Reinhard, Eric Kansa, and Shawn Graham. Jazz piano by JazzKeys."
