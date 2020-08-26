@@ -19,7 +19,7 @@ Most of the time, no one excavates physical video games. But we do do work _insi
 
 For my money, a video game does one thing really well: it teaches the player how to play it. **If you're really good at the game, you've internalized its representation of the world.** And that's why archaeologists need to think about storytelling, and ethics, and representation in video games. (More from me along this vein in [this article](https://intarch.ac.uk/journal/issue55/2/full-text.html).)
 
-But there are other ways of approaching the worlds created in video games as archaeological spaces. This week, I'll suggest three options.
+But there are other ways of approaching the worlds created in video games as archaeological spaces. This week, I'll suggest four options.
 
 ### Option 1: Graves and memorialization in-world
 
@@ -46,3 +46,9 @@ This is for the entirely practical reason that designing and building games take
 ### Option 3: Game Design Document
 
 Another possibility is to _sketch out_ a game design document for something a *little* bit more complex than a barely game, but certainly not as complex as a first person shooter. Maybe a deck builder? Something where the main gameplay maps onto the ways digital arcaheology looks at the world. (templates abound online; [here's one](https://vitalzigns.itch.io/gdd)). I emphasize again: sketch. Focus on aesthetics and gameplay. Key element: it must use the information collected by this class.
+
+### Option 4: Investigate a Landscape
+
+Go play [Nothing Beside Remains](https://cutgarnetgames.itch.io/nothing-beside-remains). Map the site; try to understand the ruins by situating them in context with one another. Write/craft a research report of around 250-400 words.
+
+Then, think about the kinds of literary tropes you depended on in order to write that report. You might want to think about this in terms of Section 3 from [that article of mine](https://intarch.ac.uk/journal/issue55/2/full-text.html). What does this imply for how 'regular folks' might understand - or be helped to understand - about archaeology?

@@ -11,7 +11,7 @@ weight: -10
 
 - Try your hand at building an image classifier
 - Simulate the Roman economy
-- Raise the ghost of Rudolopho Lanciani
+- Raise the ghost of Rudolpho Lanciani
 - Situate this work in an understanding of the potential futures for digital archaeology, but also in the context of current work in archaeology.
 
 ### Listen

@@ -16,6 +16,7 @@ author: "Shawn Graham"
 - getting our Github accounts set up and making our first log entries
 - getting Hypothes.is set up
 - getting Zotero installed
+- understanding what the hang you've signed up for
 - getting a sense of what digital archaeology is; also, 'failing gloriously'
 
 ### Listen
@@ -41,6 +42,7 @@ A good annotation draws connections between what you've read and other things yo
 ### Do
 
 - Follow the instructions for [Setting Up Github](/week/1/github), [Setting up Hypothesis](/week/1/hypothesis), [Setting up Zotero](/week/1/zotero), and [asking for help](/week/1/help). You should read the [discord page](/week/1/discord) if you're new to that platform.
+- Annotate the syllabus part of this website using the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
 - Log your reflection in your appropriate github repository
 
 - When/if you run into trouble, take screenshots (google how to do that for your particular machine) and these can be uploaded into your repository as well. Indeed, you should also keep track of any files you create as part of your weekly work in your repo: these are evidence!
@@ -52,9 +54,11 @@ A good annotation draws connections between what you've read and other things yo
 
 1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your private week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
 
-2. In a new text document, jot down some reflections -narrative, or bullet points, both are fine. Call it ‘journal.md’ This document also goes into your private week one repo on github. Detail any issues you had with getting started, any parts that caused you difficulty. If you got any error messages while trying to get set up, copy those into your reflection; google them. Do you find any websites that help you? What kind of ‘failures’ might you have encountered this week?
+2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal.md’ This document also goes into your private week one repo on github.
 
-Drawing on your annotations of what you’ve read (and/or your notes from what you’ve listened to), discuss your idea of what ‘digital archaeology' might be prior to starting this course, and think through whether any of the materials we’ve seen this week confirm or upset those notions. What kind of archaeology have you encountered so far at Carleton, if at all? Where do you want to go, with digital archaeology?
+In this document, you will detail any issues you had with getting started, any parts that caused you difficulty, anything you annotated that you really want me to address for you. If you got any error messages while trying to get set up, copy those into your reflection; google them. Do you find any websites that help you? What kind of ‘failures’ might you have encountered this week?
+
+Going beyond the mere mechanical aspects of getting started, draw on your annotations of what you’ve read (and/or your notes from what you’ve listened to), discuss your idea of what ‘digital archaeology' might be prior to starting this course, and think through whether any of the materials we’ve seen this week confirm or upset those notions. What kind of archaeology have you encountered so far at Carleton, if at all? Where do you want to go, with digital archaeology?
 
 ### Log Your Work
 

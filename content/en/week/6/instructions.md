@@ -1,6 +1,6 @@
 ---
 title: "M2 Wk6: Instructions"
-description: "Contexts of Digitial and Other Archaeologies"
+description: "Contexts of Digital and Other Archaeologies"
 date: 2020-01-28T00:10:09+09:00
 draft: false
 weight: -7

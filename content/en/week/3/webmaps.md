@@ -24,6 +24,9 @@ With time and practice, you would be able to build something similar. Remember, 
 **Nb** When I talk about 'serving' your site in step 8, I am assuming you have python installed on your computer. If you have a mac, you probably do; if you have a PC, probably not. If you don't want to muck about with Python, you can download the free trial of [prepos](https://prepros.io/), which will act like a web server. Open that program, and then drag and drop the folder you are working in (always start a new project like this in a new folder) onto the prepos interface. [See these instructions](https://prepros.io/help/getting-started).
 {{</alert >}}
 
+By the way, subsurface georadar and other non-invasive techniques are a part of digital archaeology that can transform how we understand historical graveyards - take a look at [this twitter thread](https://twitter.com/ben_hitchcock_/status/1298617256914624517). 
+
+
 ### Webmapping with Leaflet
 
 > The following is a modified exercise from the [Open Digital Archaeology Textbook Environment](https://o-date.github.io/draft/book/what-is-web-mapping.html) by Graham et al 2019; this particular section was contributed by [Neha Gupta of UBC](https://dngupta.github.io/).
