@@ -61,5 +61,5 @@ Your data will upload to a server that I have access to, and be collated with th
 
 - The Dead House Database [https://spadeandthegrave.com/dead-house-database/](https://spadeandthegrave.com/dead-house-database/)
 - Canadian Cemetery History [https://canadiancemeteryhistory.ca](https://canadiancemeteryhistory.ca)
-- DEBS [https://debs.ac.uk](https://debs.ac.uk)
+- DEBS [https://debs.ac.uk](http://debs.ac.uk)
 - Monumental Archive Project [https://monumentalarchiveproject.wordpress.com/](https://monumentalarchiveproject.wordpress.com/)

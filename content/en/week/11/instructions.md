@@ -18,7 +18,7 @@ weight: -10
 ### Read
 
 + Perry, Sara. 2019. The Enchantment of the Archaeological Record. European Journal of Archaeology. 22.3, 354-371 [link](data/Perry2019_Enchantment_AcceptedMS.pdf)
-+ González-Tennant, Edward. 2010. Virtual Archaeology and Digital Storytelling: A Report from Rosewood, Florida. The African Diaspora Archaeology Network, September 2010 Newsletter. [link](https://www.diaspora.illinois.edu/news0910/news0910-1.pdf)
++ González-Tennant, Edward. 2010. Virtual Archaeology and Digital Storytelling: A Report from Rosewood, Florida. The African Diaspora Archaeology Network, September 2010 Newsletter. [link](http://www.diaspora.illinois.edu/news0910/news0910-1.pdf)
 + Alex Fitzpatrick. 2019. No Margins, No Word Counts, No Masters! Experimenting With 'Zines for Archaeological Outreach 2019 #PATC [link](data/fitzpatrick-zines.pdf)
 + Vrettakis, Ektor et al. 2019. Narralive – Creating and experiencing mobile digital storytelling in cultural heritage Digital Applications in Archaeology and Cultural Heritage 15.e00114 [link](data/1-s2.0-S2212054819300074-main.pdf)
 + Tringham, Ruth. 2020. Closely Observed Layers: Storytelling and the Heart in Kisha Supernant, Jane Eva Baxter, Natasha Lyons, Sonya Atalay (eds). Archaeologies of the Heart, Springer, Cham, 2020. 239-252 [link](data/tringham-heart.pdf)

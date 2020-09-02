@@ -59,7 +59,7 @@ The Exit Ticket should be submitted within one week of the last day of the fall 
 
 ### Grading
 
-Remembering the [learning outcomes](2-docs/learning-outcomes),
+Remembering the [learning outcomes](docs/2-learning-outcomes),
 
 |Learning Outcome|A|B|C|D|eg. Jo Q Student|
 |----------------|-|-|-|-|-|

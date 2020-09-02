@@ -20,7 +20,7 @@ The format of the exit ticket is up to you.
 
 Collect evidence detailing your greatest success in the course, and your most glorious failure (go back to the week 1 podcast if you need a reminder what a 'glorious failure' actually means), and put it into a new private repo (make me a collaborator on it).
 
-You will craft a framing statement around the success and the glorious fail, reflecting on where you started and where you’ve gotten to. Indicate how this evidence and your trajectory speaks to the [learning outcomes](/docs/2-learning-outcomes) for this course. Please also reference any other evidence in from your repositories, things you've read, things you've written that speak to your experience. Finally, you might wish to also tie this discussion to what you have learned/observed about the historic graveyard you worked on and our collective graveyard data.
+You will craft a framing statement around the success and the glorious fail, reflecting on where you started and where you’ve gotten to. Indicate how this evidence and your trajectory speaks to the [learning outcomes](/docs/2-learning-outcomes) for this course. Please also reference any other evidence from your repositories, things you've read, things you've written that speak to your experience. Finally, you may wish to tie this discussion to what you have learned/observed about the historic graveyard you worked on and our collective graveyard data.
 
 **In essence, you're making the case to me now for what you understand _your_ Digital Archaeology to be.** You may, if you wish, indicate what you think your letter grade ought reasonably to be, and why (go look at the learning outcomes again; don't just pull something out of the air).
 

@@ -24,3 +24,7 @@ For my book then, I wanted to examine what it was that I found enchanting about 
 There's a lot more detail to it than that, but that's the gist of it. This week, I want you to feel something of that enchantment. The tasks all are facets of a kind of digital necromancy - not just raising the dead, but raising them to understand something of the culture they were once part of. You'll spot the idea of 'the network' in many different ways in this week's materials, whether it's a literal network, or whether it's a computational network that learns how to see.
 
 But that's just one vision of the future of digital archaeology. The readings this week will give you other perspectives. Perhaps it's all just phygital.
+
+### Part Two  
+
+This week we're joined by
