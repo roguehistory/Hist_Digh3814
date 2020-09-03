@@ -54,7 +54,7 @@ If a binder loads you up directly into RStudio, you can get to the Jupyter scree
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 3.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss your observations about the graveyard you are working on. Are there differences in who gets commemorated, and how? Were there aspects of the work that affected you emotionally? Why? Do the 3d models have an affective aura? Why or why not? In what ways does mapping the graveyard give you authority and power? Put your journal entry in your repo.
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss your observations about the graveyard you are working on. Are there differences in who gets commemorated, and how? Were there aspects of the work that affected you emotionally? Why? Do the 3d models have an affective aura? Why or why not? In what ways does mapping the graveyard give you authority and power? Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc. Put your journal entry in your repo.
 
 ### Log Your Work
 

@@ -46,7 +46,7 @@ _I do not necessarily expect you to complete all of these, because you are all c
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 9.
 
-2. I am willing to bet that the idea of 'replication' has never cropped up in any of your other history or GRS classes. I want you to reflect on the readings and your work this week in the context of those _other_ classes. What might all of this imply for you as history or humanities students? Discuss this in the context of your wins/fails for this week. Put your journal entry in your repo.
+2. I am willing to bet that the idea of 'replication' has never cropped up in any of your other history or GRS classes. I want you to reflect on the readings and your work this week in the context of those _other_ classes. What might all of this imply for you as history or humanities students? Discuss this in the context of your wins/fails for this week. Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc. Put your journal entry in your repo.
 
 ### Log Your Work
 

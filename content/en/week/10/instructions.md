@@ -45,7 +45,7 @@ _Unlike in previous weeks, I really want you to do both of these. For the resear
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 10.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done this week (both the successes and the not-quite-successes) discuss the work you've done so far in this class as a whole and what it might mean for the communities which your graveyards serve. Put your journal in your repo.
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done this week (both the successes and the not-quite-successes) discuss the work you've done so far in this class as a whole and what it might mean for the communities which your graveyards serve. Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc. Put your journal in your repo.
 
 ### Log Your Work
 

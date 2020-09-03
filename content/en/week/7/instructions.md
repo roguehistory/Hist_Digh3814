@@ -44,7 +44,7 @@ _I do not necessarily expect you to complete all of these, because you are all c
 
 1. As you did for week one, make another notes.md entry and put it in your private github repository for week 7.
 
-2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the potential for these 'future archaeologies' to be unethical, alienating, or, conversely, _liberating_ or powerful new lenses for understanding humanity. Put your journal entry in your repo.
+2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes) discuss the potential for these 'future archaeologies' to be unethical, alienating, or, conversely, _liberating_ or powerful new lenses for understanding humanity. Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc. Put your journal entry in your repo.
 
 ### Log Your Work
 
