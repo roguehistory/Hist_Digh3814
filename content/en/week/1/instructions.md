@@ -52,9 +52,13 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Record and Reflect
 
-1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your private week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
+You may make your repository private **or** public.
 
-2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal.md’ This document also goes into your private week one repo on github.
+If you make it private, **make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+
+1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
+
+2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal.md’ This document also goes into your week one repo on github.
 
 Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc.
 
@@ -63,10 +67,6 @@ In this document, you will detail any issues you had with getting started, any p
 Going beyond the mere mechanical aspects of getting started, draw on your annotations of what you’ve read (and/or your notes from what you’ve listened to), discuss your idea of what ‘digital archaeology' might be prior to starting this course, and think through whether any of the materials we’ve seen this week confirm or upset those notions. What kind of archaeology have you encountered so far at Carleton, if at all? Where do you want to go, with digital archaeology?
 
 ### Log Your Work
-
-You may make your repository private **or** public. 
-
-If you make it private, **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
 
 You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA).
 

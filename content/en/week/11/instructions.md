@@ -38,14 +38,14 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Record and Reflect
 
-1. As you did for week one, make another notes.md entry and put it in your private github repository for week 11.
+You may make your repository private **or** public.
+
+If you make it private, **make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+
+1. As you did for week one, make another notes.md entry and put it in your github repository for week 11.
 
 2. In your reflective journal, drawing on your annotations of what you've read, your notes from what you've listened to, and the work you've done (both the successes and the not-quite-successes), discuss some ways in which a creative mindset might change what archaeology (or history for that matter) could be for you as a scholar. Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc. Put your journal in your repo.
 
 ### Log Your Work
 
-You may make your repository private **or** public.
-
-If you make it private, **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
-
-You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA). 
+You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA).
