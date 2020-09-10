@@ -50,4 +50,8 @@ Talk to each other. For instance, you might want to share photos of what you're 
 
 ### Log Your Work
 
-You can log the link to your work on [this form](https://forms.gle/9BMvFeFda9qq36fAA). **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+You may make your repository private **or** public.
+
+If you make it private, **Make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
+
+You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA). 
