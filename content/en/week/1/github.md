@@ -56,7 +56,7 @@ I might sometimes fork your work, pull it down onto my machine, make changes tha
 
 ---
 
-6. Give it a reasonable name; tick the 'initialize with a readme' box, tick off the 'private' box, and hit the green commit button:
+6. Give it a reasonable name; tick the 'initialize with a readme' box, tick off the 'private' box, and hit the green commit button. (**Nb** It's your choice to choose public OR private):
 
 ![new repo settings](/images/github/github-new-repo-settings.png)
 
@@ -80,14 +80,14 @@ Once you've done that, you'll be at your Github user page:
 
 ---
 
-8. Add me as a collaborator to this and subsequent private repositories:
+8. Add me as a collaborator to this and subsequent **private** repositories:
 
 ![manage access](/images/github/add-user-to-private-repo-1.png)
 
-9. Then, once you've clicked on 'manage access', click on 'invite collaborator',
+9. **Private Repo**: Then, once you've clicked on 'manage access', click on 'invite collaborator',
 ![add collaborator](/images/github/add-collaborator-to-private-repo-2.png)
 
-10. Then find my username `shawngraham`, and add me:
+10. **Private Repo**: Then find my username `shawngraham`, and add me:
 ![add shawngraham](/images/github/add-username-private-repo.png)
 
 ### Setting up a 'repository' for your work
