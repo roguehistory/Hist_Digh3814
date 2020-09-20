@@ -42,6 +42,7 @@ A good annotation draws connections between what you've read and other things yo
 ### Do
 
 - Follow the instructions for [Setting Up Github](/week/1/github), [Setting up Hypothesis](/week/1/hypothesis), [Setting up Zotero](/week/1/zotero), and [asking for help](/week/1/help). You should read the [discord page](/week/1/discord) if you're new to that platform.
+- Read the readings. Annotate them freely (and/or respond to my annotations to get started). ** <- Nb ** On this site I might not explicitly state this under the 'do' part each week, since I have it under the 'read' part further up, but I realize that this might not have been clearly apparent at the start of the week; so no worries for this week, you can catch up on this later, but remember this moving forward)
 -  Annotate the syllabus part of this website while being logged into our private Hypothesis [group; here's the link if you haven't already joined](https://hypothes.is/groups/9jqiPzjR/hist3000-clcv3000) (indeed as with the readings mentioned above, and with all annotations for this class, always make the annotations as part of our group). Use the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
 - Log your reflection in your appropriate github repository
 
