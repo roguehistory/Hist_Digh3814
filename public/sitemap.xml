@@ -278,12 +278,17 @@
   </url>
   
   <url>
-    <loc>https://digiarch.netlify.app/blog/update1/</loc>
-    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+    <loc>https://digiarch.netlify.app/blog/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://digiarch.netlify.app/blog/</loc>
+    <loc>https://digiarch.netlify.app/blog/update2/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://digiarch.netlify.app/blog/update1/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
