@@ -17,11 +17,13 @@ _This course is a formalized exploration of these questions; I do not know the a
 
 ### Outcomes
 
-1. Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly
-2. Implement and contribute to a digital archaeology gravestones' and monuments survey
-3. Investigate data, artifacts, and primary sources, using the methods/techniques/perspectives of digital archaeology and digital humanities
-4. Develop online experiences that communicate the results of these investigations as an act of public digital archaeology  
-5.  Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion.
+The five points below address your *analytical ability*, your engagement with *methodology*, *collaboration*, *argumentation*, and *professionalization*.
+
+1. Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly (*analytical ability, argumentation*)
+2. Implement and contribute to a digital archaeology gravestones' and monuments survey (*methodology, collaboration, professionalization*)
+3. Investigate data, artifacts, and primary sources, using the methods/techniques/perspectives of digital archaeology and digital humanities (*analytical ability, methodology, collaboration, professionalization*)
+4. Develop online experiences that communicate the results of these investigations as an act of public digital archaeology (*collaboration, professionalization, argumentation*)
+5.  Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (*collaboration, professionalization, methodology*)
 
 ### Texts
 
