@@ -42,6 +42,8 @@ You have two options here.
 
 2. Download and use Regard3d, an open source collection of algorithms for making 3d models, on your own computer. [Download Regard3](http://regard3d.org/index.php/download) and then follow [its tutorial](http://www.regard3d.org/index.php/documentation/tutorial); you can then re-do its steps on the folder of your own images. Remember: you need to add the metadata to your photos if the camera you used isn't a standard camera.
 
-3. Upload your finished model to [Sketchfab.com](https://sketchfab.com); the free version only allows 1 upload per month. Another option is [https://p3d.in](https://p3d.in); models there can only be max 100 mb in size. There are other options too that you can find with a bit of googling. It might well be that your model is quite wonky - perhaps you didn't have enough photos in the right places. How is the process of taking photographs similar to the kind of close reading you might do in a history class?
+Then, once you're done:
 
-4. You can also drag and drop your model files (.obj, .mtl, .png) into your github repo for this week.
++ Upload your finished model to [Sketchfab.com](https://sketchfab.com); the free version only allows 1 upload per month. Another option is [https://p3d.in](https://p3d.in); models there can only be max 100 mb in size. There are other options too that you can find with a bit of googling. It might well be that your model is quite wonky - perhaps you didn't have enough photos in the right places. How is the process of taking photographs similar to the kind of close reading you might do in a history class?
+
++ You can also drag and drop your model files (.obj, .mtl, .png) into your github repo for this week (zipped file is ok too).
