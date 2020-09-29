@@ -23,7 +23,7 @@ If you make it private, **Make sure to 'invite user shawngraham'** to your repos
 
 - Create a short consolidation document that reflects on this first module and your growth (one or two pages is fine). Feel free to build it from what you've already written in your logs.
 
-Discuss _at least_ one 'fail' and one 'win'. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. What has been most challenging for you so far, and why is that? What are the implications for 'doing' digital archaeology? What are some of the ethical dimensions to the work you've encountered so far? Integrate my feedback on your earlier work or any feedback you have received from your peers, summarizing the work you have done to date.
+Discuss _at least_ one 'fail' and one 'win'. Explicitly situate your discussion with reference to the readings, and to the annotations by the class as a whole (ie, cite and engage with). What has been most challenging for you so far, and why is that? What are the implications for 'doing' digital archaeology? What are some of the ethical dimensions to the work you've encountered so far? Integrate my feedback on your earlier work (ie, show how you've responded to it; if you've not logged any work so far, why not?) or any feedback you have received from your peers, summarizing the work you have done to date.
 
 - Upload this to your github repository.
 
