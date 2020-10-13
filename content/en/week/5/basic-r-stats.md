@@ -8,7 +8,7 @@ author: "Shawn Graham"
 ---
 R is a programming language for statistics that is used frequently by archaeologists (the other popular option is Python). One of the advantages of _scripting_ or writing out your analysis as a sequence of commands is that anyone can look at your code and understand what you did and why it worked.
 
-1. Launch a virtual computer running RStudio in your browser by right-clicking on <a href="https://mybinder.org/v2/gh/binder-examples/r-conda/master?urlpath=rstudio" target="_blank">this link</a>
+1. Launch a virtual computer running RStudio in your browser by right-clicking on <a href="http://mybinder.org/v2/gh/o-date/r-conda/master?urlpath=rstudio" target="_blank">this link</a>
 
 2. The interface for RStudio looks like this:
 
