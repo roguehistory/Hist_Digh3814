@@ -145,23 +145,22 @@ end
 ;; link. The third column is the strength of the link.
 
 to import-links
- ;; This opens the file, so we can use it.
- file-open "links.txt"
-
-;; Read in all the data in the file
- while [not file-at-end?]
- [
-  ;; this reads a single line into a three-item list
-  let items read-from-string (word "[" file-read-line "]")
-  ask get-node (item 0 items)
-  [
-   create-link-to get-node (item 1 items)
-    [ set label item 2 items
-     set strength item 2 items] ; MAR24 added this
-  ]
- ]
- file-close
-end
+   ;; This opens the file, so we can use it.
+   file-open "/Applications/NetLogo 6.0.4/models/Code Examples/links.txt"
+   ;; Read in all the data in the file data on the line is in this order:
+   ;; node-id attribute1 attribute2
+   while [not file-at-end?]
+   [
+     ;; this reads a single line into a three-item list
+     let items read-from-string (word "[" file-read-line "]")
+     ask get-node (item 0 items)
+   [
+     create-link-to get-node (item 1 items)
+        [ set label item 2 items ]
+     ]
+   ]
+   file-close
+ end
 
 ;; Helper procedure for looking up a node by node-id.
 to-report get-node [id]
