@@ -15,8 +15,11 @@ weight: -10
 
 ### Listen
 
+<iframe src="https://anchor.fm/dr-graham/embed/episodes/HIST3000CLCV3000-Week-10-Communities-em8bga" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 [Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss)
 
+(For more about the Alexandria Archive Institute, go [here](https://alexandriaarchive.org/))
 
 ### Read
 
