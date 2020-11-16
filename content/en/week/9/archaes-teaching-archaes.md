@@ -14,8 +14,8 @@ The same workflows that enable us to replicate someone's analysis and research c
 ## Get set up
 
 [Launch the binder containing R Studio](http://mybinder.org/v2/gh/o-date/r-conda/master). This will open up the Jupyter file explorer for our binder.
-2. Under the `new` drop-down, select `console`. We need to do some command line work.
-3. At the console, use the git command to clone Harris's repository: `$ git clone https://github.com/mrecos/SAA_R_workshop_2017.git`. You **do not** type the `$`; that is a convention to indicate that the code should be entered at the console.
+2. Under the `new` drop-down, select `terminal`. We need to do some command line work.
+3. At the terminal (also known as the console, sometimes), use the git command to clone Harris's repository: `$ git clone https://github.com/mrecos/SAA_R_workshop_2017.git`. You **do not** type the `$`; that is a convention to indicate that the code should be entered at the console.
 4. Once that's finished running, go back to the Jupyter file explorer page; select under the `new` drop-down select `R Studio`.
 
 ## Give it a go
