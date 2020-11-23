@@ -35,7 +35,7 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-_Unlike in previous weeks, I really want you to do both of these. For the research compendium, you will need to pool resources with your peers; see the instructions._
+_Unlike in previous weeks, I really want you to try for the first two if you can. Third one is there for you to push yourself. For the research compendium, you will need to pool resources with your peers; see the instructions._
 
 - Explore, and participate, [in some crowd-sourced archaeology](/week/10/sharing-authority)
 - Start to [build a research compendium](/week/10/start-compendium)
