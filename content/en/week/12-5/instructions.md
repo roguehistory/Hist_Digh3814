@@ -6,6 +6,30 @@ draft: false
 weight: -10
 ---
 
+## Update
+
+**On November 19th, I sent you all an email**. I reproduce it here, to remind you of what was in it.
+
+Recognizing the grind that we are all in, and the fact that many of you are compelled to be always-on in zoom and other kinds of what I shall politely call academic performances, I've decided that we can re-jig things a wee bit as we hurtle towards the end of term.
+
+There are two graded assignments left - consolidation doc III and the exit ticket. Of these, the exit ticket is imagined as a kind of consolidation of the consolidations, and a chance for you to argue for a final grade if you so desire to do (perhaps sickness or other issues meant that your earlier work doesn't accurately reflect what you've learned, etc). Those two documents are each worth 25% of your final grade.
+
+Here's what I'm thinking.
+
+**Option A**: you complete the consolidation doc III AND the Exit Ticket as laid out in the syllabus. 25% and 25%. Consolidation doc III is due at the end of week 12; the exit ticket will be due at the end of the following week.
+
+**Option B**: you complete JUST the consolidation doc III addressing the prompts as fully and explicitly as you can AND you add a section discussing the overall evolution of your thought in the course (with explicit reference to your earlier work, links, and citations to readings as appropriate). If you choose this option, the weightings of your three consolidation documents will be 33 1/3% each, and the ability to argue for your own overall grade in the course will be off the table. The due date will be December 16.
+
+If you are one of the people with whom I have already worked out an individual plan given your own particular circumstances, you will continue as already worked out.
+
+If you are one of the people from whom I have heard nothing as of this writing, and/or you have not submitted anything in this course, you will remain on the option A track.
+
+---
+
+Approximately half of you who responded to this note chose Option A; half chose Option B.
+
+Below, the final prompt for this course as originally written:
+
 ## The Last Bit
 
 The last bit of the course is the **Exit Ticket**.
