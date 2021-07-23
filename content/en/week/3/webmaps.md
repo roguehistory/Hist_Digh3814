@@ -24,7 +24,7 @@ With time and practice, you would be able to build something similar. Remember, 
 **Nb** When I talk about 'serving' your site in step 8, I am assuming you have python installed on your computer. If you have a mac, you probably do; if you have a PC, probably not. If you don't want to muck about with Python, you can download the free trial of [prepos](https://prepros.io/), which will act like a web server. Open that program, and then drag and drop the folder you are working in (always start a new project like this in a new folder) onto the prepos interface. [See these instructions](https://prepros.io/help/getting-started).
 {{</alert >}}
 
-By the way, subsurface georadar and other non-invasive techniques are a part of digital archaeology that can transform how we understand historical graveyards - take a look at [this twitter thread](https://twitter.com/ben_hitchcock_/status/1298617256914624517). 
+By the way, subsurface georadar and other non-invasive techniques are a part of digital archaeology that can transform how we understand historical graveyards - take a look at [this twitter thread](https://twitter.com/ben_hitchcock_/status/1298617256914624517).
 
 
 ### Webmapping with Leaflet
@@ -157,7 +157,7 @@ Save!
 
 8. At the command prompt, you'll use python to start a webserver; the webserver acts like a regular server and makes these two files understandable by your web-browser: `$ python -m http.server` **Please see the alert at the top of the page if you don't have python on your machine; this is where you drag your work folder into prepos**.
 
-9. The terminal will tell you now that your server is running at an address that will look something like this: `(http://0.0.0.0:8000/)`. Copy that full address and paste it into your browser's address bar.
+9. The terminal will tell you now that your server is running at an address that will look something like this: `(http://0.0.0.0:8000/)`. Copy that full address and paste it into your browser's address bar. (It might look like `http://127.0.0.1:8000` or `http://localhost:8000`)
 
 Congratulations! You have made a webmap! Do you see how you could recenter the map on Ottawa? Add some more data? Change the base map to another style?
 
@@ -169,7 +169,7 @@ Congratulations! You have made a webmap! Do you see how you could recenter the m
 
 ![Ottawa 1894](https://legacy.lib.utexas.edu/maps/historical/ottawa_1894.jpg)
 
-This was uploaded to Mapwarper and georectified by a former MA student at Carleton. You can see it on Mapwarper [at this location](https://mapwarper.net/maps/29435).
+This was uploaded to Mapwarper and georectified by a former MA student at Carleton. You can see it on Mapwarper [at this location](https://mapwarper.net/maps/29435). (*nb* Mapwarper periodically runs out of space; so look for maps that were last warper/used within the last two years ago. For maps that were last updated longer than two years ago you might need to log into Mapwarper, add some more control points to the map, and then re-georectify it to renew it, _and then_ use for your map.)
 
 If you click on the 'Export' tab, you'll find that there's a URL for the map as tiles: `http://mapwarper.net/maps/tile/29435/{z}/{x}/{y}.png`.
 
@@ -204,7 +204,7 @@ But as historians, we are often interested to show some process taking place in 
 
 Georectifying is the process of taking an image (whether it is of a historical map, chart, airphoto, or whatever) and manipulating its geometry so that it matches a geographic projection. Think of it like this: you take your handdrawn map, and use pushpins to pin down known locations on your map to a globe. As you pin, your image stretches and warps. Traditionally, this has not been an easy thing to do, if you are new to GIS. In recent years, the curve has flattened significantly. In this exercise, we'll grab an image, upload it to the Map Warper website, and then export it as a tileset which can be used in other mapping programs.
 
-At [Library and Archives Canada](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=98246&title=Laura%20A.%20Gamble%20fonds%20%5btextual%20record,%20graphic%20material%5d.&ecopy=e002743396) I found an "Insurance Plan of Ottawa, June 1878" [MIKAN 3824226](http://collectionscanada.gc.ca/lac-bac/results/images?module=images&SortSpec=score+desc&Language=eng&ShowForm=hide&SearchIn_1=mikanNumber&SearchInText_1=3824226&Operator_1=AND&SearchIn_2=&SearchInText_2=&Operator_2=AND&SearchIn_3=&SearchInText_3=&Level=&MaterialDateOperator=after&MaterialDate=&DigitalImages=1&Source=&ResultCount=10).
+At [Library and Archives Canada](http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=98246&title=Laura%20A.%20Gamble%20fonds%20%5btextual%20record,%20graphic%20material%5d.&ecopy=e002743396) I found an "Insurance Plan of Ottawa, June 1878" [MIKAN 3824226](http://collectionscanada.gc.ca/lac-bac/results/images?module=images&SortSpec=score+desc&Language=eng&ShowForm=hide&SearchIn_1=mikanNumber&SearchInText_1=3824226&Operator_1=AND&SearchIn_2=&SearchInText_2=&Operator_2=AND&SearchIn_3=&SearchInText_3=&Level=&MaterialDateOperator=after&MaterialDate=&DigitalImages=1&Source=&ResultCount=10). (*nb* last time I checked, both of those links were borked at LAC's end; July 23 2021)
 
 This one in particular [shows Parliament Hill](http://central.bac-lac.gc.ca/.item?app=fondsandcol&op=img&id=e010695477-v8). I will save this one to my machine and georectify it. You grab one that interests you!
 

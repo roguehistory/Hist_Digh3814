@@ -51,7 +51,9 @@ Daniel Contreras has a chapter in Ben Marwick's online book, 'How To do Archaeol
 
 ![ta da](/images/rstudio/rstudio3.png)
 
-4. The `dem-gis.R` script that you want can be found [at this link](/data/dem-gis.R). Open the link in a new tab, and then copy it into the script window in R Studio. Put the cursor at the top of the file at the start of the line. You can then run each line by hitting the 'run' button, or by using the keyboard shortcut (cmd+enter or shift+enter). Read the comments (which are marked with a `#` sign) and follow all instructions.
+4. The `dem-gis.R` script that you want can be found [at this link](/data/dem-gis.R). Right-click and 'save-as' that file. Use your text editor to open it, then highlight and copy all of the text. In the version of R Studio that is open in your browser, paste the text in the script panel in R Studio.
+
+Now you can run the script. Put the cursor at the top of the file at the start of the line. You can then run each line by hitting the 'run' button, or by using the keyboard shortcut (cmd+enter or shift+enter). Read the comments (which are marked with a `#` sign) and follow all instructions.
 
 Work your way through [Contreras' tutorial](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/using-r-as-a-gis-working-with-raster-and-vector-data.html), using the `dem-gis.R` code.
 

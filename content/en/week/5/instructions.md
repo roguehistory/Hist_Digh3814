@@ -33,7 +33,7 @@ A good annotation draws connections between what you've read and other things yo
 
 ### Do
 
-_Take your time with these. These are listed in order of difficulty. Push yourself until you get stumped._
+_Take your time with these. These are listed in order of difficulty. Push yourself until you get stumped._ Honestly. It is far better to go through one exercise in depth, connecting with it, tying it to the readings, the podcast, experience in other courses, and other research you may have done, than racing through all of them for the sake of being 'done'. If on the other hand the exercise is not challenging, push yourself to do the next one. Get stuck. Ask for help. Share. Reflect on why you're stuck/how you're stuck/what being stuck implies...
 
 - [modify the existing scheme or suggest a new category](/week/5/kobotoolbox) that would address one of the shortcomings you identified in last week's Consolidation doc. Embed the link to your new form in a .md file you'll upload to your repository, with whatever explanatory info you need (ie what changes, and why).
 

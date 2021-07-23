@@ -8,7 +8,10 @@ author: "Shawn Graham"
 ---
 R is a programming language for statistics that is used frequently by archaeologists (the other popular option is Python). One of the advantages of _scripting_ or writing out your analysis as a sequence of commands is that anyone can look at your code and understand what you did and why it worked.
 
-1. Launch a virtual computer running RStudio in your browser by right-clicking on <a href="http://mybinder.org/v2/gh/o-date/r-conda/master?urlpath=rstudio" target="_blank">this link</a>
+1. Launch a virtual computer running RStudio in your browser by right-clicking on <a href="http://mybinder.org/v2/gh/o-date/r-conda/master?urlpath=rstudio" target="_blank">this link</a>. **nb** If no one has launched this virtual computer in a while, it can take several minutes to launch; but once someone _else_ has launched it once, it'll be faster for the rest of us.
+
+{{< notice success "Warning" >}} Because this a virtual computer running on someone else's computer, it will time out after around 10 minutes inactivity. Save and when you are ready to download your work to your _own_ machine, replace the part of the URL that says `/rstudio/` in the address bar with `/tree/`; the virtual computer's file manager will display. Tick off the box beside the file you wish to save, and hit 'download'. You can go back to rstudio by changing the URL back to `/rstudio/`
+{{< /notice >}}
 
 2. The interface for RStudio looks like this:
 

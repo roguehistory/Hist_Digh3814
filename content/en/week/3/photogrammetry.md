@@ -40,7 +40,7 @@ You have two options here.
 
 1. Use Google's own computing resources to stitch a model together for you with a piece of software called 'Meshroom'. To do this, right-click and [open this notebook](https://colab.research.google.com/github/o-date/photogrammetry/blob/master/Meshroom_%2B_GPU_for_Photogrammetry.ipynb) in a new window. You run each cell in that notebook starting at the top - select the cell, then hit run. When it finishes, select the next cell, and hit run. **That notebook has instructions on uploading your images directly, or connecting to your google drive folder**. Read carefully before hitting run! The process might take a bit of time.
 
-2. Download and use Regard3d, an open source collection of algorithms for making 3d models, on your own computer. [Download Regard3](http://regard3d.org/index.php/download) and then follow [its tutorial](http://www.regard3d.org/index.php/documentation/tutorial); you can then re-do its steps on the folder of your own images. Remember: you need to add the metadata to your photos if the camera you used isn't a standard camera.
+2. Download and use Regard3d, an open source collection of algorithms for making 3d models, on your own computer. [Download Regard3](http://regard3d.org/index.php/download) and then follow [its tutorial](http://www.regard3d.org/index.php/documentation/tutorial); you can then re-do its steps on the folder of your own images. **Remember: you need to add the metadata to your photos if the camera you used isn't a standard camera; see Getting Started Step 4.**
 
 Then, once you're done:
 

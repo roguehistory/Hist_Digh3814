@@ -20,10 +20,10 @@ The student, Hope Loiselle, chose to replicate one aspect of the analysis in [th
 ## Get set up.
 
 1. [Launch the binder containing R Studio](http://mybinder.org/v2/gh/o-date/r-conda/master). This will open up the Jupyter file explorer for our binder.
-2. Under the `new` drop-down, select `console`. We need to do some command line work.
+2. Under the `new` drop-down, select `terminal`. We need to do some command line work.
 3. At the console, use the git command to clone Marwick's repository: `$ git clone https://github.com/benmarwick/teaching-replication-in-archaeology.git`. You **do not** type the `$`; that is a convention to indicate that the code should be entered at the console.
 4. Once that's finished running, go back to the Jupyter file explorer page; select under the `new` drop-down select `R Studio`.
-5. Using the file explorer in `R Studio`, navigate to `analysis/supplementary-materials/submitted-assigments/Hope-Loiselle/`. Then use the cogwheel icon to set that as your working directory.
+5. Using the file explorer in `R Studio`, navigate to `analysis/supplementary-materials/submitted-assigments/Hope-Loiselle/`. Then use the cogwheel icon in the files pane (bottom right panel of RStudio, normally) to set that as your working directory.
 
 ## Replicate
 

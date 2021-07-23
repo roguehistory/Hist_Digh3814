@@ -16,6 +16,7 @@ author: "Shawn Graham"
 - getting our Github accounts set up and making our first log entries
 - getting Hypothes.is set up
 - getting Zotero installed
+- getting Obsidian set up
 - understanding what the hang you've signed up for
 - getting a sense of what digital archaeology is; also, 'failing gloriously'
 
