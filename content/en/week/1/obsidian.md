@@ -19,26 +19,28 @@ All of this material is scattered around. I've long admired the work of Caleb Mc
 
 > A Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
 
-On a computer, such a thing can be created out of a folder of simple text files. Everything I observe, every idea that I have: one idea, one file. Then I use the free 'second brain' software, [Obsidian](https://obsidian.md) to sit 'on top' of that stack of files to enable easy linking and discoverability.
+On a computer, such a thing can be created out of a folder of simple text files. Everything I observe, every idea that I have: one idea, one file. Then I use the free 'second brain' software, [Obsidian](https://obsidian.md) to sit 'on top' of that stack of files to enable easy linking and discoverability. Obsidian works as a personal knowledge base; seeing your notes develop and beging to interlink - and being able to search those patterns - supercharges your note taking abilities and the value of your reading. With time, you'll start to see connections and patterns in your thoughts. You're building up a personal knowledge base that becomes more valuable the more you use it.
 
-**The point** of using Obsidian in this course is that it will enable you to pull your hypothesis annotations together with all of the notes you take as you progress through this course. The key feature of Obsidian is the idea of linking ideas together: it's very much like a personal wiki. The more notes you make, the more connections you start to see, the deeper your learning and engagement with the material.
+I have a vault with over 400 notes in it. When I get an idea, I search my vault for relevant notes, and then embed them into a new document. I write around the existing notes, and then export to word for final polishing, citations. This accelerates my writing considerably, and helps me pull my research together into coherent form
 
-{{< notice success "Important" >}} You will notice throughout the weeks I talk about putting something into your journal; this is the tool that you will use for that. You may also use this tool for your consolidation documents.
+**The point** of using Obsidian in this course is that it will enable you to pull your hypothesis annotations together with all of the notes you take as you progress through this course. The key feature of Obsidian is the idea of linking ideas together: maybe it's better to think of it like a personal wiki. The more notes you make, the more connections you start to see, the deeper your learning and engagement with the material.
+
+{{< notice success "Important" >}} You will notice throughout the weeks I talk about putting something into your journal; this is the tool that you will use for that. You may also use this tool for your consolidation documents. Frankly, I'd be delighted to see you use this tool for _all_ of your notetaking, in every course.
 {{< /notice >}}
 
-1. Download and install [Obsidian](https://obsidian.md).
+1. Download and install [Obsidian](https://obsidian.md). It's free; it also comes with mobile versions.
 
-2. Then download and unzip my [Digiarch Lab Notebook](https://github.com/shawngraham/obsidian-dh-lab-notebook). A 'vault' is just a folder where your notes are found. Put this somewhere sensible on your computer.
+2. Then download and unzip my [Digiarch Lab Notebook](https://github.com/shawngraham/obsidian-digiarch-lab-notebook). A 'vault' is just a folder where your notes are found. Put this somewhere sensible on your computer.
 
 3. Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works.
 
-4. When you're familiar with the interface, click the vault icon to open a new vault; find and select the 'Digiarch Lab Notebook'.
+4. When you're familiar with the interface, click the vault icon to open a new vault; find where you put it and select the 'Digiarch Lab Notebook'.
 
 5. When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
 
 6. This vault is configured with some simple templates for fetching and turning Hypothesis web/pdf annotations into notes, and for making log files to help with the digital tutorials for this course. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy! Hit the 'view daily note' button in the toolbar to make your first note. This can be just a simple 'hey, this is a note'.
 
-7. Make a new github repository _just_ for your Digiarch Lab Notebook; configure it with a readme (if you make it _private_ you'll please add me as a collaborator). Once it's created, drag and drop _all_ the files from your vault into the repository. Commit your changes.
+7. Make a new github repository _just_ for your Digiarch Lab Notebook; configure it with a readme (if you make it _private_ you'll please add me as a collaborator). Once it's created, drag and drop _all_ the files from your vault into the repository. Commit your changes. **Alternatively**, moving forward you can just drag-and-drop the files that you want me to see, rather than the entirety of your vault.
 
 8. Notice once it finishes uploading that you can find the daily note you just created. Whenever I ask, for the duration of the course, for a journal entry, you can make it in Obsidian, upload your updated vault, and provide me the link to the file.   
 
