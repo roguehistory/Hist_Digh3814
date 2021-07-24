@@ -42,7 +42,7 @@ I have a vault with over 400 notes in it. When I get an idea, I search my vault 
 
 7. Make a new github repository _just_ for your Digiarch Lab Notebook; configure it with a readme (if you make it _private_ you'll please add me as a collaborator). Once it's created, drag and drop your _journal_ files for a given week into the repository, as appropriate. Commit your changes.
 
-8.  Whenever I ask, for the duration of the course, for a journal entry, you can make it in Obsidian, upload to your repo, and provide me the link to the file.   
+8.  Whenever I ask, for the duration of the course, for a journal entry, you can make it in Obsidian, upload to your repo, and provide me the link to the file.  Ditto for the log file. 
 
 {{< notice success "Important" >}} As you progress through the course, take the time to spot connections between your different notes and journal entries. Use `[[` and `]]` to connect keywords in your notes to other notes. With time, you'll start to 'connect your thinking' and this will make it easier for you to see how your understanding is growing, changing, and becoming more sophisticated. Indeed, if you wanted, I would encourage you to put **all** your notes from **all** your classes into Obsidian, and look for those interlinkages. It will be transformative!
 {{< /notice >}}
