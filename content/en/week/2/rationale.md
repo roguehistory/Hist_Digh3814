@@ -42,8 +42,41 @@ Katie Daubs, writing in the Toronto Star, [has a long piece on the history of gr
 
 A project looking at graveyards and gravestones therefore sets us up to talk about digital archaeology in a number of powerful and compelling ways.
 
+### When Archaeology Is In The Headlines
+
+We can't be discussing 'mortuary archaeology' without thinking of the unmarked graves at the government sanctioned, church-run residential schools; these schools were deliberately designed to forcibly assimilated Indigenous children into settler society (TRC of Canada 2015). The [deaths, graveyards, and unmarked burials were _never_ a secret; there was plenty of witness' testimony](http://www.trc.ca/assets/pdf/Volume_4_Missing_Children_English_Web.pdf). But over the last few months, archaeological approaches using ground-penetrating radar confirmed the location of graves at [Kamloops](https://www.cbc.ca/news/canada/british-columbia/tk-eml%C3%BAps-te-secw%C3%A9pemc-215-children-former-kamloops-indian-residential-school-1.6043778) and [Cowessess](https://www.cbc.ca/news/canada/saskatchewan/cowessess-graves-unmarked-residential-school-marieval-1.6077797) amongst other locations; other Nations are now searching for the graves of their children.
+
+Did _your_ elementary school have a graveyard beside the play-yard? Mine didn't.
+
+Dr. Kisha Supernant, who directs the Institute for Prairie and Indigenous Archaeology (IPIA) at the University of Alberta, has been a leading voice on the need for _ethical_ and _trained_ archaeological GPR work to help communities who wish it. That's a key point: the archaeologists do have training, tools, and techniques, but they must be _invited_.
+
+But...
+
+> Deeply concerned about some of the stories I'm hearing about large companies who use remote sensing approaching communities about scans around IRS sites. I encourage any Indigenous community who is receiving these request to reach out for free advice from @UofA_IPIA
+. [Kisha Supernant, via Twitter](https://twitter.com/ArchaeoMapper/status/1400858425760706560).
+
+I will copy in full the statement from IPIA following the release of the full report on the former Kamloops Indian Residential School:
+
+>Today, Tk’emlúps te Secwépemc has released information about the preliminary ground-penetrating radar investigation undertaken by Dr. Sarah Beaulieu around the grounds of the former Kamloops Indian Residential School. Dr. Beaulieu engaged with Knowledge Keepers and Cultural Monitors to perform a preliminary, exploratory survey of an area where the experiences and testimonies of survivors indicated the presence of graves. The ground-penetrating radar work was undertaken by an experienced expert using best practices for the application of ground-penetrating radar to find possible unmarked graves and identified 200 targets of interest in the area surveyed. These targets have many characteristics of grave shafts identified in other contexts and are strongly indicative of burial locations. Further investigation of these targets is warranted, as is additional survey of other areas of the grounds associated with the Kamloops Indian Residential School. Testimonies of survivors indicate other graves are likely to be found in other areas around the Kamloops IRS.
+
+> Survivors and Indigenous communities have been speaking the truth of their experiences in so-called “residential schools” and related institutions for decades; it should not have taken the use of scientific techniques for the necessary attention to be paid to the truth of what happened to the survivors and to the children who never came home.
+
+>As AFN National Chief RoseAnne Archibald states: “We have always known.”
+
+> It is essential that Tk’emlúps te Secwépemc and other Indigenous nations are provided with all the resources they need as they undertake further work to find the burial locations of their children and take the next steps they deem necessary, including calls for justice and accountability. We at the Institute of Prairie and Indigenous Archaeology (IPIA) support the call of Tk’emlúps te Secwépemc to release the Student Attendance Records and to provide additional immediate and long-term resources from the federal and provincial governments. As noted in the Tk’emlúps te Secwépemc media release, access to experts is critical:
+
+> “This work requires significant resources that includes dedicated and qualified personnel to bring truth to light and peace to family members of the missing children. This is what drove Tk’emlúps te Secwépemc to reach out to the Canadian Archaeological Association and the Institute of Indigenous and Prairie Archeology. It is also why Tk’emlúps te Secwépemc are offering a free webinar next week on remote sensing and grave detection in partnership with them.”
+
+> At the IPIA, we recognize the important role archaeological techniques can play in supporting communities to locate where their missing children might be buried. We are Indigenous-led and recognized as a national and international leader in using various remote sensing technologies (including ground-penetrating radar and drone mounted sensors) in burial contexts across the prairie provinces. We invite communities to reach out to us should they need advice on how best to approach the surveys around their schools in the hopes we may provide additional information and help navigating these emotional contexts. We also invite federal and provincial governments to reach out to us about how to coordinate and ensure communities have access to reliable, independent expert advice around the application of remote sensing for grave detection. Our Director, Kisha Supernant (Métis) is Chair of the Unmarked Graves Working Group of the Canadian Archaeological Association, which is developing resources for Indigenous communities about best practices around the use of remote sensing to detect unmarked graves.
+
+You can view the full webinar on the use of GPR to help locate unmarked burials by the Canadian Archaeological Association and the IPIA [here](https://canadianarchaeology.com/caa/resources-indigenous-communities-considering-investigating-unmarked-graves); the slides and pdfs are also available to download. I encourage you to watch the full video...
+
+And then reflect on the differences here, between graves that are unmarked, and marked; between the hidden, and the celebrated. And the role this implies for archaeology.
+
+_Truth and Reconciliation Commission of Canada (TRC of Canada)2015aCanada’s Residential Schools: The History, Part 1 - Origins to 1939. In The Final Report of the Truth and Reconciliation Commission of Canada. McGill-Queens University Press, Montreal, Canada_
+
 ### Conclusion
 
-So it seemed to me that a project where we explored local graveyards would tie together many of the strands that I wanted this class to weave together. The information that you collect will be used later in the course for some statistical analysis, and for the eventual final outputs that we put together. The issues that all of this will raise, the techniques that you will be exposed to, the literature: all of these will help push you towards an ethical digital archaeology.
+It seemed to me that a project where we explored local graveyards would tie together many of the strands that I wanted this class to weave together: it would also demonstrate the necessarily political work that is archaeology. The information that you collect will be used later in the course for some statistical analysis, and for the eventual final outputs that we put together. The issues that all of this will raise,  the techniques that you will be exposed to, the literature: all of these will help push you towards an ethical digital archaeology. [Archaeologists should be activists too, says Allison Mickel and Kyle Olson](https://www.sapiens.org/archaeology/archaeology-activists/).
 
-When the day comes that you will work with other kinds of digital archaeological data, you will be able to revisit your notes and journal and have a head start on whatever task it is you wish to do.
+When the day comes that you will work with other kinds of digital archaeological data, you will be able to revisit your notes and journals from this class and have a head start on whatever task it is you wish to do.
