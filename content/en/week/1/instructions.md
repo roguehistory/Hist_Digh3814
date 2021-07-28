@@ -60,7 +60,7 @@ If you make it private, **make sure to 'invite user shawngraham'** to your repos
 
 1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
 
-2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal.md’ This document also goes into your week one repo on github.
+2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal-week-1.md’ This document also goes into your week one repo on github.
 
 Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc.
 
