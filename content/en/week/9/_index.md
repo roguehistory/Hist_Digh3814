@@ -1,5 +1,5 @@
 ---
-title: "09. Nov 16"
+title: "09. Nov 15"
 description: "Communicating Digital Archaeology"
 date: 2020-01-28T00:10:51+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "06. Oct 19"
+title: "06. Oct 18"
 description: "Contexts of Digitial and Other Archaeologies"
 date: 2020-01-28T00:10:51+09:00
 draft: false
