@@ -34,3 +34,17 @@ Integrate my feedback on your earlier work or any feedback you have received fro
 ### Submit Work for Grading
 
 You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA).
+
+## A Choice re Consolidation III and the Exit Ticket
+
+Recognizing the grind that we are all in as the term winds down, and knowing that Covid-19 is still a factor in our lives, I've decided that we can afford a choice as we hurtle towards the end of term.
+
+There are two graded assignments left - consolidation doc III and the [exit ticket](https://digiarch.netlify.app/week/12-5/instructions/). Of these, the exit ticket is imagined as a kind of consolidation of the consolidations, and a chance for you to argue for a final grade if you so desire to do (perhaps sickness or other issues meant that your earlier work doesn't accurately reflect what you've learned, etc). Those two documents are each worth 25% of your final grade.
+
+Here's what I'm thinking.
+
+**Option A**: you complete the consolidation doc III AND the Exit Ticket as laid out in the syllabus. 25% and 25%. Consolidation doc III is due at the end of week 12; the exit ticket will be due at the end of the following week.
+
+**Option B**: you complete JUST the consolidation doc III addressing the prompts as fully and explicitly as you can AND you add a section discussing the overall evolution of your thought in the course (with explicit reference to your earlier work, links, and citations to readings as appropriate). If you choose this option, the weightings of your three consolidation documents will be 33 1/3% each, **and the ability to argue for your own overall grade in the course will be off the table.** I will accept Option B work as late as December 17.
+
+You will indicate which option you are pursuing with a statement in the first line of Consolidation Doc III.

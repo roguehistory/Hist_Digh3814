@@ -9,6 +9,8 @@ weight: -10
 
 ## Communicating Digital Archaeology
 
+_As we start the final portion of this course, please take a moment to skip to week 12 and note Options A and B for the completion of Consolidation III and the Exit Ticket_.
+
 ### Goals for this week
 
 - explore how archaeologists communicate digital archaeology professionally
