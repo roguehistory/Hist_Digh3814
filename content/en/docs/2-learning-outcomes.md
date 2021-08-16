@@ -44,4 +44,10 @@ There's nothing we can't roll with, in this class. That said, I can't help you i
 {{< notice success "Important" >}} You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you.
 {{< /notice >}}
 
-When something comes up and this course has to move to the backburner, contact me and we can **figure out something else to do, or something else that will help you be successful here**. It's our course - we can change things up as we need to.
+When something comes up and this course has to move to the backburner, contact me and we can **figure out something else to do, or something else that will help you be successful here**. It's our course - we can change things up as we need to. Just put "something has come up" in the subject line.
+
+#### THIS INCLUDES COVID
+
+I fully expect that at some point during the term, COVID and its complications will happen to some of you. When this happens, just email me and say that "something has come up". I don't require a dr's note, or any of the details. Again, I trust you, and we'll figure something else out.
+
+Similarly, I have small children and people in my life who are at risk. When something comes up on my end, I will let you all know and we'll figure this out _together_.
