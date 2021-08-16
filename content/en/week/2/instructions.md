@@ -28,7 +28,11 @@ Richardson, Lorna-Jane., 2018. Ethical Challenges in Digital Public Archaeology.
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
 
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. (Also you might want to add anything you read or anything interesting you find to your Zotero library.)
+
+{{< notice success "Important" >}}
+I debated creating a brand-new reading group for you, but then decided that being able to see what previous students have paid attention to would be a good experience for all of us, and with time would enable a deeper engagement with these texts. 
+{{< /notice >}}
 
 ### Do
 

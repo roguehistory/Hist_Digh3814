@@ -30,19 +30,43 @@ I have a vault with over 400 notes in it. When I get an idea, I search my vault 
 
 1. Download and install [Obsidian](https://obsidian.md). It's free; it also comes with mobile versions.
 
-2. Then download and unzip my [Digiarch Lab Notebook](https://github.com/shawngraham/obsidian-digiarch-lab-notebook). A 'vault' is just a folder where your notes are found. Put this somewhere sensible on your computer.
+2. Then download and unzip my [Digiarch Lab Notebook](https://github.com/shawngraham/obsidian-digiarch-lab-notebook). Put this somewhere sensible on your computer.
 
-3. Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works.
+3. Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works. `ctrl / cmd + e` will switch back and forth between 'preview' and 'edit'
 
-4. When you're familiar with the interface, click the vault icon to open a new vault; find where you put it and select the 'Digiarch Lab Notebook'.
+![main view](/images/obs1.png)
+
+4. When you're familiar with the interface, click the vault icon to open a new vault; find where you put it and select the 'Digiarch Lab Notebook'. A 'vault' is just what Obsidian calls a folder where your notes are found.
+
+![main view](/images/obs2.png)
+
+_select a different vault_
+
+![new vault open](/images/obs3.png)
+
+_Note that I have the vault opened in the 'preview mode'. Note also the file explorer at left._
+
+![finder](/images/obs4.png)
+
+_The same 'vault' opened in my computer's finder/file explorer. Any note I make here can be copied to somewhere else._
 
 5. When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
 
 6. This vault is configured with some simple templates for fetching and turning Hypothesis web/pdf annotations into notes, and for making log files to help with the digital tutorials for this course. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy! Hit the 'view daily note' button in the toolbar to make your first note. This can be just a simple 'hey, this is a note'.
 
-7. Make a new github repository _just_ for your Digiarch Lab Notebook; configure it with a readme (if you make it _private_ you'll please add me as a collaborator). Once it's created, drag and drop your _journal_ files for a given week into the repository, as appropriate. Commit your changes.
+![template](/images/obs5.png)![template](/images/obs6.png)
 
-8.  Whenever I ask, for the duration of the course, for a journal entry, you can make it in Obsidian, upload to your repo, and provide me the link to the file.  Ditto for the log file. 
+![make a new note](/images/make-a-new-note.gif)
+
+_You can do the same thing for a log file_.
+
+7. Make a new github repository _just_ for your work in this class; configure it with a readme (if you make it _private_ you'll please add me as a collaborator). Once it's created, drag and drop your _journal_ and _log_ files for a given week into the repository, as appropriate. Commit your changes.
+
+![finder](/images/obs7.png)
+
+_There's your note. You can drag-and-drop it into a github.com repository_.
+
+8.  Whenever I ask, for the duration of the course, for a journal entry, you can make it using Obsidian, then copy the file to your repository, and provide me the link to the file.  Ditto for the log file.
 
 {{< notice success "Important" >}} As you progress through the course, take the time to spot connections between your different notes and journal entries. Use `[[` and `]]` to connect keywords in your notes to other notes. With time, you'll start to 'connect your thinking' and this will make it easier for you to see how your understanding is growing, changing, and becoming more sophisticated. Indeed, if you wanted, I would encourage you to put **all** your notes from **all** your classes into Obsidian, and look for those interlinkages. It will be transformative!
 {{< /notice >}}
