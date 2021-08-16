@@ -71,7 +71,7 @@ _There's your note. You can drag-and-drop it into a github.com repository_.
 {{< notice success "Important" >}} As you progress through the course, take the time to spot connections between your different notes and journal entries. Use `[[` and `]]` to connect keywords in your notes to other notes. With time, you'll start to 'connect your thinking' and this will make it easier for you to see how your understanding is growing, changing, and becoming more sophisticated. Indeed, if you wanted, I would encourage you to put **all** your notes from **all** your classes into Obsidian, and look for those interlinkages. It will be transformative!
 {{< /notice >}}
 
-![insert links](finder/images/insert-links.gif)
+![insert links](/images/insert-links.gif)
 
 9. **Not required but maybe helpful**: This vault comes with a 'complex template' for retrieving annotations from the web made with hypothesis. To use this complex template, make a new empty note and then select the `<%` from the tool ribbon. In the pop-up select 'hypothesis'. The first time you do this, the template will ask you to insert your 'hypothes.is user token'. You can find this by being logged into the [hypothes.is](https://web.hypothes.is) website, and then going to [https://hypothes.is/account/developer](https://hypothes.is/account/developer) and finding the token on your user page - it looks like a long string of gibberish. Paste this in to the pop-up box in Obsidian. (**You only have to do this the first time**. This token gives Obsidian permission to query Hypothesis for your annotations). Then, Obsidian will ask you for the URL of the page you wish to extract annotations from. Insert the full address et voilà. A new note with your annotation!
 
