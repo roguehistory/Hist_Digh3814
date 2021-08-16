@@ -50,7 +50,7 @@ _Note that I have the vault opened in the 'preview mode'. Note also the file exp
 
 _The same 'vault' opened in my computer's finder/file explorer. Any note I make here can be copied to somewhere else._
 
-5. When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
+5. When the warning popup about community plugins & safe mode appears, turn safe mode OFF; if the settings pop-up opens, just hit the 'x' button to close it. You're now good to go!
 
 6. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy! Hit the 'view daily note' button in the toolbar to make your first note. This can be just a simple 'hey, this is a note'.
 
