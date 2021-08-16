@@ -52,7 +52,7 @@ _The same 'vault' opened in my computer's finder/file explorer. Any note I make 
 
 5. When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
 
-6. This vault is configured with some simple templates for fetching and turning Hypothesis web/pdf annotations into notes, and for making log files to help with the digital tutorials for this course. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy! Hit the 'view daily note' button in the toolbar to make your first note. This can be just a simple 'hey, this is a note'.
+6. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy! Hit the 'view daily note' button in the toolbar to make your first note. This can be just a simple 'hey, this is a note'.
 
 ![template](/images/obs5.png)![template](/images/obs6.png)
 
@@ -70,5 +70,11 @@ _There's your note. You can drag-and-drop it into a github.com repository_.
 
 {{< notice success "Important" >}} As you progress through the course, take the time to spot connections between your different notes and journal entries. Use `[[` and `]]` to connect keywords in your notes to other notes. With time, you'll start to 'connect your thinking' and this will make it easier for you to see how your understanding is growing, changing, and becoming more sophisticated. Indeed, if you wanted, I would encourage you to put **all** your notes from **all** your classes into Obsidian, and look for those interlinkages. It will be transformative!
 {{< /notice >}}
+
+![insert links](finder/images/insert-links.gif)
+
+9. **Not required but maybe helpful**: This vault comes with a 'complex template' for retrieving annotations from the web made with hypothesis. To use this complex template, make a new empty note and then select the `<%` from the tool ribbon. In the pop-up select 'hypothesis'. The first time you do this, the template will ask you to insert your 'hypothes.is user token'. You can find this by being logged into the [hypothes.is](https://web.hypothes.is) website, and then going to [https://hypothes.is/account/developer](https://hypothes.is/account/developer) and finding the token on your user page - it looks like a long string of gibberish. Paste this in to the pop-up box in Obsidian. (This token gives Obsidian permission to query Hypothesis for your annotations). Then, Obsidian will ask you for the URL of the page you wish to extract annotations from. Insert the full address et voilà. A new note with your annotation!
+
+---
 
 (By the way, a vault with many more bells-and-whistles crafted especially for history students is available [here](https://github.com/shawngraham/obsidian-student-starter-vault) and you're welcome to give it a try too. This vault is configured with plugins to make it easy to import zotero notes and bibliography. It has a template to go out and grab your hypothesis annotations. It has a template to create timelines from notes that detail events. If you drop an image file into the vault, it has a template to do OCR on that image and paste the resulting text into a new note. There are tools in there to help you find connections between your notes; one of them will examine your note and then use some text analysis to find related notes based on the text. My gift to you.)
