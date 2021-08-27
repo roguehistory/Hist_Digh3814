@@ -8,7 +8,7 @@ weight: 1
 
 <p align="center"><iframe id="vp13uXZV" title="Video Player" width="100%" height="400" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594140721&f=3uXZV9iQlV0efWrX3frFMA&d=0&m=p&r=360p+480p+720p&volume=100&start_res=720p&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
-### HIST3000|CLCV3000 Fall 2020 Department of History, Carleton University
+### HIST3000|CLCV3000 Fall 2021 Department of History, Carleton University
 
 Once the excavation is over, what happens to the information created through archaeological research? How do archaeologists use digital technologies on site, in the lab, or on the web? This course explores the intersection of digital technologies and computing with archaeology. We will explore the ways theory gets embedded into computation; perhaps there is even a theory of digital archaeology? We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will consider the ethical ramifications of our digital tools and opaque algorithms. We will also look into the ways that computational creativity in archaeology allow for novel engagements with the past, thus moving us into a digital _public_ archaeology.
 

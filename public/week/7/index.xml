@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>07. Nov 2 on HIST3000|CLCV3000</title>
+    <title>07. Nov 1 on HIST3000|CLCV3000</title>
     <link>https://digiarch.netlify.app/week/7/</link>
-    <description>Recent content in 07. Nov 2 on HIST3000|CLCV3000</description>
+    <description>Recent content in 07. Nov 1 on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
@@ -32,9 +32,9 @@ Read  Huggett, Jeremy. 2017 The Apparatus of Digital Archaeology, Internet Archa
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://digiarch.netlify.app/week/7/abm/</guid>
-        <description>Read ODATE 4.4 - 4.4.1.3
+        <description>Read ODATE 4.4 - 4.4.1.3 (just the opening two sections)
   Download and install Netlogo for your machine (there is an option called &amp;lsquo;Netlogo Web&amp;rsquo;, which runs in your browser. You can give that a shot, but I know that the bits below work on the desktop version. I haven&amp;rsquo;t tested on the web version.)
-    Option A: I wrote a guide to getting started with Netlogo that simulates trading pottery around a network, here: https://digitalarchaeology.</description>
+    Option A: Follow along in Chapter 1 of the Romanowska, Wren, &amp;amp; Crabtree book, and build the model of the out-of-Africa dispersal of modern humans; the code repo is at github.</description>
       </item>
       
       <item>

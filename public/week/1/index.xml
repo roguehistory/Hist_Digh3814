@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>01. Sept 14 on HIST3000|CLCV3000</title>
+    <title>01. Sept 13 on HIST3000|CLCV3000</title>
     <link>https://digiarch.netlify.app/week/1/</link>
-    <description>Recent content in 01. Sept 14 on HIST3000|CLCV3000</description>
+    <description>Recent content in 01. Sept 13 on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
@@ -23,8 +23,8 @@
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://digiarch.netlify.app/week/1/instructions/</guid>
         <description>Module 1: Capturing/Creating Getting Started 
-Goals for this week  getting our Github accounts set up and making our first log entries getting Hypothes.is set up getting Zotero installed understanding what the hang you&amp;rsquo;ve signed up for getting a sense of what digital archaeology is; also, &amp;lsquo;failing gloriously&amp;rsquo;  Listen  Feed for the podcast here. Transcript here.
-Advice on how to listen to a podcast for a class. It&amp;rsquo;s not as straightforward as you might think.</description>
+Goals for this week  getting our Github accounts set up and making our first log entries getting Hypothes.is set up getting Zotero installed getting Obsidian set up understanding what the hang you&amp;rsquo;ve signed up for getting a sense of what digital archaeology is; also, &amp;lsquo;failing gloriously&amp;rsquo;  Listen  Feed for the podcast here. Transcript here.
+Advice on how to listen to a podcast for a class.</description>
       </item>
       
       <item>
@@ -67,6 +67,16 @@ Then join our HIST3000|CLCV3000 reading group. If you happen to be reading somet
         <description>What is Discord? You can download Discord here or you can use it in a broswer.
 You will receive an invitation email in your Carleton account. It expires after one day, so do join once you get it. It will ask to verify your email; check your spam folder.
 Once you&amp;rsquo;re in, there&amp;rsquo;s a welcome message with a reaction emoji at the end - click on the thumbs up to confirm that you&amp;rsquo;ve read the message.</description>
+      </item>
+      
+      <item>
+        <title>Your Second Brain</title>
+        <link>https://digiarch.netlify.app/week/1/obsidian/</link>
+        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
+        <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
+        <guid>https://digiarch.netlify.app/week/1/obsidian/</guid>
+        <description>Notes and Emergent Ideas In recent years, I&amp;rsquo;ve found that a lot of my research materials are all online. Everything I read, everything I study. I use Zotero to handle bibliography and to push pdfs to an iPad with zotfile; then I annotate as I read on the device, and eventually, retrieve the annotations back into Zotero.
+I read on a browser on my work computer too; I use hypothes.is with a private group where I&amp;rsquo;m the only member to annotate websites and pdfs when I can&amp;rsquo;t be bothered to send them to the ipad.</description>
       </item>
       
       <item>

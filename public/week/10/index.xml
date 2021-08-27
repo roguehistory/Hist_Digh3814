@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>10. Nov 23 on HIST3000|CLCV3000</title>
+    <title>10. Nov 22 on HIST3000|CLCV3000</title>
     <link>https://digiarch.netlify.app/week/10/</link>
-    <description>Recent content in 10. Nov 23 on HIST3000|CLCV3000</description>
+    <description>Recent content in 10. Nov 22 on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
@@ -43,7 +43,7 @@ Read  Morgan, Colleen, Robert Carter, Michal Michalski. 2016. The Origins of Doh
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://digiarch.netlify.app/week/10/start-compendium/</guid>
-        <description>Please do not feel that you have to do this on your own. In the binder that you will load up, there is a feature to start a video chat from within the binder. Make use of that! When you click on it, it&amp;rsquo;ll give you a code. Share that with people in this class (or friends outside the class who might be able to help). If someone does help you, just add their name to the appropriate spot in the document that will result from this exercise.</description>
+        <description>This exercise depends on a complicated series of dependencies that do not play nice with the online RStudio binder I set up for you. Try installing R and RStudio on your own machine if you want to give this a try. Otherwise, I would suggest giving this a pass. You could try rstudio cloud which you can sign up for a free account with using your github credentials; or try to install the free RStudio desktop (which also means installing R first).</description>
       </item>
       
       <item>

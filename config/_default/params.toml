@@ -1,7 +1,7 @@
 logo = true
 logoText = "HIST3000|CLCV3000"
 logoType = "short" # long, short
-description = "Fall 2020 Edition @Carleton U."
+description = "Fall 2021 Edition @Carleton U."
 
 themeOptions = ["light", "dark"]
 

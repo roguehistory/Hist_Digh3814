@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>05. Oct 13 on HIST3000|CLCV3000</title>
+    <title>05. Oct 12 on HIST3000|CLCV3000</title>
     <link>https://digiarch.netlify.app/week/5/</link>
-    <description>Recent content in 05. Oct 13 on HIST3000|CLCV3000</description>
+    <description>Recent content in 05. Oct 12 on HIST3000|CLCV3000</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>shawn.graham@carleton.ca (Dr. Shawn Graham)</managingEditor>
@@ -34,8 +34,7 @@ Read  ‘What gets counted, counts’. Chapter from Data Feminism by Catherine D
         <author>shawn.graham@carleton.ca (Dr. Shawn Graham)</author>
         <guid>https://digiarch.netlify.app/week/5/basic-r-stats/</guid>
         <description>R is a programming language for statistics that is used frequently by archaeologists (the other popular option is Python). One of the advantages of scripting or writing out your analysis as a sequence of commands is that anyone can look at your code and understand what you did and why it worked.
-  Launch a virtual computer running RStudio in your browser by right-clicking on this link
-  The interface for RStudio looks like this:</description>
+ Launch a virtual computer running RStudio in your browser by right-clicking on this link. nb If no one has launched this virtual computer in a while, it can take several minutes to launch; but once someone else has launched it once, it&amp;rsquo;ll be faster for the rest of us.</description>
       </item>
       
       <item>

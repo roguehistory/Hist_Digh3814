@@ -9,7 +9,7 @@ landing:
   title:
     - An Introduction to Digital Archaeology
   text:
-    - HIST3000 | CLCV3000 Fall 2020 @Carleton_U with Dr. Shawn Graham
+    - HIST3000 | CLCV3000 Fall 2021 @Carleton_U with Dr. Shawn Graham
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
