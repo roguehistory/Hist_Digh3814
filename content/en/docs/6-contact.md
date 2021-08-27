@@ -15,8 +15,8 @@ or on Twitter at [@electricarchae](http://twitter.com/electricarchaeo).
 
 He will be present in our class discord server every day.
 
-If we ever get out of quarantine, and you're in Ottawa, he often haunts the Library coffeeshop.
+If he ever goes to campus, he often haunts the Library coffeeshop.
 
 ### Online Office Hours  
 
-Dr. Graham will be present in our [Discord server](/week/1/discord) every Wednesday from 1 until 3, and quite possibly the evenings too. 
+Dr. Graham will be present in our [Discord server](/week/1/discord) every Wednesday from 1 until 3, and quite possibly the evenings too.

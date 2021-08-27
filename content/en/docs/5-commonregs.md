@@ -53,8 +53,8 @@ The following additional final course grades may be assigned by instructors:
 Standing in a course is determined by the course instructor subject to the approval of the Faculty Dean. This means that grades submitted by the instructor may be subject to revision. No grades are final until they have been approved by the Dean.
 
 ### WITHDRAWAL WITHOUT ACADEMIC PENALTY
-**September 30, 2020**: Last day for a full fee adjustment (financial withdrawal). Withdrawals after this date will result in a permanent notation of WDN on the official transcript.
-**December 11, 2020**: Last day for academic withdrawal.
+**September 30, 2021**: Last day for a full fee adjustment (financial withdrawal). Withdrawals after this date will result in a permanent notation of WDN on the official transcript.
+**December 10, 2021**: Last day for academic withdrawal.
 
 ### REQUESTS FOR ACADEMIC ACCOMMODATIONS
 You may need special arrangements to meet your academic obligations during the term. For an accommodation request the processes are as follows:
