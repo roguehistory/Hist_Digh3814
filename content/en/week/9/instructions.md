@@ -27,6 +27,7 @@ _As we start the final portion of this course, please take a moment to skip to w
 + ‘The Numbers Don’t Speak for Themselves’ Draft chapter from Data Feminism by Catherine D’Ignazio and Lauren Klein [link](https://bookbook.pubpub.org/pub/6ui5n4vo/release/4)
 + Ben Marwick, Carl Boettiger & Lincoln Mullen. 2018. Packaging Data Analytical Work Reproducibly Using R (and Friends), The American Statistician, 72:1, 80-88, [link](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)
 + Perry, Sara, Roussou, Maria, Mirashrafi, Sophia S., Katifori, A., and McKinney, Sierra. 2019. Shared digital experiences supporting collaborative meaning-making at heritage sites. In Hannah Lewi, Wally Smith, Dirk vom Lehn, Steven Cooke (eds.), The Routledge International Handbook of New Digital Practices in Galleries, Libraries, Archives, Museums and Heritage Sites. London: Routledge. Pp. 143-156. [link](data/Perry.et.al.2019_SharedDigitalExperiences_PrePrint_FINAL.pdf)
++ Strupler, N. 2021 Re-discovering Archaeological Discoveries. Experiments with reproducing archaeological survey analysis, Internet Archaeology 56. [https://doi.org/10.11141/ia.56.6](https://doi.org/10.11141/ia.56.6).
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
 

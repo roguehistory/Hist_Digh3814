@@ -25,13 +25,14 @@ weight: -11
 + Lacy, Robyn S. 2018. Public Engagement through Burial Landscapes: Cupids and Ferryland, Newfoundland. AP: Online Journal of Public Archaeology, Special Volume 3: Death in the Contemporary World: Perspectives from Public Archaeology. Pp. 55-78. [link](https://via.hypothes.is/http://revistas.jasarqueologia.es/index.php/APJournal/article/download/146/162)
 + Dennis, L.Meghan., 2020. Digital Archaeological Ethics: Successes and Failures in Disciplinary Attention. Journal of Computer Applications in Archaeology, 3(1), pp.210–218. [link](http://doi.org/10.5334/jcaa.24)
 Richardson, Lorna-Jane., 2018. Ethical Challenges in Digital Public Archaeology. Journal of Computer Applications in Archaeology, 1.1, pp.64–73. [link](http://doi.org/10.5334/jcaa.13)
++ Gergatsoulis, Manolis; Georgios Papaioannou; Eleftherios Kalogeros; Robert Carter. 2018. Representing Archeological Excavations Using the CIDOC CRM Based Conceptual Models _Metadata and Semantic Research_ Springer. pp355-366. [link](https://link.springer.com/chapter/10.1007%2F978-3-030-71903-6_33) (You should be able to access this via Carleton, if you run into issues. Let me know).
 
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read.
 
 A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. (Also you might want to add anything you read or anything interesting you find to your Zotero library.)
 
 {{< notice success "Important" >}}
-I debated creating a brand-new reading group for you, but then decided that being able to see what previous students have paid attention to would be a good experience for all of us, and with time would enable a deeper engagement with these texts. 
+I debated creating a brand-new reading group for you, but then decided that being able to see what previous students have paid attention to would be a good experience for all of us, and with time would enable a deeper engagement with these texts.
 {{< /notice >}}
 
 ### Do
