@@ -79,3 +79,20 @@ But if it does work for you, I find that tapping with the space bar works best o
 ![stepworks4](/images/stepworks4.png)
 
 9. See what you can come up with, and share the link (you could try embedding it in your github repo for this week too).  
+
+
+### Visual Storytelling With Mural
+
+[Mural](https://www.getmural.io/) is an app for creating visual stories that integrate sound, video, and imagery around, under, and through text. I've only just come across it, but I encourage you to give it a go; the documentation is pretty good.
+
+Mac users, when you first go to open Mural after having downloaded it, hold the 'control' button (the one with the ^ icon) when you click on the file. If you don't, your Mac won't let you open it. Hold the control button, double click, ignore the warning.
+
+Once you've finished building your story, you can export it. The app will create a zip folder with all of the files to serve your new visual story website. Put these files into a new repo in Github, and follow the 'static site' instructions to get Github to serve that repo up as a live site.
+
+### Drawing
+
+There are any number of sketching applications out there; feel free to use whatever you like. In Obsidian, there is a community plugin called ['Excalidraw'](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367) that allows you to not only sketch, but also integrate your notes into the sketch. The link goes to the Github repo; do not install from the github repo: just scroll down to the video walkthrough to see how it works. **If** you decide to try to sketch with Excalidraw/Obsidian, go to your Obsidian settings -> community plugins -> search for excalidraw. Install it from there; then, under your list of installed plugins, make sure to switch it on. I'll be interested to see if people try this, and how it works.
+
+Drawing is a central part of archaeological field recording; recent work by [Morgan et al](https://www.tandfonline.com/doi/abs/10.1080/00934690.2018.1428488?journalCode=yjfa20) and [this followup piece](https://www.tandfonline.com/doi/full/10.1080/00934690.2021.1985304) point to its importance _not just_ for communication, _but also_ for how archaeologists make sense of archaeological materials.
+
+Taking the monument or object that you tried to make a photogrammetric model of, I want you to sketch it. Use the act of sketching to draw attention to aspects of the thing that puzzle you; use the sketch as a way of communicating the problem/resolution. See for instance how [Katherine Cook sketches for #archink on Twitter](https://twitter.com/search?q=archink&src=typed_query). 
