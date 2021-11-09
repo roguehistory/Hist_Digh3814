@@ -13,7 +13,15 @@ But, once we have such a language, we can _perturb_ it or re-train its final out
 
 At this point, we are so far off the map we'd need a map just to find the map again. What is the truth value of anything that simLanciani might say? Is it just a toy? Or could there be a route through to archaeological enchantment this way?
 
-1. Go to this copy of [Max Woolf's notebook](https://colab.research.google.com/github/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb). That link will open the notebook in Google Colab. (You can preview a static version of the notebook [here](https://github.com/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb).)
+1. Go to this copy of [Max Woolf's notebook](https://colab.research.google.com/github/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb). That link will open the notebook in Google Colab. (You can preview a static version of the notebook [here](https://github.com/shawngraham/hist3000/blob/master/static/data/Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb).) <br> <br> **IMPORTANT** A change to the underlying code base broke this notebook. To fix it, we have to tell the notebook to install a slightly _earlier_ codebase from before things broke; we do that by installing the code from its github repository and by naming the specific _commit_ we want to install from. In the **first codeblock**, we comment out the _original_) `pip install -q gpt-2-simple` and replace it, as in the code below: <br><br>
+```python
+%tensorflow_version 1.x
+#!pip install -q gpt-2-simple
+!pip install git+https://github.com/minimaxir/gpt-2-simple.git@59b13bfbcd5097b5ed8b88a23fef8719da384108
+import gpt_2_simple as gpt2
+from datetime import datetime
+from google.colab import files
+```
 
 2. in the cell 'Downloading GPT2' we want to load the slightly larger model, the 355 mb sized one. Change the code to:
 
