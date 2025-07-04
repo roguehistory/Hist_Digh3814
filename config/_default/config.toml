@@ -1,13 +1,13 @@
-baseURL = "https://digiarch.netlify.app" # never ever have a 3 in the baseURL
-title = "HIST3000|CLCV300 Digital Archaeology Fall 2021 Edition"
+baseURL = "https://craftingdigitalhistory.netlify.app" # never ever have a 3 in the baseURL
+title = "HIST3814|DIGH3814 Crafting Digital History Fall 2025"
 theme = "zdoc"
-description = "HIST3000|CLCV3000 Digital Archaeology Fall 2021"
+description = "HIST3814|DIGH3814 Crafting Digital History Fall 2025"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
-copyright = "Original content by Shawn Graham licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo 'archaeological information' by corpus delicti, GR, The Noun Project."
+copyright = "Original content by Scott Coleman and adapted from Shawn Graham HIST 3000 licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>. <br>Site logo 'archaeological information' by corpus delicti, GR, The Noun Project."
 timeout = 10000
 enableEmoji = true
 paginate = 13
