@@ -35,7 +35,7 @@ enableWhoami = true
 myname = "Prof. Scott Coleman"
 email = "scottcoleman@cmail.carleton.ca"
 whoami = "Instructor"
-biImageUrl = ""
+biImageUrl = "https://carleton.ca/history/cu-people/scott-coleman/"
 
 # comment
 enableComment = false
