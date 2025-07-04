@@ -6,7 +6,7 @@
 
 [[main]]
   identifier = "Course Work"
-  name = "Weekly Work"
+  name = "Course Work"
   url = "week"
   weight = 2
 
