@@ -27,15 +27,15 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/shawngraham/hist3000"
+github = "https://github.com/roguehistory/Hist_Digh3814"
 
 
 #whoami
 enableWhoami = true
-myname = "Dr. Shawn Graham"
-email = "shawn.graham@carleton.ca"
-whoami = "Associate Professor"
-biImageUrl = "https://carleton.ca/history/wp-content/uploads/Shawn-Graham-600x800-200x200.jpg"
+myname = "Prof. Scott Coleman"
+email = "scottcoleman@cmail.carleton.ca"
+whoami = "Instructor"
+biImageUrl = ""
 
 # comment
 enableComment = false
