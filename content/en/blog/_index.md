@@ -1,6 +1,6 @@
 ---
 title: News
-description: Updates from Dr. Graham
+description: Updates from Prof. Coleman
 blogHeaderType: text
 headerHeight: 112
 header:
