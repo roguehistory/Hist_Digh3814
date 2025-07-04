@@ -1,15 +1,15 @@
 ---
-title: Digital Archaeology
-description: An Introduction
+title: Crafting Digital History
+description: Hist-Digh 3814
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
 landing:
   image: favicon/android-icon-192x192.png
   title:
-    - An Introduction to Digital Archaeology
+    - Crafting Digital History
   text:
-    - HIST3000 | CLCV3000 Fall 2021 @Carleton_U with Dr. Shawn Graham
+    - HIST 3814 | DIGH 3814 Fall 2025 @Carleton_U with Prof. Scott Coleman
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
