@@ -9,8 +9,8 @@ weight: 1
 
 ## HIST/DIGH 3814 Crafting Digital History
 
-![[DigitalByz.jpg|750]]
-<p>Photo: Scott Coleman, AI generated using  Night Cafe. Prompt: Group of Greek Romans working on Computers in a field at sunset. </p>
+![AI generated using  Night Cafe. Prompt: Group of Greek Romans working on Computers in a field at sunset.](/images/DigitalByz.jpg)
+<p>Photo: Scott Coleman </p>
 
 ## Overview
 
