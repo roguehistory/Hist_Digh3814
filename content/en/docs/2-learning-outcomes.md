@@ -1,53 +1,36 @@
 ---
-title: "2. Learning Outcomes"
-description: "what you'll get out of this course"
+title: 2. Learning Outcomes
+description: What you'll get out of this course
 date: 2020-07-01T00:38:51+09:00
+Updated: 2025-07-09T16:00:00
 draft: false
 weight: 2
 ---
-### Questions
-
-I developed this course with a couple of questions in mind, things I wanted to know the answers to. Digital archaeology - what the hell is it, anyway? What is it for? Is it just a 'follower', repurposing other tools & techniques, a supporting skill for 'real' archaeology? Let's set ourselves a grand challenges: what can digital archaeology be?
-
-_This course is a formalized exploration of these questions; I do not know the answers! I'm excited to figure these out with you._
+### Learning Outcomes:
 
 {{< alert theme="info" >}}
-**Nb** The process of teaching is also a process of collaboration between me and you. This is the _first time_ this course has been taught. Sometimes -and we're expecting this, you and I- things won't work as we expect; tech might break; the world might impinge too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
+**NB** This is my first time teaching an asynchronous course. The process of teaching is also a process of collaboration between me and you -- The "WE" factor -- as mentioned in the [[20-29 Academic/22 Carleton University/Carleton Courses/Hist 3814/docs3814/1-coursedescription#You are not alone!|You are not Alone]] section of the course description.  Sometimes things won't work as we expect; technology might break; the world might intrude too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
-### Outcomes
+The five points below address your _analytical ability_, your engagement with _methodology_, _collaboration_, _argumentation_, and _professionalization_.
 
-The five points below address your *analytical ability*, your engagement with *methodology*, *collaboration*, *argumentation*, and *professionalization*.
+1. Situate the emergence and evolution of digital history and archaeology within the historiography of each discipline more broadly (_analytical ability, argumentation_)
+2. Implement and contribute to a digital history or archaeology of the ancient or medieval world (_methodology, collaboration, professionalization_)
+3. Investigate data, material culture, and primary sources, using the methods/techniques/perspectives of digital history, archaeology and digital humanities (_analytical ability, methodology, collaboration, professionalization_)
+4. Develop online experiences that communicate the results of these investigations as an act of public digital history and archaeology (_collaboration, professionalization, argumentation_)
+5. Given that this is an asynchronous online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital historians and archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (_collaboration, professionalization, methodology_)
 
-1. Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly (*analytical ability, argumentation*)
-2. Implement and contribute to a digital archaeology gravestones' and monuments survey (*methodology, collaboration, professionalization*)
-3. Investigate data, artifacts, and primary sources, using the methods/techniques/perspectives of digital archaeology and digital humanities (*analytical ability, methodology, collaboration, professionalization*)
-4. Develop online experiences that communicate the results of these investigations as an act of public digital archaeology (*collaboration, professionalization, argumentation*)
-5.  Given that this is an online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (*collaboration, professionalization, methodology*)
+---
+### Questions to think about
 
-### Texts
+> What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? 
 
-See the [weekly work](/week) section. All readings are open access.
+> What is Digital History/Archaeology? What does performing a Digital Public History or a Public Digital History mean?
 
-### Real Names Policy
+> How do institutions digitally represent the ancient and medieval world to the public?
 
-You do not need to use your real name or identity on any public-facing work that you do in this course. Nor do you need to explain to me that you wish to use a pseudonym. It is sufficient that you send an email to me with the following message:
+> Does digital tech create bias which steers us towards particular voices/opinions?
 
-‘I would like to use the following username in all public-facing work: xxxxxxxx’
+> Can/do digital techs in the service of GLAM (Galleries, Libraries, Archives and Museums) perform colonial practices that erase ancient and medieval identities from communities? And if so, how? And what can we do about it?
 
-…where xxxxx is the name you have selected. For safety’s sake, if you decide to use a pseudonym, do not use one that you have used on any other website or social media platform.
-
-### When Life Intervenes
-
-There's nothing we can't roll with, in this class. That said, I can't help you if I don't know you need help, a breathing space, some direction. When something comes up, just let me know:
-
-{{< notice success "Important" >}} You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you.
-{{< /notice >}}
-
-When something comes up and this course has to move to the backburner, contact me and we can **figure out something else to do, or something else that will help you be successful here**. It's our course - we can change things up as we need to. Just put "something has come up" in the subject line.
-
-#### THIS INCLUDES COVID
-
-I fully expect that at some point during the term, COVID and its complications will happen to some of you. When this happens, just email me and say that "something has come up". I don't require a dr's note, or any of the details. Again, I trust you, and we'll figure something else out.
-
-Similarly, I have small children and people in my life who are at risk. When something comes up on my end, I will let you all know and we'll figure this out _together_.
+_This course is an opportunity to explore these questions; I do not know the answers! I'm excited to figure these out with you. Why not annotate this section with some of your own questions?_
