@@ -15,9 +15,7 @@ draft: false
 Professor Coleman can be found either at
 
 ### Office Hours:
-
-Tuesday and Thursday, 3:00 to 4:00 pm or by appointment.
-Office: PA406
+**TBD**
 
 ## E-Contact
 #### Email:
