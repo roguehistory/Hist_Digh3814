@@ -9,7 +9,7 @@ weight: 2
 ### Learning Outcomes:
 
 {{< alert theme="info" >}}
-**NB** This is my first time teaching an asynchronous course. The process of teaching is also a process of collaboration between me and you -- The "WE" factor -- as mentioned in the [[20-29 Academic/22 Carleton University/Carleton Courses/Hist 3814/docs3814/1-coursedescription#You are not alone!|You are not Alone]] section of the course description.  Sometimes things won't work as we expect; technology might break; the world might intrude too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
+**NB** This is my first time teaching an asynchronous course. The process of teaching is also a process of collaboration between me and you -- The "WE" factor -- as mentioned in the [You are not Alone](https://github.com/roguehistory/Hist_Digh3814/blob/master/content/en/docs/1-coursedescription.md#you-are-not-alone) section of the course description.  Sometimes things won't work as we expect; technology might break; the world might intrude too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
 The five points below address your _analytical ability_, your engagement with _methodology_, _collaboration_, _argumentation_, and _professionalization_.
