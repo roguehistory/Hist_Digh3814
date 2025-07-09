@@ -12,4 +12,4 @@ Our social space, for conversation, audio/video calls, chat, help, screenshares,
 
 Please read the following sections in turn.
 
-See [Contact]() for options to reach me.
+See [Contact Prof Coleman](https://craftingdigitalhistory.netlify.app/docs/6-contact/) for options to reach me.
