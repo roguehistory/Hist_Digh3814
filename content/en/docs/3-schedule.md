@@ -65,6 +65,8 @@ All work for a given module has to be completed and submitted before the next mo
 **Week Eleven:** [Nov. 10th, 2025. Alternative Digital Histories.](/week/11/instructions)
 **Week Twelve:** [Nov. 17th, 2025. Crusading into the Digital Age: AI and Medieval History.](/week/12/instructions)
 **Week Thirteen:** [Nov. 24th, 2025. Consolidation Week/Check-In.](/week/13/instructions)
+
+## Exit Ticket: You Did It!
 **Week Fourteen:** [December 5th, 2025. End of Term: Exit Ticket Due](/week/14/instructions) *The last thing you'll do for this course*
 
 
