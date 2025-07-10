@@ -26,7 +26,7 @@ The course was developed to encourage critical thinking about how *the digital* 
 ## Course Calendar
 
 **The syllabus may change and will likely change depending on the course's progress.**
-**Refer to the [weekly instructions](/content/en/week/_index.md) for detailed guidance on your weekly tasks.**
+**Refer to the [weekly instructions](/week/_index.md) for detailed guidance on your weekly tasks.**
 
 Each week, you will complete various exercises to the best of your ability, documenting your progress in a weekly log that you will keep online using Obsidian.md. Log entries are required to be completed by Sunday, 11:59 pm, at the end of the relevant work. A final reflection piece is due at the end of the course. See the [assessment page for further details](docs/4-assessment).
 
