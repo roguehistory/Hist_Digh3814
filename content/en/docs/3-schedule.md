@@ -44,14 +44,16 @@ All work for a given module has to be completed and submitted before the next mo
 **December 5th 2025** Fall term ends
 
 ## Module One: Method / Theory
-### How historians work/think in the digital age.
+**_How historians work/think in the digital age._**
+
 **Week One:** [September 3rd, 2025. Course Introduction and Digital Set Up.](/week/1/instructions)
 **Week Two:** [Sept. 8th, 2025. What is Digital History/Archaeology/Public History/?](/week/2/instructions)
 **Week Three:** [Sept. 15th, 2025. Performing Digital Medieval History in Academic and Public Spaces.](/week/3/instructions)
 **Week Four:** [Sept. 22nd, 2025. Consolidation Week/Check-In.](/week/4/instructions)
 
 ## Module Two: Collecting / Considering / Linking
-### Personal Knowledge Management and Linked Thinking
+**_Personal Knowledge Management and Linked Thinking._**
+
 **Week Five:** [Sept. 29th, 2025. Personal Knowledge Management and Linking Your Thinking.](/week/5/instructions)
 **Week Six:** [October. 6th, 2025. Situating Byzantium vs East Roman history in Digital Spaces.](/week/6/instructions)
 **Week Seven:** [Oct. 13th, 2025. Archaeology, Artifacts and Their Digital Twins](/week/7/instructions)
@@ -59,7 +61,7 @@ All work for a given module has to be completed and submitted before the next mo
 **Week Nine:** Oct. 27th, 2025. [Consolidation Week/Check-In](/week/9/instructions)
 
 ## Module Three: Critiquing / Creating / Communicating
-### Historical Data on the Web and What is Accessible? 
+**_Historical Data on the Web and What is Accessible?_** 
 
 **Week Ten:** [November. 3rd, 2025. Data and 'Dark' Data.](/week/10/instructions)
 **Week Eleven:** [Nov. 10th, 2025. Alternative Digital Histories.](/week/11/instructions)
