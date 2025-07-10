@@ -12,20 +12,20 @@ There is no midterm. There is no final exam.
 
 Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, **I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level**. What's more, it's OK if something doesn't work 'perfectly.' The reflection on the process, both your fails and your successes, is the important thing.
 
-Weekly work should be completed and logged by the end of the relevant week. Dr Graham will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Dr. Graham.
+Weekly work should be completed and logged by the end of the relevant week. Prof. Coleman will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Prof. Coleman.
 
-If you miss a week, or something comes up let Dr. Graham know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
+If you miss a week, or something comes up let Prof. Coleman know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
 
 ### Evidence for Your Weekly Logs (ungraded work)
 
 I am looking for the following kinds of evidence (each [week](/week) will specify what needs to be done):
 
-+ logs/lab notebook entry that keep track of what you actually _did_
++ logs/Obsidian notebook entry that keeps track of what you actually _did_
 + reflection on that _process_
 + engagement with the materials and your classmates (which might be demonstrated many different ways)
 + evidence for your growth as a scholar over this course
 
-At the end of each week **by Sunday evening**, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider.
+At the end of each week **by Sunday evening, 11:59 pm**, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider.
 
 I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
 
@@ -35,11 +35,11 @@ It might not be formally 'graded' weekly work. But it does count towards your gr
 
 ### Consolidation Weeks (graded work)
 
-Every fourth week (that is, at the end of each module) you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. Show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
+Every fourth week (that is, at the end of each module), you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. Show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
 
 + Module 1 consolidation document: **due at the end of week four**; may be submitted in the following week _if you notify me in week four_.
-+ Module 2 consolidation document: **due at the end of week eight**; may be submitted in the following week _if you notify me in week eight_.
-+ Module 3 consolidation document: **due at the end of week twelve**; may be submitted in the following week _if you notify me in week twelve_.
++ Module 2 consolidation document: **due at the end of week nine**; may be submitted in the following week _if you notify me in week eight_.
++ Module 3 consolidation document: **due at the end of week thirteen**; may be submitted in the following week _if you notify me in week thirteen_.
 
 {{< alert theme="warning" >}}
 **Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Thus, work done in this fashion cannot meet the learning goals of the course, with negative implications for your grade. Do not do this.
