@@ -3,7 +3,7 @@ title: 3. Course Schedule
 description: what happens when, and where
 date: 2020-01-28T00:38:48+09:00
 Updated: 2025-07-09T16:08:00
-draft: true
+draft: false
 weight: 3
 ---
 
