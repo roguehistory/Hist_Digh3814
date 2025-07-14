@@ -15,3 +15,9 @@
   name = "News"
   url = "blog"
   weight = 3
+
+[[main]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  url = "tutorials"
+  weight = 4
