@@ -9,14 +9,13 @@ author: "Scott Coleman"
 ## Module 1: Capturing/Creating
 ### Getting Started
 
-<p align="center"><iframe id="vp1EK0HF" title="Video Player" width = "480" height="480" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1594146900&f=EK0HFIGhm5BwIwKCLfQj2Q&d=0&m=p&r=360x360+480x480+720x720&volume=100&start_res=720x720&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=" allowfullscreen></iframe></p>
 
 ### Goals for this week
 
 1. Getting Obsidian set up
 2. Getting Hypothes.is set up
 3. Getting Zotero installed
-4. understanding what the hang you've signed up for
+4. Understanding what the hang you've signed up for
 5. getting a sense of what digital history/archaeology is; also, 'failing gloriously'
 
 #### Swing for the fences.
@@ -27,6 +26,10 @@ author: "Scott Coleman"
 [Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
 
 + An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
++ Noiret, Serge, Tebeau, Mark and Zaagsma, Gerben. "Introduction". Handbook of Digital Public History, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 1-16. https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-001/
+
+                    
+                    
 
 + 
 + Cook, Katherine, and Beth. Compton. Canadian Digital Archaeology: On Boundaries and Futures. Invited submission for special anniversary issue of Canadian Journal of Archaeology 42: 38-45.[link](data/Canadian_Digital_Archaeology_On_Boundari.pdf)
