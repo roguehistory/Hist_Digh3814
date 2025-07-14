@@ -1,8 +1,8 @@
 ---
-title: "Wk 13. Wrapping Up"
-description: "What You Need to Do"
+title: "Wk 13. Consolidation Week"
+description: "Check In"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
