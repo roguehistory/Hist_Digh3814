@@ -28,43 +28,43 @@ I might sometimes fork your work, pull it down onto my machine, make changes tha
 
 1. Go to [github.com](http://github.com) and sign up for an account. You don't have to use your real name. (Protip: You might want to set up an email just for signing up for things). Enter your email address in the white email address box and hit the green sign up button.
 
-![github login screen](/images/github/1-github-landing.png)
+![github login screen](/images2/github/1-github-landing.png)
 
 ---
 
 2. If you entered your email in the previous step, your email will appear at the pink arrow button in the screen below; hit enter. If you just hit the geen button or the 'sign up' link in the previous step, you'll see this image below. Enter your email, and hit enter.
 
-![github account email](/images/github/2-enter-email.png)
+![github account email](/images2/github/2-enter-email.png)
 
 ---
 
 3. The wizard will ask you for a password and a username and whether or not you want spam from github. Fill in as suits you. **Your username doesn't have to reflect your real name**. If you use a pseudonymn, let me know in an email to shawn dot graham at carleton dot ca what username you're using, so that I don't get confused.
 
-![github tier selection](/images/github/3-create-username-avoid-spam.png)
+![github tier selection](/images2/github/3-create-username-avoid-spam.png)
 
 ---
 
 4. Confirm to the github robots that you yourself are not a robot.
 
-![github survey](/images/github/4-complete-puzzle.png)
+![github survey](/images2/github/4-complete-puzzle.png)
 
 ---
 
 5. Do the verification email thing. Open your email, and then enter the numbers one at a time into the boxes (you can't copy and paste).
 
-![launch code](/images/github/5-launch-code.png)
+![launch code](/images2/github/5-launch-code.png)
 
 ---
 
 6. Congratulations! Now you're in!
 
-![now you're in](/images/github/6-now-you-are-in.png)
+![now you're in](/images2/github/6-now-you-are-in.png)
 
 ---
 
 7. Your username now has a URL on the web, in this pattern: `github.com/your-username`. Your user page will look like this:
 
-![user page](/images/github/7-user-page.png)
+![user page](/images2/github/7-user-page.png)
 
 ---
 
@@ -74,7 +74,7 @@ If you are on the github.com page as depicted in step 6, click the 'create repos
 
 The new repo page appears; fill in the information as in the image below. Give your new repo a reasonable name; in the illustration I went with 'hist3814-materials'; tick the 'private' box; tick the 'initialize with a readme' box, and hit the green create button:
 
-![new repo settings](/images/github/creating-repo.png)
+![new repo settings](/images2/github/creating-repo.png)
 
 ---
 
@@ -82,7 +82,7 @@ Ta Da! You now have a github account, and you've created your first repository (
 
 **Going Forward** remember that you can create a new repository from the plus sign in the top right corner:
 
-![another new repo](/images/github/new-repo.png)
+![another new repo](/images2/github/new-repo.png)
 
 {{< alert theme="info" >}}
 When creating a new repo you will almost always want to choose the 'initialize with a readme.md' file. The times when you don't are when you are _not_ working with Github's web interface. If you forget, this can be fixed; [go to "Setting up a 'repository' but you forgot to initialize"](#Setting-up-a-repository-but-you-forgot-to-initialize).
@@ -96,13 +96,13 @@ A private repo can only be seen by the people to whom you give access. A public 
 
 8. If you forgot to make a repo private, go to the repo's settings (the cogwheel icon)
 
-![settings](/images/github/repo-settings.png)
+![settings](/images2/github/repo-settings.png)
 
 ---
 
 9. Scroll down to the 'danger zone' and hit the 'change visibility' button.
 
-![danger](/images/github/danger-zone.png)
+![danger](/images2/github/danger-zone.png)
 
 ---
 
@@ -113,22 +113,22 @@ A private repo can only be seen by the people to whom you give access. A public 
 
 11. Add me as a collaborator to this repository by clicking on the repo settings, and then the collaborator menu:
 
-![manage access](/images/github/collaborators.png)
+![manage access](/images2/github/collaborators.png)
 
 Hit the 'Add people' button.
 
 12. Find my username `shawngraham` - I use a minion with a beard as my avatar, and add me:
-![add shawngraham](/images/github/add-me.png)
+![add shawngraham](/images2/github/add-me.png)
 
 This sends me a notification. I will accept the invitation. Once I've done that, my username will appear on your repository settings under 'collaborators'.
 
 ### Making a new text file (and/or a folder) on Github
 
-![](/images/github/add-file.png)
+![](/images2/github/add-file.png)
 
 You can make a new text file by clicking on the 'add file' button and then the 'create new file' option; The new file screen will open and the cursor will be blinking in the box where you write the filename. When you make a new markdown text file **remember to always use .md as the file extension** in the name.
 
-![](/images/github/new-file.png)
+![](/images2/github/new-file.png)
 
 You can also create subfolders at this point; Github will understand that if you use a ``/`` in the filename box, you are indicating a folder: if you typed `subfolder-name-goes-here/my-new-file.md` it will automatically create `my-new-file.md` in the `subfolder-name-goes-here` subfolder. [This video illustrates the process](/data/subfolder.mp4).
 
@@ -138,7 +138,7 @@ When you are making a new text file on Github, you can specify headers, links, i
 
 If you want to edit an existing file, click on the pencil icon:
 
-![](/images/github/edit.png)
+![](/images2/github/edit.png)
 
 The video below is a bit out of date, but gives you a sense of the whole sequence. It might be a bit clearer on youtube itself.
 
@@ -150,7 +150,7 @@ You can add new files from your computer by dragging and dropping them into the 
 
 Click on the 'add file' button for your repository, and select 'upload new file'. Drag and drop the file you want onto the upload pane. Wait for it to finish uploading. You can do multiple files, if you want. Once everything is uploaded **you must hit the green commit button** to complete the process.
 
-![](/images/github/upload.png)
+![](/images2/github/upload.png)
 
 ### Setting Up Your Course Repo
 
@@ -160,7 +160,7 @@ Option one, while logged into Github, you click on the 'Fork' button at the top 
 
 Option two **which I recommend**: when you are logged in to github and are on my repo page, click the green 'code' button, and select 'download zip'.
 
-![](/images/github/download.png)
+![](/images2/github/download.png)
 
 You can unzip this folder onto your machine. Then, as you work through the course, any files you create as a result of doing the tutorials can be kept in the appropriate folder. There are also `log.md` and `reflection.md` text files that you can use as templates for the required log and reflection pieces. Open those with a proper text editor like [sublime text](https://www.sublimetext.com/) or atom (https://atom.io) or [notepad++](https://notepad-plus-plus.org/).
 
@@ -178,7 +178,7 @@ Now, you can upload anything that you create as part of part one to your online 
 
 In the screenshot below, I created a new repository but oops! I forgot to initialize it, and now I'm looking at this page in despair:
 
-![non-initialized git](/images/github/github-complex.png)
+![non-initialized git](/images2/github/github-complex.png)
 
 If you didn't tick the initialize box, you've embarked on a path for interacting with Github via the git program that you have to install on your computer.
 
