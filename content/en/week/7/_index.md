@@ -1,8 +1,8 @@
 ---
-title: "07. Nov 1"
-description: "Futures of Digital Archaeology"
+title: "07. Oct 13 - 17"
+description: "Archaeology and the Digital"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
