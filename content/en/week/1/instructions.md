@@ -28,21 +28,13 @@ author: "Scott Coleman"
 + An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
 + Noiret, Serge, Tebeau, Mark and Zaagsma, Gerben. "Introduction". Handbook of Digital Public History, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 1-16. https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-001
 
-                    
-                    
-
-+ 
-+ Cook, Katherine, and Beth. Compton. Canadian Digital Archaeology: On Boundaries and Futures. Invited submission for special anniversary issue of Canadian Journal of Archaeology 42: 38-45.[link](data/Canadian_Digital_Archaeology_On_Boundari.pdf)
-+ Cook, Katherine. 2019. EmoboDIYing Disruption: Queer, Feminist & Inclusive Digital Archaeologies. European Journal of Archaeology 22 (Special Issue 3 Digital Archaeologies): 398-414.  DOI: [https://doi.org/10.1017/eaa.2019.23 ](https://doi.org/10.1017/eaa.2019.23 ) [full text](https://via.hypothes.is/https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/embodiying-disruption-queer-feminist-and-inclusive-digital-archaeologies/2D0B1F0D892CACE6782FC11EF46548BA/core-reader)
-+ Bollwerk, Elizabeth. 2015. Co-Creation’s Role in Digital Public Archaeology. Advances in Archaeological Practice 3.3, 223-234  https://doi.org/10.7183/2326-3768.3.3.223 [pdf](https://via.hypothes.is/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9213F22B1FA891D11262BE3F49376C0E/S2326376800000486a.pdf/cocreations_role_in_digital_public_archaeology.pdf)
-
 Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read. As a reminder, the invitation to join our reading group is [here](https://hypothes.is/groups/yzzrnv9q/hist-digh3814).
 
 A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also, add anything you read or anything interesting you find to your Zotero/Obsidian library.
 
 ### Do
 
-- Follow the instructions for [Setting Up Github](/week/1/github), [Setting up Hypothesis](/week/1/hypothesis), [Setting up Zotero](/week/1/zotero), and [asking for help](/week/1/help). You should read the [discord page](/week/1/discord) if you're new to that platform.
+- Follow the instructions for [Setting up Obsidian.md](/week/1/obsidian) [Setting up Hypothesis](/week/1/hypothesis), [Setting up Zotero](/week/1/zotero), and [asking for help](/week/1/help). If you want to push yourself, then try [Setting Up Github](/week/1/github). You should read the [discord page](/week/1/discord) if you're new to that platform.
 - Read the readings. Annotate them freely (and/or respond to my annotations to get started). ** <- Nb ** On this site I might not explicitly state this under the 'do' part each week, since I have it under the 'read' part further up, but I realize that this might not have been clearly apparent at the start of the week; so no worries for this week, you can catch up on this later, but remember this moving forward)
 -  Annotate the syllabus part of this website while being logged into our private Hypothesis [group; here's the link if you haven't already joined](https://hypothes.is/groups/9jqiPzjR/hist3000-clcv3000) (indeed as with the readings mentioned above, and with all annotations for this class, always make the annotations as part of our group). Use the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
 - Log your reflection in your appropriate github repository
