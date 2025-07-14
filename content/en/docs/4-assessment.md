@@ -12,7 +12,7 @@ There is no midterm. There is no final exam.
 
 Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, **I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level**. What's more, it's OK if something doesn't work 'perfectly.' The reflection on the process, both your fails and your successes, is the important thing.
 
-Weekly work should be completed and logged by the end of the relevant week. Prof. Coleman will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Prof. Coleman.
+Weekly work should be completed and logged by the end of the relevant week into your Obsidian Vault. Prof. Coleman will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Prof. Coleman.
 
 If you miss a week, or something comes up let Prof. Coleman know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
 
