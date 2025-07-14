@@ -1,10 +1,10 @@
 ---
 title: "M1 Wk1: Instructions"
-description: "Module 1: Capturing/Creating"
+description: "Module 1: Contextualizing"
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -12
-author: "Shawn Graham"
+author: "Scott Coleman"
 ---
 ## Module 1: Capturing/Creating
 ### Getting Started
@@ -13,32 +13,29 @@ author: "Shawn Graham"
 
 ### Goals for this week
 
+1. Getting Obsidian set up
+2. Getting Hypothes.is set up
+3. Getting Zotero installed
+4. understanding what the hang you've signed up for
+5. getting a sense of what digital history/archaeology is; also, 'failing gloriously'
+
+#### Swing for the fences.
 - getting our Github accounts set up and making our first log entries
-- getting Hypothes.is set up
-- getting Zotero installed
-- getting Obsidian set up
-- understanding what the hang you've signed up for
-- getting a sense of what digital archaeology is; also, 'failing gloriously'
-
-### Listen
-
-<iframe src="https://anchor.fm/hist3814o/embed/episodes/HIST3000CLCV3000-Getting-Comfortable-ehpc8o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-[Feed for the podcast here.](https://anchor.fm/s/1c3d3bfc/podcast/rss) [Transcript here.](/transcripts/episode-1)
-
-[Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
 
 ### Read
 
+[Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
+
 + An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
+
++ 
 + Cook, Katherine, and Beth. Compton. Canadian Digital Archaeology: On Boundaries and Futures. Invited submission for special anniversary issue of Canadian Journal of Archaeology 42: 38-45.[link](data/Canadian_Digital_Archaeology_On_Boundari.pdf)
 + Cook, Katherine. 2019. EmoboDIYing Disruption: Queer, Feminist & Inclusive Digital Archaeologies. European Journal of Archaeology 22 (Special Issue 3 Digital Archaeologies): 398-414.  DOI: [https://doi.org/10.1017/eaa.2019.23 ](https://doi.org/10.1017/eaa.2019.23 ) [full text](https://via.hypothes.is/https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/embodiying-disruption-queer-feminist-and-inclusive-digital-archaeologies/2D0B1F0D892CACE6782FC11EF46548BA/core-reader)
 + Bollwerk, Elizabeth. 2015. Co-Creation’s Role in Digital Public Archaeology. Advances in Archaeological Practice 3.3, 223-234  https://doi.org/10.7183/2326-3768.3.3.223 [pdf](https://via.hypothes.is/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9213F22B1FA891D11262BE3F49376C0E/S2326376800000486a.pdf/cocreations_role_in_digital_public_archaeology.pdf)
 
-Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read. As a reminder, the invitation to join our reading group is [here](https://hypothes.is/groups/9jqiPzjR/hist3000-clcv3000).
+Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read. As a reminder, the invitation to join our reading group is [here](https://hypothes.is/groups/yzzrnv9q/hist-digh3814).
 
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also add anything you read or anything interesting you find to your Zotero library.
-
+A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also, add anything you read or anything interesting you find to your Zotero/Obsidian library.
 
 ### Do
 
@@ -58,7 +55,7 @@ You may make your repository private **or** public.
 
 If you make it private, **make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
 
-1. Being a digital archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
+1. Being a digital historian/archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
 
 2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal-week-1.md’ This document also goes into your week one repo on github.
 
