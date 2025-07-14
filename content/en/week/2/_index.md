@@ -1,8 +1,8 @@
 ---
-title: "02. Sept 20"
-description: "Field work and ethical data collection"
+title: "02. Sept 8-12"
+description: "What is Digital History?"
 date: 2020-01-28T00:10:51+09:00
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
