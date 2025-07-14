@@ -1,5 +1,5 @@
 ---
-title: "Getting started with Discord"
+title: "Discord Setup"
 description: "You will use this as our course social space and it is where you may find me."
 date: 2020-01-28T00:10:51+09:00
 draft: false
