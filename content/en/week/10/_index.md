@@ -1,8 +1,8 @@
 ---
 title: "10. Nov 3-7"
-description: "Audiences Beyond Archaeologists"
-date: 2020-01-28T00:10:51+09:00
+description: "Data and 'Dark' Data"
+date: 2025-07-14
 draft: false
-author: "Shawn Graham"
+author: "Scott Coleman"
 collapsible: true
 ---
