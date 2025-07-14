@@ -61,7 +61,7 @@ All work for a given module has to be completed and submitted before the next mo
 **Week Nine:** Oct. 27th, 2025. [Consolidation Week/Check-In](/week/9/instructions)
 
 ## Module Three: Arguing / Communicating
-**_Historical Data on the Web and What is Accessible?_** 
+**_Historical Data on the Web and Narrative Production_** 
 
 **Week Ten:** [November. 3rd, 2025. Data and 'Dark' Data.](/week/10/instructions)
 **Week Eleven:** [Nov. 10th, 2025. Alternative Digital Histories.](/week/11/instructions)
