@@ -1,5 +1,5 @@
 ---
-title: "Setting up your Zotero"
+title: "Zotero Setup"
 description: "Use this reference manager to keep track of your citations."
 date: 2020-01-28T00:10:51+09:00
 draft: false
