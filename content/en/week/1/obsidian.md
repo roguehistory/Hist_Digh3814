@@ -1,27 +1,26 @@
 ---
-title: "Your Second Brain"
-description: "No one teaches us how to take notes effectively online. This is my little contribution to try to rectify that."
+title: "Obsidian.md"
+description: "Your Second Brain for Note-Making!"
 date: 2020-01-28T00:10:51+09:00
 draft: false
 weight: -1
-author: "Shawn Graham"
+author: "Scott Coleman/Shawn Graham"
 ---
 
 ## Notes and Emergent Ideas
 
-In recent years, I've found that a lot of my research materials are all online. Everything I read, everything I study. I use [Zotero](https://zotero.org) to handle bibliography _and_ to push pdfs to an iPad with [zotfile](http://zotfile.com/); then I annotate as I read on the device, and eventually, retrieve the annotations back into Zotero.
+In recent years, a lot of my research materials have been online. Everything I read, everything I study. I started using [Zotero](https://zotero.org) to manage my bibliography, annotating as I read on the device and then retrieving the annotations back into Zotero. I found this to be cumbersome, but more on this later. 
 
-I read on a browser on my work computer too; I use [hypothes.is](https://hypothes.is) with a private group where I'm the only member to annotate websites and pdfs when I can't be bothered to send them to the ipad.
+I read on a browser on my work computer too; I use [hypothes.is](https://hypothes.is) with a private group where I'm the only member to annotate websites. I use a digital notebook called ReMarkable where I scribble out ideas and page numbers and read PDFs or EPub books.
 
-I use a notebook where I scribble out ideas and page numbers.
+All of this material is scattered around. I've long admired the work of Caleb McDaniel, and his [open notebook history](http://wcaleb.org/blog/open-notebook-history). His research lives online, in a kind of wiki. Links between ideas and observations can be made that way and eventually, ideas can emerge _out of the notes themselves_ by virtue of the way they're connected. This is the idea behind what is called the [Zettelkasten Method](https://zettelkasten.de/introduction/) ('slip box', where each idea, each observation is kept on a discrete slip of paper numbered in such a way that connections can be formed). McDaniel's Open Notebook History is the inspiration for my dissertation's Open Access Notebook (OAN); check it out at [Rogue History Notes](https://publish.obsidian.md/roguenotes). The name is a spinoff from my blog [Rogue History](www.roguehistory.ca).
 
-All of this material is scattered around. I've long admired the work of Caleb McDaniel, and his [open notebook history](http://wcaleb.org/blog/open-notebook-history). His research lives online, in a kind of wiki. Links between ideas and observations can be made that way and eventually, ideas can emerge _out of the notes themselves_ by virtue of the way they're connected. This is the idea behind what is called the [Zettelkasten Method](https://zettelkasten.de/introduction/) ('slip box', where each idea, each observation is kept on a discrete slip of paper numbered in such a way that connections can be formed):
-
+## What is Zettelkasten?
 > A Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
 
-On a computer, such a thing can be created out of a folder of simple text files. Everything I observe, every idea that I have: one idea, one file. Then I use the free 'second brain' software, [Obsidian](https://obsidian.md) to sit 'on top' of that stack of files to enable easy linking and discoverability. Obsidian works as a personal knowledge base; seeing your notes develop and beging to interlink - and being able to search those patterns - supercharges your note taking abilities and the value of your reading. With time, you'll start to see connections and patterns in your thoughts. You're building up a personal knowledge base that becomes more valuable the more you use it.
+On a computer, such a thing can be created out of a folder of simple text files. Everything I observe, every idea that I have: one idea, one file. Then I use the free 'second brain' software, [Obsidian](https://obsidian.md), to sit 'on top' of that stack of files to enable easy linking and discoverability. Obsidian serves as a personal knowledge management (PKM) base, allowing you to see your notes develop and interlink, and search for those patterns, which supercharges your note-making abilities and enhances the value of your reading. With time, you'll start to see connections and patterns in your thoughts. You're building up a personal knowledge base that becomes more valuable the more you use it.
 
-I have a vault with over 400 notes in it. When I get an idea, I search my vault for relevant notes, and then embed them into a new document. I write around the existing notes, and then export to word for final polishing, citations. This accelerates my writing considerably, and helps me pull my research together into coherent form
+I have a vault with over 400 notes in it. When I get an idea, I search my vault for relevant notes and then embed them into a new document using the [[Wiki Link]]. I write around the existing notes, and then export to Word for final polishing and citations. This accelerates my writing considerably and helps me pull my research together into coherent form
 
 **The point** of using Obsidian in this course is that it will enable you to pull your hypothesis annotations together with all of the notes you take as you progress through this course. The key feature of Obsidian is the idea of linking ideas together: maybe it's better to think of it like a personal wiki. The more notes you make, the more connections you start to see, the deeper your learning and engagement with the material.
 
