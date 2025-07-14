@@ -26,7 +26,7 @@ author: "Scott Coleman"
 [Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
 
 + An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
-+ Noiret, Serge, Tebeau, Mark and Zaagsma, Gerben. "Introduction". Handbook of Digital Public History, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 1-16. https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-001/
++ Noiret, Serge, Tebeau, Mark and Zaagsma, Gerben. "Introduction". Handbook of Digital Public History, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 1-16. https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-001
 
                     
                     
