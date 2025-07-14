@@ -1,5 +1,5 @@
 ---
-title: "Setting up your Hypothesis"
+title: "Hypothes.is Setup"
 description: "You will use this for annotating and reading collaboratively."
 date: 2020-01-28T00:10:51+09:00
 draft: false
