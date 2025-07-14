@@ -7,6 +7,7 @@ weight: -1
 author: "Scott Coleman/Shawn Graham"
 ---
 
+![Nodes and Edges](/images/ObsidianImages/Nodes and Edges.png)
 ## Notes and Emergent Ideas
 
 In recent years, a lot of my research materials have been online. Everything I read, everything I study. I started using [Zotero](https://zotero.org) to manage my bibliography, annotating as I read on the device and then retrieving the annotations back into Zotero. I found this to be cumbersome, but more on this later. 
