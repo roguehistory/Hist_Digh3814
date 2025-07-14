@@ -1,3 +1,3 @@
-# HIST3000|CLCV3000
+# HIST/DIGH 3814
 
-course repository for introduction to digital archaeology. fall 2021 edition.
+Repository for Crafting Digital History (asynchronous) Fall 2025, Carleton University, Ottawa, Canada.
