@@ -4,6 +4,8 @@ date: 2025-06-19
 description: Thinking through processes of digital history production
 Authors: Coleman 2025
 draft: false
+weight: 2
+
 ---
 
 ## Week Two (Sept. 15-19, 2025)
