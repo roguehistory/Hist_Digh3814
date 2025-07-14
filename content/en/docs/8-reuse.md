@@ -7,7 +7,7 @@ draft: false
 
 ![](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
-Original content by Shawn Graham, is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+Original content by Scott Coleman, Forked from [Shawn Graham](https://github.com/shawngraham), is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Please feel free to reuse exercises in your own course materials, with a link back to the original page.
 
