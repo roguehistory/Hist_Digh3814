@@ -19,7 +19,7 @@ author: "Scott Coleman"
 5. getting a sense of what digital history/archaeology is; also, 'failing gloriously'
 
 #### Swing for the fences.
-- getting our Github accounts set up and making our first log entries
+- IF you have the time and courage, TRY setting up a GitHub account. 
 
 ### Read
 
