@@ -1,69 +1,50 @@
 ---
 title: "M1 Wk1: Instructions"
 description: "Module 1: Contextualizing"
-date: 2020-01-28T00:10:51+09:00
-draft: false
+date: 2025-07-17
+draft: true
 weight: -12
-author: "Scott Coleman"
+Authors: Coleman 2025
 ---
-## Module 1: Capturing/Creating
-### Getting Started
+# Module 1: Contextualizing
 
+## **Getting Started**
 
-### Goals for this week
+### Week 1 (September 3rd-5th, 2025)
 
 1. Getting Obsidian set up
-2. Getting Hypothes.is set up
-3. Getting Zotero installed
-4. Understanding what the hang you've signed up for
-5. getting a sense of what digital history/archaeology is; also, 'failing gloriously'
+2. Getting Hypothes.is set up 
+3. Understanding what the hang you've signed up for
+4. Getting a sense of what digital history/archaeology is; also, 'failing gloriously'
 
-#### Swing for the fences.
+### Swing for the fences.
+- IF you have the time and courage, TRY Getting Zotero installed.
 - IF you have the time and courage, TRY setting up a GitHub account. 
 
-### Read
+**Week 1: Course Orientation & Digital Toolkit Setup**
+*   **Theme:** Welcome to Crafting Digital History and Setting Up Your Digital Workspace. This week we focus on understanding course expectations and successfully installing and configuring the core digital tools you will use in this course. See the [[#To Do]] section for a list of items to complete and links to their respective tutorials.
+*   **Plugin of the Week:** **Core Plugins (Backlinks, Outgoing Links, Graph View).**
+*   **Rationale:** Students will attempt to navigate Obsidian's core function—creating and visualizing connections—before adding complexity. This is the engine of networked thought.
+*   **Asynchronous Activities:**
+    *   Read the syllabus and a "How to Succeed in this Asynchronous Course" guide. **I cannot stress this enough**. Those who read the entirety of the syllabus will succeed. If you do not read the syllabus, you will have trouble throughout the course.
+    *   Watch a welcome video from the instructor. I have provided a welcome video to ease your fears, contextualize my expectations, and to provide a general introduction. 
+    *   Follow tutorials to: 1) Install Obsidian and create a vault. 2) Create a Hypothes.is account. 3) Create your first "seedling notes" in Obsidian. Practice creating links between notes. Spend time observing how the Backlinks pane and Graph View change as you create more connections. 
+*   **Assignment (Evaluation: 5%):** 
+	* Post an introduction in the "Welcome" discussion forum on Discord. 
+	* Submit a screenshot of your newly created Obsidian vault to a "Setup Complete" channel and tag yourself and me in the post. 
+	* Join the private [class Hypothes.is group](https://hypothes.is/groups/yzzrnv9q/hist-digh3814) and make one annotation on the course syllabus using Hypothes.is.   
+	* That's it. Full Marks. BRAVO!! 
 
-[Advice on how to listen to a podcast for a class](https://abbymullen.org/how-to-listen-to-a-podcast-for-class/). It's not as straightforward as you might think.
-
-+ An Introduction to Digital Archaeology [ODATE](https://o-date.github.io/draft/book/so-what-is-digital-archaeology.html ), sections 1.1 to 1.1.2
-+ Noiret, Serge, Tebeau, Mark and Zaagsma, Gerben. "Introduction". Handbook of Digital Public History, edited by Serge Noiret, Mark Tebeau and Gerben Zaagsma, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 1-16. https://doi-org.proxy.library.carleton.ca/10.1515/9783110430295-001
-
-Each reading is 'seeded' with annotations by me; some of my annotations contain video from me directing you to pay attention to particular issues or ideas. **Annotate** anything interesting you find with Hypothes.is while logged into our reading group, keeping in mind what you've already heard/read. As a reminder, the invitation to join our reading group is [here](https://hypothes.is/groups/yzzrnv9q/hist-digh3814).
-
-A good annotation draws connections between what you've read and other things you've read/heard/experienced. I explicitly encourage you to connect what you read in this class with what you're reading/doing in other classes. Also, add anything you read or anything interesting you find to your Zotero/Obsidian library.
-
-### Do
+---
+## To Do
 
 - Follow the instructions for [Setting up Obsidian](/week/1/obsidian), [Setting up Hypothesis](/week/1/hypothesis), [Setting up Zotero](/week/1/zotero), and [asking for help](/week/1/help). If you want to push yourself, then try [Setting Up Github](/week/1/github). You should read the [discord page](/week/1/discord) if you're new to that platform.
-- Read the readings. Annotate them freely (and/or respond to my annotations to get started). ** <- Nb ** On this site I might not explicitly state this under the 'do' part each week, since I have it under the 'read' part further up, but I realize that this might not have been clearly apparent at the start of the week; so no worries for this week, you can catch up on this later, but remember this moving forward)
--  Annotate the syllabus part of this website while being logged into our private Hypothesis [group; here's the link if you haven't already joined](https://hypothes.is/groups/9jqiPzjR/hist3000-clcv3000) (indeed as with the readings mentioned above, and with all annotations for this class, always make the annotations as part of our group). Use the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
+
+-  Annotate the syllabus part of this website while being logged into our private Hypothesis [group; here's the link if you haven't already joined](https://hypothes.is/groups/yzzrnv9q/hist-digh3814) (indeed as with the readings mentioned above, and with all annotations for this class, always make the annotations as part of our group). Use the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
 - Log your reflection in your appropriate github repository
 
 - When/if you run into trouble, take screenshots (google how to do that for your particular machine) and these can be uploaded into your repository as well. Indeed, you should also keep track of any files you create as part of your weekly work in your repo: these are evidence!
 
-{{< notice success "Important" >}} With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you labored heroically for 2 hours to do something. Jump into our social space and ask for advice.
-{{< /notice >}}
+>[! Success] **Important**
+> With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our Discord social space and ask for advice.
 
-### Record and Reflect
-
-You may make your repository private **or** public.
-
-If you make it private, **make sure to 'invite user shawngraham'** to your repository so that I may view it. (See the [Github instructions](/week/1/github) for a reminder.)
-
-1. Being a digital historian/archaeologist means keeping track of what you’ve done, as a gift to your future self (ie, so that when you come back to something, you can pick up where you left off). Make a new text document, and put into it any new terms you’ve encountered, commands you used, error messages you encountered, websites that helped, and so on: this document is a lab notebook, as it were. Bullet points and memos-to-self are fine. Put this text document into your week one repo on github, along with any other files or digital things you happen to make. Call it your ‘notes.md’.
-
-2. In a new text document, jot down some reflections - narrative, or bullet points, whatever works for you; both are fine. Call it ‘journal-week-1.md’ This document also goes into your week one repo on github.
-
-Begin the reflection by quoting (w/ citation) one sentence from the readings that resonates with you: you don't have to explain why, but you might select something that is personally meaningful, or leaves you confused, or makes you happy, or intrigues you to know more... etc.
-
-In this document, you will detail any issues you had with getting started, any parts that caused you difficulty, anything you annotated that you really want me to address for you. If you got any error messages while trying to get set up, copy those into your reflection; google them. Do you find any websites that help you? What kind of ‘failures’ might you have encountered this week?
-
-Going beyond the mere mechanical aspects of getting started, draw on your annotations of what you’ve read (and/or your notes from what you’ve listened to), discuss your idea of what ‘digital archaeology' might be prior to starting this course, and think through whether any of the materials we’ve seen this week confirm or upset those notions. What kind of archaeology have you encountered so far at Carleton, if at all? Where do you want to go, with digital archaeology?
-
-### Log Your Work
-
-You can log the link to your repository on [this form](https://forms.gle/9BMvFeFda9qq36fAA).
-
-### PS
-
-If you missed it in the syllabus, this [spreadsheet](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing) can be used to keep track of what's due when.
