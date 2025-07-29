@@ -2,7 +2,7 @@
 title: "M1 Wk1: Instructions"
 description: "Module 1: Contextualizing"
 date: 2025-07-17
-draft: true
+draft: false
 weight: -12
 Authors: Coleman 2025
 ---
