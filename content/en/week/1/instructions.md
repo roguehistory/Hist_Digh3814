@@ -51,6 +51,6 @@ Welcome to Crafting Digital History and Setting Up Your Digital Workspace. This 
 
 - When/if you run into trouble, take screenshots (google how to do that for your particular machine) and these can be uploaded into your repository as well. Indeed, you should also keep track of any files you create as part of your weekly work in your repo: these are evidence!
 
->[! Success] **Important**
+{{< notice success "Important" >}}
 > With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our Discord social space and ask for advice.
-
+{{< notice success />}}
