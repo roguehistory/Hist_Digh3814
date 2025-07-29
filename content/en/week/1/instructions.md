@@ -6,6 +6,7 @@ draft: true
 weight: -12
 Authors: Coleman 2025
 ---
+
 # Module 1: Contextualizing
 
 ## **Getting Started**
