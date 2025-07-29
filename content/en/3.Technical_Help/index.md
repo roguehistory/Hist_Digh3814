@@ -1,3 +1,10 @@
+---
+title: "Technical Help"
+description: "test post index"
+date: 2025-07-28T00:08:29+09:00
+draft: false
+---
+
 Help with the technical aspects of this course can be found here.
 
 You might want to start with [[zotero|getting Zotero set up on your machine.]] Also, I have [[1.A Demo Obsidian Vault|preconfigured an Obsidian vault with some useful plugins to get you started.]]
