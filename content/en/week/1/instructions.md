@@ -22,19 +22,24 @@ Authors: Coleman 2025
 - IF you have the time and courage, TRY Getting Zotero installed.
 - IF you have the time and courage, TRY setting up a GitHub account. 
 
-**Week 1: Course Orientation & Digital Toolkit Setup**
-*   **Theme:** Welcome to Crafting Digital History and Setting Up Your Digital Workspace. This week we focus on understanding course expectations and successfully installing and configuring the core digital tools you will use in this course. See the [[#To Do]] section for a list of items to complete and links to their respective tutorials.
-*   **Plugin of the Week:** **Core Plugins (Backlinks, Outgoing Links, Graph View).**
+### **Week 1: Course Orientation & Digital Toolkit Setup**
+*   **Theme:**
+Welcome to Crafting Digital History and Setting Up Your Digital Workspace. This week we focus on understanding course expectations and successfully installing and configuring the core digital tools you will use in this course. See the [[#To Do]] section for a list of items to complete and links to their respective tutorials.
+
+*   **Plugin of the Week:** **Core Plugins (Backlinks, Outgoing Links, Graph View).**  
 *   **Rationale:** Students will attempt to navigate Obsidian's core function—creating and visualizing connections—before adding complexity. This is the engine of networked thought.
+
 *   **Asynchronous Activities:**
-    *   Read the syllabus and a "How to Succeed in this Asynchronous Course" guide. **I cannot stress this enough**. Those who read the entirety of the syllabus will succeed. If you do not read the syllabus, you will have trouble throughout the course.
-    *   Watch a welcome video from the instructor. I have provided a welcome video to ease your fears, contextualize my expectations, and to provide a general introduction. 
-    *   Follow tutorials to: 1) Install Obsidian and create a vault. 2) Create a Hypothes.is account. 3) Create your first "seedling notes" in Obsidian. Practice creating links between notes. Spend time observing how the Backlinks pane and Graph View change as you create more connections. 
-*   **Assignment (Evaluation: 5%):** 
-	* Post an introduction in the "Welcome" discussion forum on Discord. 
-	* Submit a screenshot of your newly created Obsidian vault to a "Setup Complete" channel and tag yourself and me in the post. 
-	* Join the private [class Hypothes.is group](https://hypothes.is/groups/yzzrnv9q/hist-digh3814) and make one annotation on the course syllabus using Hypothes.is.   
-	* That's it. Full Marks. BRAVO!! 
+	* Read the syllabus and a "How to Succeed in this Asynchronous Course" guide. **I cannot stress this enough**. Those who read the entirety of the syllabus will succeed. If you do not read the syllabus, you will have trouble throughout the course.
+  	* Watch a welcome video from the instructor. I have provided a welcome video to ease your fears, contextualize my expectations, and to provide a general introduction. 
+	* Follow tutorials to: 1) Install Obsidian and create a vault. 2) Create a Hypothes.is account. 3) Create your first "seedling notes" in Obsidian. Practice creating links between notes. Spend time observing how the Backlinks pane and Graph View change as you create more connections.
+
+### **Assignment (Evaluation: 5%):** 
+	
+1. Post an introduction in the "Welcome" discussion forum on Discord. 
+2. Submit a screenshot of your newly created Obsidian vault to a "Setup Complete" channel and tag yourself and me in the post. 
+3. Join the private [class Hypothes.is group](https://hypothes.is/groups/yzzrnv9q/hist-digh3814) and make one annotation on the course syllabus using Hypothes.is.   
+4. That's it. Full Marks. BRAVO!! 
 
 ---
 ## To Do
