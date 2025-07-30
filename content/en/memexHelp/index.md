@@ -1,5 +1,5 @@
 ---
-title: "memex help"
+title: "Memex Help"
 description: "Technical help for setting up Obsidian Memex"
 date: 2025-07-30
 draft: false
