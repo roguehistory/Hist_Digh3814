@@ -5,6 +5,9 @@ date: 2025-07-30
 draft: false
 ---
 
+![Graph View of my personal Obsidian Vault](/images/ObsidianImages/GraphView
+/KnowledgeGraphTagGroups.png)
+
 Help with the technical aspects of this course can be found here.
 
 You might want to start with [[20-29 Academic/22 Carleton University/Carleton Courses/Hist 3814/3. memex help/Zotero|getting Zotero set up on your machine.]] Also, I have [[1.A Demo Obsidian Vault|preconfigured an Obsidian vault with some useful plugins to get you started.]]
