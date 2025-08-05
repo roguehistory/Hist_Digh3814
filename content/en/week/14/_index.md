@@ -1,5 +1,5 @@
 ---
-title: "14. December 1st, 2025"
+title: "14. Dec 1-5"
 description: "Final Consolidation Week/Check-In"
 date: 2025-08-04T00:10:51+09:00
 draft: false
