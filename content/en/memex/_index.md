@@ -1,6 +1,9 @@
- ---
- title: "Memex Help"
- description: "Technical help to set up personal memex"
- draft: false
- date: 2025-08-04
- ---
+---
+title: "Memex Help"
+description: "Technical help for setting up personal memex"
+date: 2020-08-12T00:10:51+09:00
+draft: false
+author: "Scott Coleman"
+collapsible: true
+weight: 1
+---
