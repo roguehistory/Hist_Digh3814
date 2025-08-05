@@ -23,7 +23,7 @@
   weight = 4
 
 [[main]]
-  identifier = "3.Technical_Help"
+  identifier = "memex"
   name = "Memex Help"
-  url = "3.Technical_Help"
+  url = "memex"
   weight = 5
