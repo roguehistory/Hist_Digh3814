@@ -1,4 +1,11 @@
-
+---
+title: "FAQ for Comman Tech Problems"
+description: "Setting up your vault"
+date: 2025-08-05
+draft: false
+weight: -1
+Authors: Coleman 2025
+---
 ## I hit ctrl + shift + h and nothing happens
 
 This seems to affect PC users. The issue here seems to be that sometimes, for PC users, the configuration of the command for hypothes.is note extraction has been rest.
