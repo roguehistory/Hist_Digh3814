@@ -1,5 +1,5 @@
 ---
-title: "Zotero"
+title: "10. Zotero"
 description: "Setting up your vault"
 date: 2025-08-05
 draft: false
