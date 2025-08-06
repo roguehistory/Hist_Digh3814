@@ -1,3 +1,12 @@
+---
+title: "Zotero"
+description: "Setting up your vault"
+date: 2025-08-05
+draft: false
+weight: -3
+Authors: Coleman 2025
+---
+
 [Zotero](https://zotero.org) is a very powerful reference manager and pdf reader/annotation environment. We are going to set up Zotero so that when you encounter material online, or in library catalogues, or in academic databases, it will ingest that material with the proper bibliographic information.
 
 Once you have some articles in Zotero, you can also annotate them while reading them - highlight with different colours, and leave notes stuck all over them.
