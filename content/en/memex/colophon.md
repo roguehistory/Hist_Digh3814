@@ -1,9 +1,9 @@
 ---
-title: "Colophon"
+title: "12. Colophon"
 description: "Setting up your vault"
 date: 2025-08-05
 draft: false
-weight: -2
+weight: -1
 Authors: Coleman 2025
 ---
 
