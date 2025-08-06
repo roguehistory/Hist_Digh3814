@@ -1,5 +1,5 @@
 ---
-title: "FAQ for Comman Tech Problems"
+title: "13. FAQ for Comman Tech Problems"
 description: "Setting up your vault"
 date: 2025-08-05
 draft: false
