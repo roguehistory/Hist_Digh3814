@@ -1,9 +1,9 @@
 ---
-title: "Import your Hypothes.is Annotations"
+title: "11. Import your Hypothes.is Annotations"
 description: "Setting up your vault"
 date: 2025-08-05
 draft: false
-weight: -1
+weight: -2
 Authors: Coleman 2025
 ---
 
