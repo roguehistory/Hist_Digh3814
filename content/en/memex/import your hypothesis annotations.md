@@ -1,3 +1,12 @@
+---
+title: "Import your Hypothes.is Annotations"
+description: "Setting up your vault"
+date: 2025-08-05
+draft: false
+weight: -1
+Authors: Coleman 2025
+---
+
 This information is also in the [[1.A Demo Obsidian Vault|the obsidian vault I provided to you]] but I thought I should include it here as well.
 
 
