@@ -11,16 +11,16 @@ weight: 3
 
 The course was developed to encourage critical thinking about how *the digital* affects historical, archaeological, and curatorial practices in various collaborative environments. Each week, students are expected to complete the readings, listen to the podcasts, and participate in discussions. Week one provides a general introduction to the course, covering the course's overarching themes, objectives, goals, and assessments. You will set up your 'Digital Memex' in [Obsidian.md](https://obsidian.md/) and utilize [Hypothes.is](https://craftingdigitalhistory.netlify.app/week/1/hypothesis/) to annotate required readings, podcasts and videos when necessary.
 
-### **Module One: Contextualizing (weeks 1 - 4).** 
+### **Module One: Contextualizing (weeks 1 - 5).** 
 **How historians work/think in the digital age.** This module is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore various ancient and medieval history sources and the various digital methodologies and theories they apply in their respective fields. We conclude the module with an experiential learning Case Study, where we apply what we have learned from the previous weeks to a tangible project. These Case Studies focus on the methods and theory of digital history-making, rather than a definitive end product. By the end of Module One, students should have gained a general understanding of the development of history and archaeology under the auspices of digital humanities. 
 
-### **Module Two: Wrangling/Critiquing (weeks 5 - 9).**
+### **Module Two: Wrangling/Critiquing (weeks 6 - 10).**
 **Personal Knowledge Management and Linked Thinking.** 
 
-### **Module Three: Arguing/Communicating (weeks 10-14).**
+### **Module Three: Arguing/Communicating (weeks 11-14).**
 **Historical Data on the Web and Narrative Production?** What does it mean for *data* to be 'accessible' in digital history/archaeology? How is data (or dark data) defined?  
 
-### When Life Intervene
+### When Life Intervenes
 
 {{< notice success "Important" >}} There's nothing we can't roll with in this class. If something comes up and this course has to take a backseat, don't hesitate to get in touch with me, and we can explore alternative options to help you achieve success here. You don't have to share the details with me. It is enough for me to know that something has intervened. I trust you. It's our course - we can change things up as we need to.
 {{< /notice >}}
