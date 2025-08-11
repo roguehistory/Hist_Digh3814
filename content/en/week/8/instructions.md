@@ -2,7 +2,7 @@
 title: "M2 Wk8: Instructions"
 description: "Consolidation II"
 date: 2020-01-28T00:10:37+09:00
-draft: false
+draft: true
 weight: -5
 ---
 ## Consolidation Pause II
