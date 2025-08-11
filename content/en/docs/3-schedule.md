@@ -75,10 +75,10 @@ All work for a given module has to be completed and submitted before the next mo
 
 Please see [The Academic Year (Graduate and Undergraduate Studies) < Carleton University](https://calendar.carleton.ca/academicyear/#fall2025) for list of all significant dates.
 
-{{< alert theme="warning" >}}
+{{< notice success "Important" >}}
 Remembrance Day:
 Though not a statutory holiday or an official public holiday in Ontario, for this class, you are not obligated to do any coursework on November 11th, 2025. 
-{{< /alert >}}
+{{< /notice >}}
 
 ---
 ### When Life Intervenes
