@@ -51,7 +51,7 @@ The course was developed to encourage critical thinking about how *the digital* 
 
 ## Module Overview
 
-{{< alert theme="warning" >}}
+{{< alert theme="warning" color="danger" >}}
 All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted and **will receive a zero** _unless you obtain permission to submit your work late from Prof. Coleman_. Just talk with me if something comes up. I want you to succeed.
 {{< /alert >}}
 
