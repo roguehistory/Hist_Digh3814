@@ -2,6 +2,7 @@
 author = "Prof. Coleman"
 title = "Welcome to Week 2"
 date = "2024-09-08"
+draft = true
 #description = "Getting Started with Obsidian"
 
 
