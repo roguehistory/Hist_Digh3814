@@ -36,7 +36,7 @@ At the end of each week, **by Sunday evening, 11:59 pm**, you will submit to me 
 
 ### Tutorial Reflection (Sunday, September 14th, 11:59 PM)
 
-### Canvas Outline and Proposal (Friday, October 17th, 11:59 PM)
+### Canvas Outline and Proposal (Sunday, October 19th, 11:59 PM)
 
 ### Consolidation Weeks/Memex Evaluation (Dates listed below)
 
@@ -44,9 +44,11 @@ At the end of each module, you will submit a 'consolidation document'. Consolida
 
 + Module 1 consolidation document/Memex Evaluation: **due on Sunday, October 5th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Oct 3rd,11:59 pm_.
 + Module 2 consolidation document/Memex Evaluation: **due on Sunday, November 9th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Nov. 7th, 11:59 pm_.
-+ Module 3 consolidation document/Memex Evaluation: **due on Sunday, December 7th, 11:59 pm**; **_NO EXTENSIONS. FINAL WEEK OF THE SEMESTER. Please remember, submitting your final consolidation document by the assigned date will help me provide timely feedback for your Exit Ticket.
++ Module 3 consolidation document/Memex Evaluation: **due on Sunday, December 7th, 11:59 pm**; **_NO EXTENSIONS. FINAL WEEK OF THE SEMESTER.
 
 {{< alert theme="warning" >}}
+Please keep in mind that submitting your final consolidation document by the assigned date will help me provide timely feedback for your Exit Ticket.
+
 **Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. So, work done in this fashion cannot meet the learning goals of the course, which has negative implications for your grade. Please do not do this.
 {{< /alert >}}
 
@@ -85,7 +87,7 @@ September 14th: Tutorial reflection. 10%
 October 5th: First Memex Evaluation. 10%
 
 **Module 2: Total 30%**
-October 17th: Canvas Outline and proposal. 10%
+October 19th: Canvas Outline and proposal. 10%
 November 9th: Second Memex Evaluation. 20%
 
 **Module 3: Total 55%**
