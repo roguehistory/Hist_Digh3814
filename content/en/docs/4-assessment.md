@@ -5,16 +5,18 @@ date: 2020-01-28T00:38:59+09:00
 draft: false
 weight: 4
 ---
+
 {{< notice success "Important" >}}
 There is no midterm. There is no final exam.
 {{< /notice >}}
-### Weekly Work
 
-Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, **I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level**. What's more, it's OK if something doesn't work 'perfectly.' The reflection on the process, both your fails and your successes, is the important thing.
+## Weekly Work
 
-Weekly work should be completed and logged by the end of the relevant week into your Obsidian Vault. Prof. Coleman will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Late work can be accepted only through arrangement with Prof. Coleman.
+Each week, there are tasks for you to attempt. Sometimes there is a choice of which tasks to do; in those cases, **I'm not looking for the number of these that you complete, but that you push yourself out of your comfort level**. What's more, it's OK if something doesn't work 'perfectly.' The reflection on the process, both your failures and your successes, is crucial.
 
-If you miss a week, or something comes up let Prof. Coleman know as soon as possible so that arrangements can be made. I want you to be successful; if something comes up we can adapt accordingly. If you do not let me know, then I cannot help you.
+Weekly work should be completed and logged by the end of the relevant week (Sunday, 11:59 pm) into your Obsidian Vault. Prof. Coleman will provide ungraded feedback on this work in order to help you grow. There are three 'consolidation' weeks in the schedule, where you'll prepare a 'consolidation document' that will be graded. Just so you know – late work will only be accepted through arrangement with Prof. Coleman.
+
+If you miss a week, or something comes up, we can adapt accordingly. Please let Prof. Coleman know as soon as possible so that arrangements can be made. I want you to be successful; if you don't let me know, I won't be able to help you.
 
 ### Evidence for Your Weekly Logs (ungraded work)
 
@@ -22,34 +24,33 @@ I am looking for the following kinds of evidence (each [week](/week) will specif
 
 + logs/Obsidian notebook entry that keeps track of what you actually _did_
 + reflection on that _process_
-+ engagement with the materials and your classmates (which might be demonstrated many different ways)
++ engagement with the materials and your classmates (which might be demonstrated in many different ways)
 + evidence for your growth as a scholar over this course
++ Creating links between your notes using wikis or tags, and why these links were created.
 
-At the end of each week **by Sunday evening, 11:59 pm**, you will provide to me through a form that can be found on each weekly page the links to your evidence for me to consider.
-
-I will return feedback to you within two or three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it does play into your eventual final grade.
+At the end of each week, **by Sunday evening, 11:59 pm**, you will submit to me a link to your evidence for me to consider. This link will let me access your vault to see the work you have completed that week. I will send you feedback within three days. I will write you a short note giving you my perspective on what you've done (using the lens of the learning outcomes), and offering advice. **This weekly work is to help you grow**. It is not formally assigned a grade, but it does provide evidence of your growth against the learning outcomes, and your engagement with it will influence your final grade.
 
 {{< notice success "Important" >}}
-It might not be formally 'graded' weekly work. But it does count towards your grade, especially when you need to point to the evidence supporting your consolidation work or your exit ticket. So it matters that you do this conscientiously.
+**Remember,** weekly work might not be formally 'graded', but it does count towards your grade, especially when you need to point to the evidence supporting your consolidation work or your exit ticket. So it's essential that you do this conscientiously.
 {{< /notice >}}
 
 ### Consolidation Weeks (graded work)
 
-Every fourth week (that is, at the end of each module), you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again, or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback and considered it and adapted/adopted accordingly. These are short documents; they can reuse materials (suitably edited) from your journal and note entries. Show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module for you, based on how your work matches up against the learning outcomes for the course (see 'grading' below).
+At the end of each module, you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback, considered it, and adapted/adopted accordingly. These are short documents; they can reuse materials (*suitably edited*) from your journal and note entries and/or show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module, based on how your work aligns with the learning outcomes for the course (see 'grading' below). 
 
-+ Module 1 consolidation document: **due at the end of week four**; may be submitted in the following week _if you notify me in week four_.
-+ Module 2 consolidation document: **due at the end of week nine**; may be submitted in the following week _if you notify me in week eight_.
-+ Module 3 consolidation document: **due at the end of week thirteen**; may be submitted in the following week _if you notify me in week thirteen_.
++ Module 1 consolidation document: **due on Sunday, October 5th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Oct 3rd,11:59 pm_.
++ Module 2 consolidation document: **due on Sunday, November 9th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Nov. 7th, 11:59 pm_.
++ Module 3 consolidation document: **due on Sunday, December 7th, 11:59 pm**; **_NO EXTENSIONS. FINAL WEEK OF THE SEMESTER. CONSOLIDATION WORK TO BE SUBMITTED BY DECEMBER 7th, 11:59 pm_**.
 
 {{< alert theme="warning" >}}
-**Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. Thus, work done in this fashion cannot meet the learning goals of the course, with negative implications for your grade. Do not do this.
+**Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. So, work done in this fashion cannot meet the learning goals of the course, which has negative implications for your grade. Please do not do this.
 {{< /alert >}}
 
-### The Exit Ticket
+### The Exit Ticket (Due
 
 You will produce an '[exit ticket](week/12-5/instructions/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). You are **required** to explicitly tie your exit ticket to evidence collected in your weekly work. The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
-If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted: but you now know _what you didn't know before_. That's a win. You might be a computer science minor and the tech materials don't present you with much challenge: but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
+If you've never done digital work before, it might be that you never quite manage to get as many of the tech things working as you might've wanted. However, you now know _what you didn't know before_. **That's a win.** You might be a computer science minor and the tech materials don't present you with much challenge, but figuring out how to tell the compelling story was very difficult for you _but you're better at it now_. **WIN!** Your 'exit ticket' will explain to me your particular context, and it will point to the evidence that demonstrates how you've moved along from where you were at the beginning to where you are now.
 
 If I agree with your assessment, then that is the grade you will receive (thus, you have the opportunity to override the percentage breakdowns below).
 
