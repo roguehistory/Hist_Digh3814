@@ -2,7 +2,7 @@
 title: "M1 Wk3: Instructions"
 description: "Field work and ethical data collection II"
 date: 2020-01-28T00:10:42+09:00
-draft: false
+draft: True
 weight: -15
 ---
 
