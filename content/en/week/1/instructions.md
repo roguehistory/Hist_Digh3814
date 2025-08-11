@@ -47,7 +47,6 @@ Welcome to Crafting Digital History and Setting Up Your Digital Workspace. This 
 4. Join the private [class Hypothes.is group](https://hypothes.is/groups/yzzrnv9q/hist-digh3814) and make one annotation on the course syllabus using Hypothes.is. Make sure you are in the class's private group or your annotations will be made public for the world to see. Use the 3 w's: what is ‘weird’ (eg, unfamiliar to your experience or expectations), ‘wonderful’ (eg, makes you see your studies in a new or exciting way), or ‘worrying’ (eg, something that seems problematic to you)
 
 {{< notice success "When in Trouble" >}}
-> When/if you run into trouble, take screenshots (google how to do that for your particular machine) and these can be uploaded into your Obsidian vault as well. 
 
-> With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our Discord social space and ask for advice.
+When/if you run into trouble, take screenshots (google how to do that for your particular machine) and these can be uploaded into your Obsidian vault as well. With tech work, if it doesn't come together in about 30 minutes, it won't come in an hour. So take a break. Close the laptop. Call somebody up for help. Find another pair of eyes to look at the problem. I don't want to hear that you laboured heroically for 2 hours to do something. Jump into our Discord social space and ask for advice.
 {{< notice success />}}
