@@ -16,7 +16,7 @@ This week, consider a historical or archaeological topic you are interested in a
 {{< /notice >}}
 
 ### **Overview**
-1) **Plugin of the Week:** **Core Plugins and Hypothes.is**
+1) **Plugin of the Week:** **Relay & Hypothes.is**
 
 2) **Rationale:** To familiarize yourself with the core functionality of Obsidian and Markdown language. Installing Mixa allows you to see from day one how your private vault can be transformed into a public-facing website, framing the purpose of the course. DO NOT STRESS if it does not work. I have a tutorial for you to follow. If that doesn't work, please contact me and I'll walk you through it. 
 
