@@ -1,7 +1,7 @@
 +++
 author = "Prof. Coleman"
 title = "And We're Off!"
-date = "2025-09-03"
+date = "2024-09-03"
 #description = "Class Begins"
 image = "images/bike-race.png"
 +++
