@@ -63,7 +63,7 @@ Though not a statutory holiday or an official public holiday in Ontario, for thi
 **Week Two:** [Sept. 8th, 2025. Obsidian.md and Practical Applications for Historical Research?](/week/2/instructions)
 **Week Three:** [Sept. 15th, 2025. Thinking about the 'Craft' of Digital History in Academic and Public Spaces.](/week/3/instructions)
 **Week Four:** [Sept. 22nd, 2025. Crusading in the Digital Age. AI and Digital History.](/week/4/instructions)
-**Week Five:** [Sept. 29th, 2025. Consolidation and Check-In Week. **Project Proposal Due.**](/week/5/instructions)
+**Week Five:** [Sept. 29th, 2025. Consolidation and Check-In Week.](/week/5/instructions)
 
 ## Module Two: Wrangling / Critiquing
 **_Personal Knowledge Management and Linked Thinking._**
@@ -72,7 +72,7 @@ Though not a statutory holiday or an official public holiday in Ontario, for thi
 **Week Seven:** [Oct. 13th, 2025. Defining Data, 'Dark' Data, and Identifiers](/week/7/instructions)
 **Week Eight: Oct. 20-24, 2025. Fall Break - No Classes**
 **Week Nine:** [Oct. 27th, 2025. Visualization and Multimedia Sources](/week/9/instructions)
-**Week Ten:** [November. 3rd, 2025. Consolidation and Check-In Week. **Project Update Due**](/week/10/instructions)
+**Week Ten:** [November. 3rd, 2025. Consolidation and Check-In Week.](/week/10/instructions)
 
 ## Module Three: Arguing / Communicating
 **_Historical Data on the Web and Narrative Production_** 
@@ -80,7 +80,7 @@ Though not a statutory holiday or an official public holiday in Ontario, for thi
 **Week Eleven:** [Nov. 10th, 2025. Crafting a Historical Argument in a Digital Medium.](/week/11/instructions)
 **Week Twelve:** [Nov. 17th, 2025. Museums Gone Digital: The Ethics and Practice of Public Digital History.](/week/12/instructions)
 **Week Thirteen:** [Nov. 24th, 2025. Podcasts as Digital Public History.](/week/13/instructions)
-**Week Fourteen:** [December 5th, 2025. Final Consolidation Week. **End of Term: Exit Ticket Due**.](/week/14/instructions) 
+**Week Fourteen:** [December 5th, 2025. Final Consolidation Week.](/week/14/instructions) 
 
 **_You Did It! Congratulations!_**
 
