@@ -3,7 +3,7 @@ author = "Prof. Coleman"
 title = "Welcome to Week 2"
 date = "2025-09-08"
 #description = "Getting Started with Obsidian"
-draft = false
+
 
 image = "images/ObsidianImages/obsidian-icon.png"
 +++
