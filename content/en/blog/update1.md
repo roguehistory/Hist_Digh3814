@@ -3,6 +3,7 @@ author = "Prof. Coleman"
 title = "And We're Off!"
 date = "2024-09-03"
 #description = "Class Begins"
+draft = true
 image = "images/bike-race.png"
 +++
 
