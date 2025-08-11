@@ -6,9 +6,9 @@ draft: false
 weight: -12
 Authors: Coleman 2025
 ---
-
-# Module 1: Contextualizing. 
 ## Week 1 (September 3rd-5th, 2025) Setting Up Your Digital Workspace
+
+![I have a Dream](/images/i-have-a-dream.png)
 
 **Objectives**
 1. Getting Obsidian set up
