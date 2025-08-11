@@ -9,7 +9,7 @@ weight: 3
 
 ## General Overview
 
-{{< alert theme="warning" >}}
+{{< alert "Warning" theme="danger" >}}
 **The syllabus may change and will likely change depending on the course's progress.**
 **Refer to the [weekly instructions](/week) for detailed guidance on your weekly tasks.**
 {{< /alert >}}
@@ -51,7 +51,7 @@ The course was developed to encourage critical thinking about how *the digital* 
 
 ## Module Overview
 
-{{< notice success "Important" color="danger >}}
+{{< notice success "Important" >}}
 All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted and **will receive a zero** _unless you obtain permission to submit your work late from Prof. Coleman_. Just talk with me if something comes up. I want you to succeed.
 {{< /notice >}}
 
