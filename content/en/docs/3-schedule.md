@@ -69,20 +69,20 @@ Though not a statutory holiday or an official public holiday in Ontario, for thi
 **_Personal Knowledge Management and Linked Thinking._**
 
 **Week Six:** [October. 6th, 2025. Archaeology and the Digital](/week/6/instructions)
-**Week Seven:** [Oct. 13th, 2025. Defining Data, 'Dark' Data, and ](/week/7/instructions)
-**Week Eight:** Oct. 20-24 , 2025. Fall Break - No Classes
-**Week Nine:** Oct. 27th, 2025. [Consolidation Week/Check-In](/week/9/instructions)
+**Week Seven:** [Oct. 13th, 2025. Defining Data, 'Dark' Data, and Identifiers](/week/7/instructions)
+**Week Eight: Oct. 20-24, 2025. Fall Break - No Classes**
+**Week Nine:** [Oct. 27th, 2025. Visualization and Multimedia Sources](/week/9/instructions)
+**Week Ten:** [November. 3rd, 2025. Consolidation and Check-In Week. **Project Update Due**](/week/10/instructions)
 
 ## Module Three: Arguing / Communicating
 **_Historical Data on the Web and Narrative Production_** 
 
-**Week Ten:** [November. 3rd, 2025. Data and 'Dark' Data.](/week/10/instructions)
-**Week Eleven:** [Nov. 10th, 2025. Alternative Digital Histories.](/week/11/instructions)
-**Week Twelve:** [Nov. 17th, 2025. Crusading into the Digital Age: AI and Medieval History.](/week/12/instructions)
-**Week Thirteen:** [Nov. 24th, 2025. Consolidation Week/Check-In.](/week/13/instructions)
+**Week Eleven:** [Nov. 10th, 2025. Crafting a Historical Argument in a Digital Medium.](/week/11/instructions)
+**Week Twelve:** [Nov. 17th, 2025. Museums Gone Digital: The Ethics and Practice of Public Digital History.](/week/12/instructions)
+**Week Thirteen:** [Nov. 24th, 2025. Podcasts as Digital Public History.](/week/13/instructions)
+**Week Fourteen:** [December 5th, 2025. Final Consolidation Week. **End of Term: Exit Ticket Due**.](/week/14/instructions) 
 
-## Exit Ticket: You Did It!
-**Week Fourteen:** [December 5th, 2025. End of Term: Exit Ticket Due](/week/14/instructions) *The last thing you'll do for this course*
+**_You Did It! Congratulations!_**
 
 
 
