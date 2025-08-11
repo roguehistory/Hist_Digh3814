@@ -9,19 +9,32 @@ weight: 2
 ### Learning Outcomes:
 
 {{< alert theme="info" >}}
-**NB** This is my first time teaching an asynchronous course. The process of teaching is also a process of collaboration between me and you -- The "WE" factor -- as mentioned in the [You are not Alone](https://craftingdigitalhistory.netlify.app/docs/1-coursedescription/#:~:text=plan%20of%20action.-,You%20are%20not%20alone!,-This%20class%20will) section of the course description.  Sometimes things won't work as we expect; technology might break; the world might intrude too much. We will adapt accordingly. Remember: the grade in this course is a function of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
+**NB** This is my first time teaching an asynchronous course. The process of teaching is also a process of collaboration between me and you -- The "WE" factor -- as mentioned in the [You are not Alone](https://craftingdigitalhistory.netlify.app/docs/1-coursedescription/#:~:text=plan%20of%20action.-,You%20are%20not%20alone!,-This%20class%20will) section of the course description.  Sometimes things won't work as we expect; technology might break; the world might intrude too much. We will adapt accordingly. Remember: the grade in this course is a reflection of your process and your evolution, so adapting and thinking through the implications of when things don't go according to plan is, in fact, _according to plan_.
 {{< /alert >}}
 
-The five points below address your _analytical ability_, your engagement with _methodology_, _collaboration_, _argumentation_, and _professionalization_.
+Here are the official History Department Learning Outcomes:
+
+1. Understand and explain historical events, people, institutions, movements, and ideas over several
+periods of the past and over several regions of the world.
+2. Analyze and assess historical documents, artifacts, and other primary sources.
+3. Evaluate historical arguments and historical scholarship
+4. Recognize and apply historical methods to make historical arguments.
+5. Conduct independent research using primary sources and historical scholarship
+6. Express in writing the results of historical thinking and research.
+7. Demonstrate professional skills in a workplace context.
+
+{{< alert theme="info" >}}
+The following five points are how I will assess your work while addressing the learning outcomes for the course. They are as follows: your _analytical ability_, your engagement with _methodology_, _collaboration_, _argumentation_, and _professionalization_.
 
 1. Situate the emergence and evolution of digital history and archaeology within the historiography of each discipline more broadly (_analytical ability, argumentation_)
 2. Implement and contribute to a digital history or archaeology of the ancient or medieval world (_methodology, collaboration, professionalization_)
 3. Investigate data, material culture, and primary sources, using the methods/techniques/perspectives of digital history, archaeology and digital humanities (_analytical ability, methodology, collaboration, professionalization_)
 4. Develop online experiences that communicate the results of these investigations as an act of public digital history and archaeology (_collaboration, professionalization, argumentation_)
 5. Given that this is an asynchronous online course, another outcome will be your ability to conduct such research independently. However, no one operates in a vacuum; digital historians and archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (_collaboration, professionalization, methodology_)
+{{< /alert >}}
 
 ---
-### Questions to think about
+### More Questions to think about
 
 > What impact(s) does the ‘Digital’ have on the production of ancient and medieval history for public consumption? 
 
