@@ -1,15 +1,16 @@
 ---
 title: "M1 Wk1: Instructions"
-description: "Module 1: Contextualizing"
+description: "Setting Up Your Digital Workspace"
 date: 2025-07-17
 draft: false
 weight: -12
 Authors: Coleman 2025
 ---
 
-# Module 1: Contextualizing
+# Module 1: Contextualizing. 
+## Week 1 (September 3rd-5th, 2025) Setting Up Your Digital Workspace
 
-### Week 1 (September 3rd-5th, 2025) Getting started.
+This module is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore various ancient and medieval history sources and the various digital methodologies and theories they apply in their respective fields. We conclude the module with an experiential learning Case Study, where we apply what we have learned from the previous weeks to a tangible project. These Case Studies focus on the methods and theory of digital history-making, rather than a definitive end product. By the end of Module One, students should have gained a general understanding of the development of history and archaeology under the auspices of digital humanities.
 
 **Objectives**
 1. Getting Obsidian set up
