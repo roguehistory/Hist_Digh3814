@@ -10,7 +10,7 @@ weight: -13
 
 ## Module One: **How historians work/think in the digital age.**
 
-![Nodes and Edges.png](/images/ObsidianImages/Nodes and Edges.png)
+![Nodes and Edges.png](/images/ObsidianImages/NodesandEdges.png)
 
 This module is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore the various digital methodologies and theories that are applied in their respective fields. Week one is all about familiarizing yourself with the syllabus and setting up your digital notebook. 
 
