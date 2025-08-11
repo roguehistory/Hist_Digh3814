@@ -51,9 +51,9 @@ The course was developed to encourage critical thinking about how *the digital* 
 
 ## Module Overview
 
-{{< alert theme="warning" color="danger" >}}
+{{< notice success "Important" color="danger >}}
 All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted and **will receive a zero** _unless you obtain permission to submit your work late from Prof. Coleman_. Just talk with me if something comes up. I want you to succeed.
-{{< /alert >}}
+{{< /notice >}}
 
 ### **Module One: Contextualizing (weeks 1 - 5).** 
 **How historians work/think in the digital age.** This module is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore various ancient and medieval history sources and the various digital methodologies and theories they apply in their respective fields. We conclude the module with an experiential learning Case Study, where we apply what we have learned from the previous weeks to a tangible project. These Case Studies focus on the methods and theory of digital history-making, rather than a definitive end product. By the end of Module One, students should have gained a general understanding of the development of history and archaeology under the auspices of digital humanities. 
