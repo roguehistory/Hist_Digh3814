@@ -18,3 +18,9 @@ So welcome aboard; explore the site; get set up with all the bits and bobs under
 Take your time, try things in small chunks, ask for help. **You don't have to do this alone!**
 
 (Featured image by [Paolo Candelo](https://unsplash.com/photos/53B17GiIhTA))
+
+{{< css.inline >}}
+<style>
+.canon { background: white; width: 100%; height: auto;}
+</style>
+{{< /css.inline >}}
