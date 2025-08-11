@@ -1,7 +1,7 @@
 +++
 author = "Prof. Coleman"
 title = "Welcome to Week 2"
-date = "2025-09-08"
+date = "2024-09-08"
 #description = "Getting Started with Obsidian"
 
 
