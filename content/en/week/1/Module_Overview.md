@@ -8,7 +8,8 @@ weight: -13
 ---
 
 
-## Module One: **How historians work/think in the digital age.**
+## Module One: Contextualizing
+**How historians work/think in the digital age.**
 
 ![Nodes and Edges](/images/ObsidianImages/BandWNodes.jpeg)
 
