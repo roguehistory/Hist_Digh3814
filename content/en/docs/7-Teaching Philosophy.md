@@ -14,6 +14,8 @@ A problem with a fully online course is _isolation_. Working with digital tools 
 {{< notice success "Important" >}} 
 **Generous Thinking is "a mode of engagement that emphasizes listening over speaking, community over individualism, collaboration over competition, and lingering with the ideas that are in front of us rather than continually pressing forward to where we want to go." (Fitzpatrick, 2019: 13)**
 
+**"To fail productively would mean an honest assessment of what actually happened. To fail gloriously would be to change the system so that honesty would not be seen as a radical act." (Shawn Graham 2019: 4)**
+
 Digital History/Archaeology is a team sport and is never produced in a vacuum. You are **never** expected to power through all of this material on your own in a heroic scholarly endeavour. There is something to be said for slow scholarship. What that is, I want us to explore that in this course. So, if you need help, ask for help; if you can help, offer it. [**You are not alone**](https://craftingdigitalhistory.netlify.app/docs/1-coursedescription/#:~:text=plan%20of%20action.-,You%20are%20not%20alone!,-This%20class%20will).
 {{< /notice >}}
 
