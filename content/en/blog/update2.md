@@ -13,4 +13,4 @@ image = "images/ObsidianImages/obsidian-icon.png"
 
 ## Welcome to Week 2!
 
-
+Welcome
