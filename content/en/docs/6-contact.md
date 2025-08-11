@@ -14,19 +14,15 @@ draft: false
 
 Professor Coleman can be found either at
 
-### Office Hours:
-**TBD**
+### Office Hours (Virtual via Discord or Zoom):
+Monday and Wednesday 12:30-1:30 pm 
+**or**
+By Appointment.
 
 ## E-Contact
 #### Email:
 scottcoleman@cmail.carleton.ca 
 or 
-#### Twitter:
-[Scott Coleman, M.A. (@scottcoleman79) / X](https://twitter.com/scottcoleman79)
-or
-#### Discord:
+#### Discord (Privately or Class Channel):
 scottcoleman79: I will **try** to be present in our class Discord server every day between 10 a.m. to 3 p.m.
-or 
-#### Blog:
-www.roguehistory.ca 
-[RogueHistoryNotes](https://publish.obsidian.md/roguenotes/00+Welcome/01+Rogue+History+Notes)
+
