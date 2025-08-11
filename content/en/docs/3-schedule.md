@@ -9,10 +9,10 @@ weight: 3
 
 ## General Overview
 
-{{< alert "Warning" theme="danger" >}}
+{{< notice success "Warning" >}}
 **The syllabus may change and will likely change depending on the course's progress.**
 **Refer to the [weekly instructions](/week) for detailed guidance on your weekly tasks.**
-{{< /alert >}}
+{{< /notice >}}
 
 The course was developed to encourage critical thinking about how *the digital* affects historical, archaeological, and curatorial practices in various collaborative environments. Each week, you will complete various exercises to the best of your ability, documenting your process and progress in a weekly log that you will keep online using Obsidian. Students are expected to complete the readings, listen to the podcasts, and participate in discussions. In the first week, you will set up your 'Digital Memex' in [Obsidian.md](https://obsidian.md/) and utilize [Hypothes.is](https://craftingdigitalhistory.netlify.app/week/1/hypothesis/) to annotate required readings, podcasts and videos when necessary. Consolidation/Memex evaluations are required to be completed by Sunday, 11:59 pm, of the relevant week. An Exit Ticket is due at the end of the course. See the [assessment page for further details](docs/4-assessment).
 
@@ -75,8 +75,7 @@ All work for a given module has to be completed and submitted before the next mo
 
 Please see [The Academic Year (Graduate and Undergraduate Studies) < Carleton University](https://calendar.carleton.ca/academicyear/#fall2025) for list of all significant dates.
 
-{{< notice success "Important" >}}
-Remembrance Day:
+{{< notice success "Remembrance Day" >}}
 Though not a statutory holiday or an official public holiday in Ontario, for this class, you are not obligated to do any coursework on November 11th, 2025. 
 {{< /notice >}}
 
