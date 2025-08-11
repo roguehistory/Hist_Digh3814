@@ -9,13 +9,16 @@ weight: 3
 
 ## Course Structure: 
 
-The course was developed to encourage critical thinking about how *the digital* affects historical, archaeological, and curatorial practices in various collaborative environments. Each week, students are expected to complete the readings, listen to the podcasts, and participate in discussions. Week one provides a general introduction to the course, covering the course's overarching themes, objectives, goals, and assessments. You will set up your 'Digital Garden' in [Obsidian.md](https://obsidian.md/) and [Hypothes.is](https://craftingdigitalhistory.netlify.app/week/1/hypothesis/).
+The course was developed to encourage critical thinking about how *the digital* affects historical, archaeological, and curatorial practices in various collaborative environments. Each week, students are expected to complete the readings, listen to the podcasts, and participate in discussions. Week one provides a general introduction to the course, covering the course's overarching themes, objectives, goals, and assessments. You will set up your 'Digital Memex' in [Obsidian.md](https://obsidian.md/) and utilize [Hypothes.is](https://craftingdigitalhistory.netlify.app/week/1/hypothesis/) to annotate required readings, podcasts and videos when necessary.
 
-**Module One (weeks 1 - 4). How historians work/think in the digital age,** is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore Roman history through various digital methodologies and theories. We conclude the module with an experiential learning Case Study, where we apply what we have learned from the previous weeks to a tangible project. These Case Studies focus on the process of digital history-making, rather than a definitive end product. By the end of Module One, students should have gained a general understanding of the development of history and archaeology under the auspices of digital humanities. 
+### **Module One: Contextualizing (weeks 1 - 4).** 
+**How historians work/think in the digital age.** This module is a method and theory-driven module that introduces students to the concepts and themes in academic history, public history, archaeology and digital humanities. We will explore various ancient and medieval history sources and the various digital methodologies and theories they apply in their respective fields. We conclude the module with an experiential learning Case Study, where we apply what we have learned from the previous weeks to a tangible project. These Case Studies focus on the methods and theory of digital history-making, rather than a definitive end product. By the end of Module One, students should have gained a general understanding of the development of history and archaeology under the auspices of digital humanities. 
 
-**Module Two (weeks 5-9) Personal Knowledge Management and Linked Thinking** 
+### **Module Two: Wrangling/Critiquing (weeks 5 - 9).**
+**Personal Knowledge Management and Linked Thinking.** 
 
-**Module Three (weeks 10-14) Historical Data on the Web and What is Accessible?** What does it mean for *data* to be 'accessible' in digital history/archaeology? How is data (or dark data) defined?  
+### **Module Three: Arguing/Communicating (weeks 10-14).**
+**Historical Data on the Web and Narrative Production?** What does it mean for *data* to be 'accessible' in digital history/archaeology? How is data (or dark data) defined?  
 
 ### When Life Intervene
 
@@ -28,35 +31,45 @@ The course was developed to encourage critical thinking about how *the digital* 
 **The syllabus may change and will likely change depending on the course's progress.**
 **Refer to the [weekly instructions](/week) for detailed guidance on your weekly tasks.**
 
-Each week, you will complete various exercises to the best of your ability, documenting your progress in a weekly log that you will keep online using Obsidian.md. Log entries are required to be completed by Sunday, 11:59 pm, at the end of the relevant work. A final reflection piece is due at the end of the course. See the [assessment page for further details](docs/4-assessment).
+Each week, you will complete various exercises to the best of your ability, documenting your process and progress in a weekly log that you will keep online using Obsidian.md. Log entries are required to be completed by Sunday, 11:59 pm, of the relevant work. A final reflection piece is due at the end of the course. See the [assessment page for further details](docs/4-assessment).
 
 Some exercises are collaborative for the class as a whole. Some are individual. There will sometimes be a choice of exercise.
 
 [This Google spreadsheet lays out the work by the week](https://docs.google.com/spreadsheets/d/1xvC65vLjJbByRnjxrwYlCZnsmfFNOpJMkJ5kp9a_WTs/edit?usp=sharing).
 
 {{< alert theme="warning" >}}
-All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted _unless you obtain permission from Prof. Coleman_. Just talk with him, if something comes up.
+All work for a given module has to be completed and submitted before the next module begins. Late work cannot be accepted _unless you obtain permission from Prof. Coleman_. Just talk with me if something comes up.
 {{< /alert >}}
+
+## Important Dates
 
 **September 3rd, 2025** first day of Fall Term
 **October 13th, 2025** Holiday. University closed
 **October 20-24th, 2025** Fall break, no classes
+**November 11th, 2025** Remembrance Day
 **December 5th 2025** Fall term ends
+
+Please see [The Academic Year (Graduate and Undergraduate Studies) < Carleton University](https://calendar.carleton.ca/academicyear/#fall2025) for list of all significant dates.
+
+{{< alert theme="warning" >}}
+Remembrance Day:
+Though not a statutory holiday or an official public holiday in Ontario, for this class, you are not obligated to do any coursework on November 11th, 2025. 
+{{< /alert >}}
 
 ## Module One: Contextualizing
 **_How historians work/think in the digital age._**
 
 **Week One:** [September 3rd, 2025. Course Introduction and Digital Set Up.](/week/1/instructions)
-**Week Two:** [Sept. 8th, 2025. What is Digital History/Archaeology/Public History?](/week/2/instructions)
-**Week Three:** [Sept. 15th, 2025. Performing Digital Medieval History in Academic and Public Spaces.](/week/3/instructions)
-**Week Four:** [Sept. 22nd, 2025. Consolidation Week/Check-In.](/week/4/instructions)
+**Week Two:** [Sept. 8th, 2025. Obsidian.md and Practical Applications for Historical Research?](/week/2/instructions)
+**Week Three:** [Sept. 15th, 2025. Thinking about the 'Craft' of Digital History in Academic and Public Spaces.](/week/3/instructions)
+**Week Four:** [Sept. 22nd, 2025. Crusading in the Digital Age. AI and Digital History.](/week/4/instructions)
+**Week Five:** [Sept. 29th, 2025. Consolidation and Check-In Week. **Project Proposal Due.**](/week/5/instructions)
 
 ## Module Two: Wrangling / Critiquing
 **_Personal Knowledge Management and Linked Thinking._**
 
-**Week Five:** [Sept. 29th, 2025. Personal Knowledge Management and Linking Your Thinking.](/week/5/instructions)
-**Week Six:** [October. 6th, 2025. Situating Byzantium vs East Roman history in Digital Spaces.](/week/6/instructions)
-**Week Seven:** [Oct. 13th, 2025. Archaeology, Artifacts and Their Digital Twins](/week/7/instructions)
+**Week Six:** [October. 6th, 2025. Archaeology and the Digital](/week/6/instructions)
+**Week Seven:** [Oct. 13th, 2025. Defining Data, 'Dark' Data, and ](/week/7/instructions)
 **Week Eight:** Oct. 20-24 , 2025. Fall Break - No Classes
 **Week Nine:** Oct. 27th, 2025. [Consolidation Week/Check-In](/week/9/instructions)
 
