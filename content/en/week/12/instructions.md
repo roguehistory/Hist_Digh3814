@@ -2,7 +2,7 @@
 title: "M3 Wk12: Instructions"
 description: "Consolidation III"
 date: 2020-01-28T00:10:37+09:00
-draft: false
+draft: true
 weight: -1
 ---
 ## Consolidation Pause III
