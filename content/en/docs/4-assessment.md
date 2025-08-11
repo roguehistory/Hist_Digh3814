@@ -34,19 +34,23 @@ At the end of each week, **by Sunday evening, 11:59 pm**, you will submit to me 
 **Remember,** weekly work might not be formally 'graded', but it does count towards your grade, especially when you need to point to the evidence supporting your consolidation work or your exit ticket. So it's essential that you do this conscientiously.
 {{< /notice >}}
 
-### Consolidation Weeks (graded work)
+### Tutorial Reflection (Sunday, September 14th, 11:59 PM)
+
+### Canvas Outline and Proposal (Friday, October 17th, 11:59 PM)
+
+### Consolidation Weeks/Memex Evaluation (Dates listed below)
 
 At the end of each module, you will submit a 'consolidation document'. Consolidation weeks give you the space to try something again or finish doing something that you had to put aside earlier. This document is where you can show me that you've taken my feedback, considered it, and adapted/adopted accordingly. These are short documents; they can reuse materials (*suitably edited*) from your journal and note entries and/or show evidence by linking to your repository materials. I would like you to suggest an overall grade for the module, based on how your work aligns with the learning outcomes for the course (see 'grading' below). 
 
-+ Module 1 consolidation document: **due on Sunday, October 5th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Oct 3rd,11:59 pm_.
-+ Module 2 consolidation document: **due on Sunday, November 9th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Nov. 7th, 11:59 pm_.
-+ Module 3 consolidation document: **due on Sunday, December 7th, 11:59 pm**; **_NO EXTENSIONS. FINAL WEEK OF THE SEMESTER. CONSOLIDATION WORK TO BE SUBMITTED BY DECEMBER 7th, 11:59 pm_**.
++ Module 1 consolidation document/Memex Evaluation: **due on Sunday, October 5th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Oct 3rd,11:59 pm_.
++ Module 2 consolidation document/Memex Evaluation: **due on Sunday, November 9th, 11:59 pm**; may be submitted in the following week _if you notify me by Friday, Nov. 7th, 11:59 pm_.
++ Module 3 consolidation document/Memex Evaluation: **due on Sunday, December 7th, 11:59 pm**; **_NO EXTENSIONS. FINAL WEEK OF THE SEMESTER. Please remember, submitting your final consolidation document by the assigned date will help me provide timely feedback for your Exit Ticket.
 
 {{< alert theme="warning" >}}
 **Do not attempt to speedrun this course**. By 'speedrun' I mean, you leave it until the end and try to do all of the work in one intense session. Work done in that fashion cannot, by virtue of it all being dumped in my lap at the end of the course, take into account feedback, peer collaboration, or have any meaningful engagement with the materials. So, work done in this fashion cannot meet the learning goals of the course, which has negative implications for your grade. Please do not do this.
 {{< /alert >}}
 
-### The Exit Ticket (Due
+### The Exit Ticket (Due December 15th, 11:59 PM).
 
 You will produce an '[exit ticket](week/12-5/instructions/)' for me at the end of the course (open format) reflecting on where you started and where you've gotten to, and you will indicate how you feel you've done against the [learning outcomes](docs/2-learning-outcomes). You are **required** to explicitly tie your exit ticket to evidence collected in your weekly work. The exit ticket is a summary assessment exercise that will pull all the different strings together into a strong cord. **Everyone's journey is different**. Digital methods are more a matter of practice and time than they are of aptitude.
 
@@ -55,8 +59,6 @@ If you've never done digital work before, it might be that you never quite manag
 If I agree with your assessment, then that is the grade you will receive (thus, you have the opportunity to override the percentage breakdowns below).
 
 **When I have disagreed in previous courses** this has been, 9.5 times out of 10, to _raise_ the grade: y'all are too hard on yourselves. If I have disagreed and felt that you've overstated things - if you were the 0.5 out of 10 - we would talk and come to an agreement.
-
-The Exit Ticket should be submitted within one week of the last day of the fall term.
 
 ### Grading
 
@@ -76,11 +78,19 @@ Remembering the [learning outcomes](docs/2-learning-outcomes),
 In this example, based on my consideration of Jo Q Student's evidence and the feedback I'd written her over the six weeks, it seemed to me that she did what she needed to do (satisfactorily) for 3 out of the 5 outcomes and so earned a C. However, her exit ticket might bring her up.
 {{< /alert >}}
 
-### Percentage Breakdown
+### Percentage Breakdown and Due Dates
 
-I am required by the University to provide a percentage breakdown.
+**Module One: Total 20%**
+September 14th: Tutorial reflection. 10%
+October 5th: First Memex Evaluation. 10%
 
-Consolidation documents = 75%
-Final Exit ticket = 25%
+**Module 2: Total 30%**
+October 17th: Canvas Outline and proposal. 10%
+November 9th: Second Memex Evaluation. 20%
+
+**Module 3: Total 55%**
+December 7th: Third and Final Memex Evaluation. 20%
+December 15th: Exit Ticket (Includes final reflection paper (10%), .zip file of your Memex (10%), and public-facing
+project (10%)). 30%
 
 I reserve the right to adjust those percentages to take into account the particular circumstances of the student.
