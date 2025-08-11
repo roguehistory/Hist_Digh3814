@@ -2,7 +2,7 @@
 title: "M1 Wk4: Instructions"
 description: "Consolidation I"
 date: 2020-01-28T00:10:37+09:00
-draft: false
+draft: true
 weight: -9
 ---
 ## Consolidation Pause I
