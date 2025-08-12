@@ -2,7 +2,7 @@
 title: "M1 Wk3: Instructions"
 description: "Field work and ethical data collection II"
 date: 2020-01-28T00:10:42+09:00
-draft: True
+draft: false
 weight: -15
 ---
 
@@ -22,9 +22,9 @@ weight: -15
 **"While debates have raged over whether digital humanities is a discipline, a field, a methodological toolkit, or some combination of these, the term broadly articulates a connection between computation, digital tools and media, and humanities based inquiry" (Risam 2019: 6).**
 {{< /notice >}}
 
-### **Overview**
+## **Overview**
 
-**Week 3: Crafting Digital History in Academic and Public Spaces**
+### Crafting Digital History in Academic and Public Spaces
 **Theme:** What does it mean to 'Craft' Digital History? This week introduces the core concepts of digital history, digital public history and the foundational practice of creating linked notes.
  **Plugin of the Week:** **Templater & Hypothes.is** (Community Plugins).
 	* **Optional Plugin: PDF ++** This plugin allows your to annotate PDFs within your Obsidian vault.
