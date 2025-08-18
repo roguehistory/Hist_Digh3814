@@ -7,8 +7,7 @@ weight: -12
 Authors: Coleman 2025
 ---
 
-## Obsidian.md and Practical applications for historical research.
-### Week Two (Sept. 15-19, 2025)
+## Week Two (Sept. 15-19, 2025). Obsidian.md and Practical applications for historical research.
 
 This week, consider a historical or archaeological topic you are interested in and begin exploring this topic with [Obsidian.md](https://obsidian.md/). 
 
